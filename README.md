@@ -50,4 +50,4 @@ Third-party advertising networks may transfer and process technical device ident
 We may update this Worldwide Privacy Policy periodically to align with changing mobile platform rules and international legal updates. We recommend checking this page routinely. Updates are active immediately upon being published to this public URL.
 
 ## 9. Contact Information
-If you have any questions, regulatory inquiries, or feedback regarding our global commitment to an AI-free, local privacy architecture, please contact us via email at: **[YOUR_DEVELOPER_EMAIL@EXAMPLE.COM]**
+If you have any questions, regulatory inquiries, or feedback regarding our global commitment to an AI-free, local privacy architecture, please contact us via email at: lrodeveloperr@gmail.com
