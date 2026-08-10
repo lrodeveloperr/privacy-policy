@@ -3,18 +3,15 @@
 **Effective date:** 10 August 2026  
 **Last updated:** 10 August 2026
 
-These Purchase and Subscription Terms supplement the [Terms of Use](TERMS-OF-USE.md). They apply when paid products are enabled in the production App. Apple and Google are the merchants or payment processors for store transactions under their applicable terms.
+These Purchase and Subscription Terms supplement the [Terms of Use](TERMS-OF-USE.md). They apply when paid products are enabled in the production App. Apple and Google process store transactions under their applicable terms.
 
 ## 1. Free access
 
-Unless the App or store listing clearly states otherwise before use, the free allowance is:
+Unless the App or store listing clearly states otherwise before use, the free allowance is **five completed delivery checks per calendar month**. Existing completed records and supplier templates remain available for viewing and reuse; the completion limit is the free-use boundary.
 
-- five completed delivery checks per calendar month; and
-- up to two supplier templates.
+A calendar month is determined using the device's local calendar. Starting a check does not consume the allowance unless it is completed. A draft started in one month and completed in another counts in the month of completion. Reinstalling, changing the device clock, clearing data or otherwise manipulating the App to avoid a limit is prohibited.
 
-A calendar month is determined using the device's local calendar. Starting a check does not consume the allowance unless it is completed. Reinstalling, changing the device clock, clearing data or otherwise manipulating the App to avoid a limit is prohibited.
-
-Reaching the free limit does not delete existing records. Existing completed checks, recovery records and generated PDFs remain readable and exportable. Paid access increases capacity; it does not change the calculation method or accuracy of an individual check.
+Reaching the free limit does not delete existing records. Existing completed checks, recovery records and generated PDFs remain readable and exportable. Paid access increases completion capacity; it does not change the calculation method or accuracy of an individual check.
 
 ## 2. Android subscription
 
@@ -23,9 +20,9 @@ On Android, SupplyCheck Local may offer:
 - a monthly auto-renewing subscription; and
 - an annual auto-renewing subscription.
 
-The current US reference prices are US$4.99 per month and US$34.99 per year. Google Play displays the exact price, currency, tax treatment, billing period and any offer before you confirm. The Google Play checkout information controls.
+The current US reference prices are **US$4.99 per month** and **US$34.99 per year**. Google Play displays the exact price, currency, tax treatment, billing period and any offer before you confirm. The Google Play checkout information controls.
 
-An active Android subscription provides unlimited completed checks and supplier templates during the paid entitlement period. It does not provide cloud storage, shared accounts, supplier integration, accounting integration or cross-platform access.
+An active Android subscription provides unlimited completed checks during the paid entitlement period, including continued use of supplier-template and recovery workflows. It does not provide cloud storage, shared accounts, supplier integration, accounting integration or cross-platform access.
 
 The subscription renews automatically for the same billing period until cancelled, unless Google Play states otherwise. Google Play charges the payment method associated with your Google account according to its checkout disclosures and terms. A price change is handled under Google Play's notice and consent rules and applicable law.
 
@@ -33,13 +30,13 @@ Cancellation stops future auto-renewal. Unless a refund, revocation, account hol
 
 ## 3. Apple lifetime unlock
 
-On Apple platforms, SupplyCheck Local may offer one non-consumable, one-time lifetime unlock. The current US reference price is US$39.99. Apple displays the exact price, currency and tax treatment before you confirm; Apple's checkout information controls.
+On Apple platforms, SupplyCheck Local may offer one non-consumable, one-time lifetime unlock. The current US reference price is **US$39.99**. Apple displays the exact price, currency and tax treatment before you confirm; Apple's checkout information controls.
 
-The Apple lifetime unlock is not a subscription and does not renew. It unlocks unlimited checks and supplier templates for the Apple version while the App remains available and compatible, subject to the App licence and these Terms. "Lifetime" means the lifetime of the supported Apple product, not the purchaser's lifetime, and does not guarantee perpetual App Store availability, compatibility with future hardware or operating systems, or development of future features.
+The Apple lifetime unlock is not a subscription and does not renew. It unlocks unlimited completed checks for the Apple version while the App remains available and compatible, subject to the App licence and these Terms. "Lifetime" means the lifetime of the supported Apple product, not the purchaser's lifetime, and does not guarantee perpetual App Store availability, compatibility with future hardware or operating systems, or development of future features.
 
 ## 4. Separate platform entitlements
 
-Android and Apple products are purchased from different stores and are not interchangeable. There is no SupplyCheck Local account or server that can transfer an entitlement between stores, devices using a different store account, or platforms.
+Android and Apple products are purchased from different stores and are not interchangeable. There is no SupplyCheck Local account or developer server that transfers an entitlement between stores, devices using a different store account, or platforms.
 
 Eligible purchases may be restored using the purchasing store account and the App's restore function. Purchase restoration does not restore local delivery records, reports or settings.
 
@@ -68,4 +65,3 @@ We may change prices or future plan features prospectively. Changes to an existi
 ## 10. Support
 
 For an entitlement problem, first confirm that the device uses the store account that made the purchase and use Restore Purchases where available. If the problem continues, contact lrodeveloperr@gmail.com with the platform, App version and a redacted store order or transaction reference. Never send payment-card details, passwords or supplier records.
-
