@@ -1,3 +1,43 @@
+---
+title: Support and Data Deletion for SupplyCheck Local
+permalink: /supplycheck-local/support/
+lang: en
+---
+
+<style>
+:root { color-scheme: light dark; }
+body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #ffffff; }
+a { color: #0759b8; }
+h1, h2, h3 { line-height: 1.25; color: #0b2345; }
+h1 { margin-top: 1.2rem; }
+blockquote { margin-left: 0; padding: .75rem 1rem; border-left: 4px solid #4b78a8; background: #f4f7fb; }
+table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
+th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-align: top; }
+.legal-nav { display: flex; flex-wrap: wrap; gap: .55rem 1rem; padding-bottom: 1rem; border-bottom: 1px solid #d7dee8; }
+.legal-meta { color: #48566a; }
+.legal-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d7dee8; color: #48566a; }
+@media (prefers-color-scheme: dark) {
+  body { color: #e8edf5; background: #111827; }
+  h1, h2, h3 { color: #f5f8fc; }
+  a { color: #82b7ff; }
+  blockquote { background: #1d2a3a; }
+  th, td, .legal-nav, .legal-footer { border-color: #425069; }
+  .legal-meta, .legal-footer { color: #b8c3d4; }
+}
+</style>
+
+<nav class="legal-nav" aria-label="SupplyCheck legal documents">
+  <a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
+  <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
+  <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
+  <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
+  <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
+  <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
+  <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
+</nav>
+
+<p class="legal-meta"><strong>GoodUse Studios</strong> · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026</p>
+
 # Support and Data Deletion for SupplyCheck Local
 
 **Last updated:** 12 August 2026
@@ -55,7 +95,7 @@ The following content-free continuity data remains in app-private storage for th
 - a bounded opaque identity-equivalence ledger needed to deduplicate old packages and apply deletion markers correctly; and
 - content-free destruction-generation records needed to reject stale callbacks.
 
-This data contains no organisation, supplier, person, date, amount, attachment, task or note, but an opaque token may correlate with a matching old backup held by the customer. It is retained so deletion does not reset the free allowance and old packages cannot silently duplicate or resurrect records. It is excluded from the complete readable export. A bounded subset can travel in a machine-restorable SupplyCheck package as described in the [Privacy Policy](PRIVACY-POLICY.md).
+This data contains no organisation, supplier, person, date, amount, attachment, task or note, but an opaque token may correlate with a matching old backup held by the customer. It is retained so deletion does not reset the free allowance and old packages cannot silently duplicate or resurrect records. It is excluded from the complete readable export. A bounded subset can travel in a machine-restorable SupplyCheck package as described in the [Privacy Policy]({{ '/supplycheck-local/privacy/' | relative_url }}).
 
 ## 5. Operating-system removal
 
@@ -107,3 +147,8 @@ Deleting local App data does not delete Store transaction records held by Apple 
 Deleting local data or uninstalling the App does not cancel an Android subscription. Cancel through [Google Play subscriptions](https://play.google.com/store/account/subscriptions) if you do not want future renewal.
 
 An eligible purchase may be restored through the purchasing Store account. Entitlement restoration does not restore or synchronize operational records. iOS and Android purchases do not transfer between platforms.
+
+
+<footer class="legal-footer">
+SupplyCheck Local · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
+</footer>

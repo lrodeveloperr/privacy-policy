@@ -1,3 +1,43 @@
+---
+title: Terms of Use for SupplyCheck Local
+permalink: /supplycheck-local/terms/
+lang: en
+---
+
+<style>
+:root { color-scheme: light dark; }
+body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #ffffff; }
+a { color: #0759b8; }
+h1, h2, h3 { line-height: 1.25; color: #0b2345; }
+h1 { margin-top: 1.2rem; }
+blockquote { margin-left: 0; padding: .75rem 1rem; border-left: 4px solid #4b78a8; background: #f4f7fb; }
+table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
+th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-align: top; }
+.legal-nav { display: flex; flex-wrap: wrap; gap: .55rem 1rem; padding-bottom: 1rem; border-bottom: 1px solid #d7dee8; }
+.legal-meta { color: #48566a; }
+.legal-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d7dee8; color: #48566a; }
+@media (prefers-color-scheme: dark) {
+  body { color: #e8edf5; background: #111827; }
+  h1, h2, h3 { color: #f5f8fc; }
+  a { color: #82b7ff; }
+  blockquote { background: #1d2a3a; }
+  th, td, .legal-nav, .legal-footer { border-color: #425069; }
+  .legal-meta, .legal-footer { color: #b8c3d4; }
+}
+</style>
+
+<nav class="legal-nav" aria-label="SupplyCheck legal documents">
+  <a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
+  <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
+  <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
+  <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
+  <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
+  <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
+  <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
+</nav>
+
+<p class="legal-meta"><strong>GoodUse Studios</strong> · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026</p>
+
 # Terms of Use for SupplyCheck Local
 
 **Effective date:** 12 August 2026  
@@ -28,7 +68,7 @@ The App does not:
 - initiate a payment, refund, credit, return or recovery; or
 - guarantee that a discrepancy will be accepted, credited, replaced or recovered.
 
-The [Operational Disclaimer](OPERATIONAL-DISCLAIMER.md) forms part of these Terms.
+The [Operational Disclaimer]({{ '/supplycheck-local/disclaimer/' | relative_url }}) forms part of these Terms.
 
 ## 3. Entries, review and business decisions
 
@@ -79,7 +119,7 @@ Keep authoritative source documents independently. SupplyCheck backups can fail,
 
 ## 7. Retention and deletion
 
-The App offers the local retention rules described in the [Privacy Policy](PRIVACY-POLICY.md): a 90-day inactive-Draft period followed by seven-day Pending deletion; the same 90-day/seven-day rule for unattached or supplier-template import staging while record-bound staging follows its parent; organisation or record choices of 1, 3 or 7 years or Manual deletion only for eligible completed records; no automatic deletion while recovery or covered conflicts remain open; and 24-hour logical expiry plus next-execution purge for temporary import/preview/share files.
+The App offers the local retention rules described in the [Privacy Policy]({{ '/supplycheck-local/privacy/' | relative_url }}): a 90-day inactive-Draft period followed by seven-day Pending deletion; the same 90-day/seven-day rule for unattached or supplier-template import staging while record-bound staging follows its parent; organisation or record choices of 1, 3 or 7 years or Manual deletion only for eligible completed records; no automatic deletion while recovery or covered conflicts remain open; and 24-hour logical expiry plus next-execution purge for temporary import/preview/share files.
 
 Archive is not permanent retention. A successful readable export does not cancel or extend a deletion deadline. Permanent record deletion removes the content-bearing local record and derivatives but does not restore a consumed free use. Delete all organisation data removes the local content-bearing dataset but retains the limited opaque evaluation, deletion-continuity, identity-equivalence and stale-callback metadata described in the Privacy Policy. We do not claim forensic erasure.
 
@@ -87,7 +127,7 @@ Deletion cannot recall a PDF already sent, an external export, an old user-contr
 
 ## 8. Free access and paid products
 
-The [Purchase and Subscription Terms](PURCHASE-AND-SUBSCRIPTION-TERMS.md) form part of these Terms.
+The [Purchase and Subscription Terms]({{ '/supplycheck-local/purchases/' | relative_url }}) form part of these Terms.
 
 The first five distinct completed deliveries are free once; the allowance does not reset monthly. After that allowance is used:
 
@@ -126,7 +166,7 @@ Material changes to these Terms apply prospectively after any notice required by
 
 ## 12. Suspension and termination
 
-You may end these Terms by stopping use and deleting the App. GoodUse Studios may suspend or terminate the licence for material breach, purchase-system abuse, infringement or unlawful use, subject to applicable law. Store cancellation, refunds and entitlement revocation are governed by store state, the [Refund and Cancellation Policy](REFUND-AND-CANCELLATION-POLICY.md) and applicable law.
+You may end these Terms by stopping use and deleting the App. GoodUse Studios may suspend or terminate the licence for material breach, purchase-system abuse, infringement or unlawful use, subject to applicable law. Store cancellation, refunds and entitlement revocation are governed by store state, the [Refund and Cancellation Policy]({{ '/supplycheck-local/refunds/' | relative_url }}) and applicable law.
 
 Provisions that by their nature should survive—such as ownership, responsibility for records, disclaimers, liability limits, dispute terms and accrued obligations—survive termination.
 
@@ -165,3 +205,8 @@ These Terms, incorporated policies and mandatory Store terms are the agreement c
 **GoodUse Studios**  
 Ontario, Canada  
 Email: lrodeveloperr@gmail.com
+
+
+<footer class="legal-footer">
+SupplyCheck Local · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
+</footer>

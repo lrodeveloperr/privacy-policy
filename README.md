@@ -1,53 +1,51 @@
-# Privacy Policy
+---
+title: GoodUse Studios — Legal and Support
+permalink: /
+lang: en
+---
 
-**Last Updated:** August 2026
+<style>
+:root { color-scheme: light dark; }
+body { box-sizing: border-box; max-width: 900px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #ffffff; }
+a { color: #0759b8; }
+h1, h2 { line-height: 1.25; color: #0b2345; }
+.legal-meta { color: #48566a; }
+.notice { padding: .8rem 1rem; border-left: 4px solid #4b78a8; background: #f4f7fb; }
+@media (prefers-color-scheme: dark) {
+  body { color: #e8edf5; background: #111827; }
+  h1, h2 { color: #f5f8fc; }
+  a { color: #82b7ff; }
+  .legal-meta { color: #b8c3d4; }
+  .notice { background: #1d2a3a; }
+}
+</style>
 
-## 1. Introduction and Scope
-This Privacy Policy governs the mobile application (the "App") developed as a commercial utility. This service is provided at no cost and is intended for use as-is. We are committed to protecting user privacy on a global scale. This policy outlines our data practices in strict compliance with the European Union General Data Protection Regulation (GDPR), the UK GDPR, the California Consumer Privacy Act (CCPA/CPRA), the Canadian Personal Information Protection and Electronic Documents Act (PIPEDA), and other applicable international data protection frameworks.
+# GoodUse Studios — legal and support documents
 
-## 2. Local Device Architecture & Data Privacy
-The App is explicitly engineered with a local-first architecture to maximize your privacy and data security. 
-* **Zero First-Party Collection:** We do not request, collect, scrape, transmit, or store any personally identifiable information (PII), contact lists, accounts, biometric data, or sensitive personal records.
-* **No Device Permissions:** The App operates cleanly without requesting access to your device's location, camera, microphone, contacts, or shared file storage.
-* **Isolated Local Storage:** Any configurations, application states, or user preferences created during your use of the App are saved strictly within the device's native, sandboxed storage (such as Jetpack Room, DataStore, or NSUserDefaults). This data remains entirely on your physical machine, is never transmitted to an external server, and is automatically erased if you uninstall the App.
+**Publisher:** GoodUse Studios, Ontario, Canada  
+**Index updated:** 12 August 2026  
+**Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
-## 3. Third-Party Data Processing (Google AdMob & Apple App Tracking)
-While the App’s internal logic does not collect your data, it integrates the **Google Mobile Ads (AdMob) SDK** to display advertisements that support ongoing development. This third-party component automatically processes certain device identifiers required to safely serve, personalize, and measure ad performance.
+This site publishes product-specific legal, privacy and support documents for apps from GoodUse Studios. Select the relevant app below.
 
-Depending on your region and the privacy settings you choose on your device, the data processed by Google AdMob may include:
-* IP addresses (processed temporarily to estimate general, non-precise country or city location)
-* Mobile advertising identifiers (such as the Android Advertising ID / AAID or Apple's Identifier for Advertisers / IDFA)
-* Technical device metrics (model, operating system version, screen size, mobile carrier)
-* App diagnostic data, crash logs, and ad interaction events (clicks or impressions)
+<p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
 
-For more information, please review the [Google Partner Privacy Policy](https://google.com).
+## SupplyCheck Local
 
-## 4. Global Regulatory Compliance & User Rights
+- [SupplyCheck Local legal and support overview](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/privacy/)
+- [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/terms/)
+- [Purchase and Subscription Terms](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/purchases/)
+- [Refund and Cancellation Policy](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/refunds/)
+- [Support and Data Deletion](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/support/)
+- [Operational Disclaimer](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/disclaimer/)
 
-### A. European Economic Area (EEA), Switzerland, & United Kingdom
-In compliance with the GDPR and UK GDPR, processing device identifiers for advertising relies on your explicit consent where personalized tracking is applied, or our legitimate interest to fund free software via non-personalized ads.
-* **Your Rights:** If you reside in these regions, you have the right to access, rectify, or erase tracking logs processed by our ad partner, or object to processing. 
-* **Consent Management:** You can completely control or withdraw your consent at any time via the in-app privacy consent banner powered by the Google User Messaging Platform (UMP) SDK. 
+SupplyCheck Local's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck Local contains ads.
 
-### B. United States & California (CCPA/CPRA)
-Under California law, sharing pseudonymous device identifiers with third-party advertising networks for cross-context behavioral marketing may be defined as the "sale" or "sharing" of personal information.
-* **Your Right to Opt-Out:** You can exercise your right to opt-out of personalized tracking at any time by selecting "Do Not Sell/Share My Info" on our in-app privacy popup. 
-* **System-Wide Controls:** Alternatively, you can limit tracking globally by enabling "Opt out of Ads Personalization" in your Android system settings or disabling "Allow Apps to Request to Track" in your iOS privacy settings.
+## Other GoodUse Studios apps
 
-### C. Canada (PIPEDA)
-In accordance with Canadian privacy standards, any data processed by our third-party ad networks is treated strictly as pseudonymous technical metadata used exclusively for contextual ad delivery and basic analytics. No direct user profiling or tracking is conducted without your knowledge.
+No other app-specific legal-document links were present on the repository home page as reviewed on 12 August 2026. When another app's documents are published here, list and link that app separately without treating SupplyCheck Local's terms or data practices as applicable to it.
 
-## 5. Children's Privacy (COPPA & Global Age Protections)
-The App is a general audience utility and is not directed toward children under the age of 13 (or 16 in the EEA). We do not knowingly permit third-party ad networks to collect tracking data from users below these age thresholds. The App instructs the Google Ads SDK to apply child-directed restrictions globally where required by law, stripping out all user tracking and serving strictly contextual, age-appropriate advertisements.
+## Contact
 
-## 6. Security Framework
-Because the complete operational footprint of this App runs offline and locally on your phone, your data security depends directly on the native safety protocols of your mobile operating system (Android/iOS). By avoiding remote cloud databases, we eliminate traditional remote data breach vectors.
-
-## 7. International Data Transfers
-Third-party advertising networks may transfer and process technical device identifiers on secure servers located outside your home country, including the United States. These transfers are fully protected and governed by standard contractual clauses approved by European and other global regulatory authorities.
-
-## 8. Changes to This Privacy Policy
-We may update this Worldwide Privacy Policy periodically to align with changing mobile platform rules and international legal updates. We recommend checking this page routinely. Updates are active immediately upon being published to this public URL.
-
-## 9. Contact Information
-If you have any questions, regulatory inquiries, or feedback regarding our global commitment to an AI-free, local privacy architecture, please contact us via email at: lrodeveloperr@gmail.com
+For questions about a particular app, identify the app and platform when emailing [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com). Do not send passwords, payment-card details or confidential operational records.
