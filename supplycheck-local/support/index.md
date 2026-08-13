@@ -1,5 +1,5 @@
 ---
-title: Support and Data Deletion for SupplyCheck Local
+title: Support and Data Deletion for SupplyCheck
 permalink: /supplycheck-local/support/
 lang: en
 ---
@@ -38,7 +38,7 @@ th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-
 
 <p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · Privacy Officer: Lateef Razaq-Oyetola · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026</p>
 
-# Support and Data Deletion for SupplyCheck Local
+# Support and Data Deletion for SupplyCheck
 
 **Last updated:** 13 August 2026
 
@@ -53,7 +53,7 @@ For support, include only:
 
 - Android or iOS;
 - device model and operating-system version;
-- SupplyCheck Local version;
+- SupplyCheck version;
 - schema version and locale, if shown; and
 - the neutral error code and steps that produced it.
 
@@ -104,7 +104,7 @@ This data contains no organisation, supplier, person, date, amount, attachment, 
 
 ### Android
 
-The in-App **Delete all organisation data** action is the preferred route because it applies the App's deletion and continuity rules. Android's **Settings → Apps → SupplyCheck Local → Storage → Clear storage/data** control or deleting the App can remove the App container, including installation-local continuity metadata. Menu wording varies by device.
+The in-App **Delete all organisation data** action is the preferred route because it applies the App's deletion and continuity rules. Android's **Settings → Apps → SupplyCheck → Storage → Clear storage/data** control or deleting the App can remove the App container, including installation-local continuity metadata. Menu wording varies by device.
 
 The production configuration excludes operational files from Android automatic App backup and automatic device transfer. A complete SupplyCheck backup or export saved to Files, cloud storage or another provider is outside the App container and is not removed by clearing App data or uninstalling.
 
@@ -153,5 +153,5 @@ An eligible purchase may be restored through the purchasing Store account. Entit
 
 
 <footer class="legal-footer">
-SupplyCheck Local · © 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026
+SupplyCheck · © 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026
 </footer>
