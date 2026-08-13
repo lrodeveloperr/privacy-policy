@@ -1,4 +1,4 @@
-# Support and Data Deletion for SupplyCheck Local
+# Support and Data Deletion for SupplyCheck
 
 **Last updated:** 13 August 2026
 
@@ -13,7 +13,7 @@ For support, include only:
 
 - Android or iOS;
 - device model and operating-system version;
-- SupplyCheck Local version;
+- SupplyCheck version;
 - schema version and locale, if shown; and
 - the neutral error code and steps that produced it.
 
@@ -64,7 +64,7 @@ This data contains no organisation, supplier, person, date, amount, attachment, 
 
 ### Android
 
-The in-App **Delete all organisation data** action is the preferred route because it applies the App's deletion and continuity rules. Android's **Settings → Apps → SupplyCheck Local → Storage → Clear storage/data** control or deleting the App can remove the App container, including installation-local continuity metadata. Menu wording varies by device.
+The in-App **Delete all organisation data** action is the preferred route because it applies the App's deletion and continuity rules. Android's **Settings → Apps → SupplyCheck → Storage → Clear storage/data** control or deleting the App can remove the App container, including installation-local continuity metadata. Menu wording varies by device.
 
 The production configuration excludes operational files from Android automatic App backup and automatic device transfer. A complete SupplyCheck backup or export saved to Files, cloud storage or another provider is outside the App container and is not removed by clearing App data or uninstalling.
 

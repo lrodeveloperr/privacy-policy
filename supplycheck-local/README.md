@@ -1,10 +1,10 @@
-# SupplyCheck Local — legal and support documents
+# SupplyCheck — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
 **Version date:** 12 August 2026  
 **Contact:** lrodeveloperr@gmail.com
 
-These documents apply to **SupplyCheck Local** (also referred to as **SupplyCheck**), a local-first mobile utility for comparing ordered, invoiced and received goods, recording delivery discrepancies, creating reports and tracking supplier follow-up.
+These documents apply to **SupplyCheck** (also referred to as **SupplyCheck**), a local-first mobile utility for comparing ordered, invoiced and received goods, recording delivery discrepancies, creating reports and tracking supplier follow-up.
 
 ## Documents
 
@@ -27,7 +27,7 @@ These documents apply to **SupplyCheck Local** (also referred to as **SupplyChec
 
 ## Local-first data boundary
 
-Operational records are processed in the App on the device. SupplyCheck Local has no GoodUse Studios account or operational-data cloud database. Operational data leaves the App only through a deliberate, previewed share, export, backup, copy or move selected by the customer. The initial version does not provide simultaneous multi-device synchronization.
+Operational records are processed in the App on the device. SupplyCheck has no GoodUse Studios account or operational-data cloud database. Operational data leaves the App only through a deliberate, previewed share, export, backup, copy or move selected by the customer. The initial version does not provide simultaneous multi-device synchronization.
 
 SupplyCheck creates no App password, PIN, backup password or recovery key. Live data uses the operating system's app-private storage and native device protections. A complete backup, readable export, PDF, spreadsheet or transfer package is not password-protected or separately encrypted by SupplyCheck after the customer hands it to a selected destination. The customer chooses device access, recipients and destinations and is responsible for deliberate external copies. After handoff, the recipient or provider controls its copy. GoodUse Studios remains responsible for the App's security boundaries, permissions, temporary-file handling, truthful disclosures and safe defaults.
 

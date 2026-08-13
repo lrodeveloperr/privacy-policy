@@ -1,5 +1,5 @@
 ---
-title: Operational Disclaimer for SupplyCheck Local
+title: Operational Disclaimer for SupplyCheck
 permalink: /supplycheck-local/disclaimer/
 lang: en
 ---
@@ -38,11 +38,11 @@ th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-
 
 <p class="legal-meta"><strong>GoodUse Studios</strong> · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026</p>
 
-# Operational Disclaimer for SupplyCheck Local
+# Operational Disclaimer for SupplyCheck
 
 **Last updated:** 12 August 2026
 
-SupplyCheck Local is an operational comparison and recordkeeping aid. It calculates from information selected, entered or confirmed by the user. It does not independently inspect goods, authenticate source documents, verify supplier statements or decide what a supplier owes.
+SupplyCheck is an operational comparison and recordkeeping aid. It calculates from information selected, entered or confirmed by the user. It does not independently inspect goods, authenticate source documents, verify supplier statements or decide what a supplier owes.
 
 ## Not an authoritative system or professional opinion
 
@@ -82,5 +82,5 @@ The complete [Terms of Use]({{ '/supplycheck-local/terms/' | relative_url }}) ap
 
 
 <footer class="legal-footer">
-SupplyCheck Local · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
+SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
 </footer>

@@ -1,8 +1,8 @@
-# Operational Disclaimer for SupplyCheck Local
+# Operational Disclaimer for SupplyCheck
 
 **Last updated:** 12 August 2026
 
-SupplyCheck Local is an operational comparison and recordkeeping aid. It calculates from information selected, entered or confirmed by the user. It does not independently inspect goods, authenticate source documents, verify supplier statements or decide what a supplier owes.
+SupplyCheck is an operational comparison and recordkeeping aid. It calculates from information selected, entered or confirmed by the user. It does not independently inspect goods, authenticate source documents, verify supplier statements or decide what a supplier owes.
 
 ## Not an authoritative system or professional opinion
 

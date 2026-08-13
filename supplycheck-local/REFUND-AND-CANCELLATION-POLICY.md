@@ -1,4 +1,4 @@
-# Refund and Cancellation Policy for SupplyCheck Local
+# Refund and Cancellation Policy for SupplyCheck
 
 **Effective date:** 12 August 2026  
 **Last updated:** 12 August 2026
@@ -14,7 +14,7 @@ The Android product is a monthly auto-renewing subscription. There is no annual 
 To cancel through Google Play:
 
 1. Open [Google Play subscriptions](https://play.google.com/store/account/subscriptions) while signed in to the Google Account that made the purchase.
-2. Select SupplyCheck Local.
+2. Select SupplyCheck.
 3. Choose **Cancel subscription** and follow Google's instructions.
 
 Google's current instructions are also available at [Cancel, pause, or change a subscription on Google Play](https://support.google.com/googleplay/answer/7018481).

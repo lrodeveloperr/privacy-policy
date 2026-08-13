@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy for SupplyCheck Local
+title: Privacy Policy for SupplyCheck
 permalink: /supplycheck-local/privacy/
 lang: en
 ---
@@ -38,12 +38,12 @@ th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-
 
 <p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · Privacy Officer: Lateef Razaq-Oyetola · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026</p>
 
-# Privacy Policy for SupplyCheck Local
+# Privacy Policy for SupplyCheck
 
 **Effective date:** 12 August 2026  
 **Last updated:** 13 August 2026
 
-Lateef Razaq-Oyetola carrying on business as GoodUse Studios ("GoodUse Studios," "we," "us," or "our"), whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada, publishes SupplyCheck Local (the "App"). This policy explains how the App handles information and how GoodUse Studios handles the limited information it actually receives.
+Lateef Razaq-Oyetola carrying on business as GoodUse Studios ("GoodUse Studios," "we," "us," or "our"), whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada, publishes SupplyCheck (the "App"). This policy explains how the App handles information and how GoodUse Studios handles the limited information it actually receives.
 
 ## 1. Privacy summary
 
@@ -199,5 +199,5 @@ We may update this policy when the App, data flows, providers or legal requireme
 
 
 <footer class="legal-footer">
-SupplyCheck Local · © 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026
+SupplyCheck · © 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026
 </footer>
