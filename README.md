@@ -30,9 +30,9 @@ This site publishes product-specific legal, privacy and support documents for ap
 
 <p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
 
-## SupplyCheck Local
+## SupplyCheck
 
-- [SupplyCheck Local legal and support overview](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/)
+- [SupplyCheck legal and support overview](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/)
 - [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/privacy/)
 - [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/terms/)
 - [Purchase and Subscription Terms](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/purchases/)
@@ -40,11 +40,11 @@ This site publishes product-specific legal, privacy and support documents for ap
 - [Support and Data Deletion](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/support/)
 - [Operational Disclaimer](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/disclaimer/)
 
-SupplyCheck Local's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck Local contains ads.
+SupplyCheck's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck contains ads.
 
 ## Other GoodUse Studios apps
 
-No other app-specific legal-document links were present on the repository home page as reviewed on 12 August 2026. When another app's documents are published here, list and link that app separately without treating SupplyCheck Local's terms or data practices as applicable to it.
+No other app-specific legal-document links were present on the repository home page as reviewed on 12 August 2026. When another app's documents are published here, list and link that app separately without treating SupplyCheck's terms or data practices as applicable to it.
 
 ## Contact
 
