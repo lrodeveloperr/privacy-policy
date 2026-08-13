@@ -1,5 +1,5 @@
 ---
-title: Purchase and Subscription Terms for SupplyCheck Local
+title: Purchase and Subscription Terms for SupplyCheck
 permalink: /supplycheck-local/purchases/
 lang: en
 ---
@@ -38,7 +38,7 @@ th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-
 
 <p class="legal-meta"><strong>GoodUse Studios</strong> · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026</p>
 
-# Purchase and Subscription Terms for SupplyCheck Local
+# Purchase and Subscription Terms for SupplyCheck
 
 **Effective date:** 12 August 2026  
 **Last updated:** 12 August 2026
@@ -137,5 +137,5 @@ If the issue continues, email lrodeveloperr@gmail.com with the platform, App ver
 
 
 <footer class="legal-footer">
-SupplyCheck Local · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
+SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
 </footer>
