@@ -1,9 +1,9 @@
-# Privacy Policy for SupplyCheck Local
+# Privacy Policy for SupplyCheck
 
 **Effective date:** 12 August 2026  
 **Last updated:** 13 August 2026
 
-Lateef Razaq-Oyetola carrying on business as GoodUse Studios ("GoodUse Studios," "we," "us," or "our"), whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada, publishes SupplyCheck Local (the "App"). This policy explains how the App handles information and how GoodUse Studios handles the limited information it actually receives.
+Lateef Razaq-Oyetola carrying on business as GoodUse Studios ("GoodUse Studios," "we," "us," or "our"), whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada, publishes SupplyCheck (the "App"). This policy explains how the App handles information and how GoodUse Studios handles the limited information it actually receives.
 
 ## 1. Privacy summary
 
