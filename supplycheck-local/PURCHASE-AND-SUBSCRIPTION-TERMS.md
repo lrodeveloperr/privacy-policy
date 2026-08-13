@@ -1,4 +1,4 @@
-# Purchase and Subscription Terms for SupplyCheck Local
+# Purchase and Subscription Terms for SupplyCheck
 
 **Effective date:** 12 August 2026  
 **Last updated:** 12 August 2026
