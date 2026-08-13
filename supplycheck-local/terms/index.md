@@ -1,5 +1,5 @@
 ---
-title: Terms of Use for SupplyCheck Local
+title: Terms of Use for SupplyCheck
 permalink: /supplycheck-local/terms/
 lang: en
 ---
@@ -38,12 +38,12 @@ th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-
 
 <p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · Privacy Officer: Lateef Razaq-Oyetola · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026</p>
 
-# Terms of Use for SupplyCheck Local
+# Terms of Use for SupplyCheck
 
 **Effective date:** 12 August 2026  
 **Last updated:** 13 August 2026
 
-These Terms of Use ("Terms") are an agreement between you and Lateef Razaq-Oyetola carrying on business as GoodUse Studios, whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada ("GoodUse Studios," "we," "us," or "our"), concerning SupplyCheck Local (the "App"). By downloading, purchasing or using the App, you agree to these Terms. If you use the App for an organisation, you represent that you have authority to bind it; "you" then includes that organisation.
+These Terms of Use ("Terms") are an agreement between you and Lateef Razaq-Oyetola carrying on business as GoodUse Studios, whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada ("GoodUse Studios," "we," "us," or "our"), concerning SupplyCheck (the "App"). By downloading, purchasing or using the App, you agree to these Terms. If you use the App for an organisation, you represent that you have authority to bind it; "you" then includes that organisation.
 
 If you do not agree, do not use the App.
 
@@ -211,5 +211,5 @@ These Terms, incorporated policies and mandatory Store terms are the agreement c
 
 
 <footer class="legal-footer">
-SupplyCheck Local · © 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026
+SupplyCheck · © 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026
 </footer>
