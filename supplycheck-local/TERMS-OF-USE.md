@@ -1,9 +1,9 @@
 # Terms of Use for SupplyCheck Local
 
 **Effective date:** 12 August 2026  
-**Last updated:** 12 August 2026
+**Last updated:** 13 August 2026
 
-These Terms of Use ("Terms") are an agreement between you and GoodUse Studios, Ontario, Canada ("GoodUse Studios," "we," "us," or "our") concerning SupplyCheck Local (the "App"). By downloading, purchasing or using the App, you agree to these Terms. If you use the App for an organisation, you represent that you have authority to bind it; "you" then includes that organisation.
+These Terms of Use ("Terms") are an agreement between you and Lateef Razaq-Oyetola carrying on business as GoodUse Studios, whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada ("GoodUse Studios," "we," "us," or "our"), concerning SupplyCheck Local (the "App"). By downloading, purchasing or using the App, you agree to these Terms. If you use the App for an organisation, you represent that you have authority to bind it; "you" then includes that organisation.
 
 If you do not agree, do not use the App.
 
@@ -162,6 +162,9 @@ These Terms, incorporated policies and mandatory Store terms are the agreement c
 
 ## 18. Contact
 
-**GoodUse Studios**  
-Ontario, Canada  
-Email: lrodeveloperr@gmail.com
+**Operator:** Lateef Razaq-Oyetola carrying on business as GoodUse Studios  
+**Postal address:** 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada  
+**Privacy Officer:** Lateef Razaq-Oyetola  
+**Email:** lrodeveloperr@gmail.com
+
+© 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios
