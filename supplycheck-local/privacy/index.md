@@ -36,14 +36,14 @@ th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-
   <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
 </nav>
 
-<p class="legal-meta"><strong>GoodUse Studios</strong> · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026</p>
+<p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · Privacy Officer: Lateef Razaq-Oyetola · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026</p>
 
 # Privacy Policy for SupplyCheck Local
 
 **Effective date:** 12 August 2026  
-**Last updated:** 12 August 2026
+**Last updated:** 13 August 2026
 
-GoodUse Studios ("GoodUse Studios," "we," "us," or "our"), based in Ontario, Canada, publishes SupplyCheck Local (the "App"). This policy explains how the App handles information and how GoodUse Studios handles the limited information it actually receives.
+Lateef Razaq-Oyetola carrying on business as GoodUse Studios ("GoodUse Studios," "we," "us," or "our"), whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada, publishes SupplyCheck Local (the "App"). This policy explains how the App handles information and how GoodUse Studios handles the limited information it actually receives.
 
 ## 1. Privacy summary
 
@@ -190,11 +190,14 @@ We may update this policy when the App, data flows, providers or legal requireme
 
 ## 15. Contact
 
-**GoodUse Studios**  
-Ontario, Canada  
-Email: lrodeveloperr@gmail.com
+**Operator:** Lateef Razaq-Oyetola carrying on business as GoodUse Studios  
+**Postal address:** 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada  
+**Privacy Officer:** Lateef Razaq-Oyetola  
+**Email:** lrodeveloperr@gmail.com
+
+© 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios
 
 
 <footer class="legal-footer">
-SupplyCheck Local · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
+SupplyCheck Local · © 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026
 </footer>
