@@ -1,10 +1,13 @@
 # Support and Data Deletion for SupplyCheck Local
 
-**Last updated:** 12 August 2026
+**Last updated:** 13 August 2026
 
 ## 1. Support
 
-Email: **lrodeveloperr@gmail.com**
+**Operator:** Lateef Razaq-Oyetola carrying on business as GoodUse Studios  
+**Postal address:** 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada  
+**Privacy Officer:** Lateef Razaq-Oyetola  
+**Email:** lrodeveloperr@gmail.com
 
 For support, include only:
 
@@ -107,3 +110,6 @@ Deleting local App data does not delete Store transaction records held by Apple 
 Deleting local data or uninstalling the App does not cancel an Android subscription. Cancel through [Google Play subscriptions](https://play.google.com/store/account/subscriptions) if you do not want future renewal.
 
 An eligible purchase may be restored through the purchasing Store account. Entitlement restoration does not restore or synchronize operational records. iOS and Android purchases do not transfer between platforms.
+
+
+© 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios
