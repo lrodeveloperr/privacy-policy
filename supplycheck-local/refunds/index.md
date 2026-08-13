@@ -1,3 +1,43 @@
+---
+title: Refund and Cancellation Policy for SupplyCheck Local
+permalink: /supplycheck-local/refunds/
+lang: en
+---
+
+<style>
+:root { color-scheme: light dark; }
+body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #ffffff; }
+a { color: #0759b8; }
+h1, h2, h3 { line-height: 1.25; color: #0b2345; }
+h1 { margin-top: 1.2rem; }
+blockquote { margin-left: 0; padding: .75rem 1rem; border-left: 4px solid #4b78a8; background: #f4f7fb; }
+table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
+th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-align: top; }
+.legal-nav { display: flex; flex-wrap: wrap; gap: .55rem 1rem; padding-bottom: 1rem; border-bottom: 1px solid #d7dee8; }
+.legal-meta { color: #48566a; }
+.legal-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d7dee8; color: #48566a; }
+@media (prefers-color-scheme: dark) {
+  body { color: #e8edf5; background: #111827; }
+  h1, h2, h3 { color: #f5f8fc; }
+  a { color: #82b7ff; }
+  blockquote { background: #1d2a3a; }
+  th, td, .legal-nav, .legal-footer { border-color: #425069; }
+  .legal-meta, .legal-footer { color: #b8c3d4; }
+}
+</style>
+
+<nav class="legal-nav" aria-label="SupplyCheck legal documents">
+  <a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
+  <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
+  <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
+  <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
+  <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
+  <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
+  <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
+</nav>
+
+<p class="legal-meta"><strong>GoodUse Studios</strong> · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026</p>
+
 # Refund and Cancellation Policy for SupplyCheck Local
 
 **Effective date:** 12 August 2026  
@@ -58,3 +98,8 @@ Cancellation, refund or loss of Pro does not delete local records. Existing reco
 ## 5. Mandatory rights
 
 Nothing in this policy limits a refund, cancellation, warranty or other remedy that applicable law does not permit GoodUse Studios or the Store to exclude. Mandatory law controls where it conflicts with this policy.
+
+
+<footer class="legal-footer">
+SupplyCheck Local · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
+</footer>
