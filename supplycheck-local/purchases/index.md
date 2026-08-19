@@ -1,141 +1,96 @@
 ---
-title: Purchase and Subscription Terms for SupplyCheck
+title: Purchase Terms for SupplyCheck
 permalink: /supplycheck-local/purchases/
 lang: en
 ---
 
 <style>
 :root { color-scheme: light dark; }
-body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #ffffff; }
-a { color: #0759b8; }
-h1, h2, h3 { line-height: 1.25; color: #0b2345; }
-h1 { margin-top: 1.2rem; }
-blockquote { margin-left: 0; padding: .75rem 1rem; border-left: 4px solid #4b78a8; background: #f4f7fb; }
-table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
-th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-align: top; }
-.legal-nav { display: flex; flex-wrap: wrap; gap: .55rem 1rem; padding-bottom: 1rem; border-bottom: 1px solid #d7dee8; }
-.legal-meta { color: #48566a; }
-.legal-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d7dee8; color: #48566a; }
-@media (prefers-color-scheme: dark) {
-  body { color: #e8edf5; background: #111827; }
-  h1, h2, h3 { color: #f5f8fc; }
-  a { color: #82b7ff; }
-  blockquote { background: #1d2a3a; }
-  th, td, .legal-nav, .legal-footer { border-color: #425069; }
-  .legal-meta, .legal-footer { color: #b8c3d4; }
-}
+body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #fff; }
+a { color: #0759b8; } h1,h2,h3 { line-height:1.25; color:#0b2345; }
+.legal-nav { display:flex; flex-wrap:wrap; gap:.55rem 1rem; padding-bottom:1rem; border-bottom:1px solid #d7dee8; }
+.legal-meta,.legal-footer { color:#48566a; } .legal-footer { margin-top:3rem; padding-top:1rem; border-top:1px solid #d7dee8; }
+@media (prefers-color-scheme: dark) { body { color:#e8edf5; background:#111827; } h1,h2,h3{color:#f5f8fc;} a{color:#82b7ff;} .legal-nav,.legal-footer{border-color:#425069;} .legal-meta,.legal-footer{color:#b8c3d4;} }
 </style>
 
 <nav class="legal-nav" aria-label="SupplyCheck legal documents">
-  <a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
-  <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
-  <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
-  <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
-  <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
-  <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
-  <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
+<a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
+<a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
+<a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
+<a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
+<a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
+<a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
+<a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
 </nav>
 
-<p class="legal-meta"><strong>GoodUse Studios</strong> · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026</p>
+<p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 19 August 2026</p>
 
-# Purchase and Subscription Terms for SupplyCheck
+# Purchase Terms for SupplyCheck Local
 
-**Effective date:** 12 August 2026  
-**Last updated:** 12 August 2026
+**Document version:** 2026-08-19  
+**Effective:** when this version is first published and linked from the released App  
+**Applies to:** SupplyCheck Local 1.4.0 (build 140) for iPhone/iOS
 
-These Purchase and Subscription Terms supplement the [Terms of Use]({{ '/supplycheck-local/terms/' | relative_url }}). Apple and Google process Store transactions under their terms and display the binding transaction details before purchase.
+These terms apply to paid access in **SupplyCheck Local (displayed on the device as SupplyCheck)**, provided by Lateef Razaq-Oyetola carrying on business as GoodUse Studios. The App Store purchase confirmation, Apple's applicable terms, these terms, and mandatory law also apply.
 
-## 1. First five completed deliveries free once
+## 1. Five completed deliveries included once
 
-The first **five distinct completed deliveries are free once**. This is a usage allowance, not a time-based trial, and it never resets monthly.
+The first **five distinct completed delivery records** are included once. This is a usage allowance, not a time-based or monthly-reset trial, and it does not automatically convert into a paid product.
 
-- A free authorization is reserved when substantive delivery work begins, not when an empty record or header is created.
-- Deleting an incomplete free Draft can release its unused reservation.
-- A distinct delivery consumes a free use when it is first completed.
-- Correcting, reopening or completing more work for the same real-world delivery does not consume another use.
-- Deleting a completed record does not restore a use.
-- No charge begins automatically merely because a free use is consumed.
-
-The App stores limited opaque continuity metadata and carries a bounded subset in machine-restorable SupplyCheck packages so copied or restored data does not reset or multiply the allowance. A fresh installation without its former local continuity data or a SupplyCheck backup cannot consult data it does not possess; that local-only technical limitation is not a grant of another allowance or permission to bypass the limit.
-
-Reaching the allowance does not delete or lock existing records. Existing authorized work, completed records, corrections, reports, sharing, exports, backup/restore and recovery work remain available. Pro gates authorization of a new delivery or new substantive scope.
+One real delivery keeps one identity across later invoice entry, correction, report, recovery, copy, or restore and should consume no more than one allowance use. A separate completed real delivery consumes another use. Bounded content-free continuity is used to prevent deletion, an old package, or identity correction from improperly reopening an exhausted allowance. Deleting records does not refund a use.
 
 ## 2. iOS one-time Pro purchase
 
-On iOS, the only paid product is a **non-consumable, one-time Pro purchase**. The United States base reference price is **US$39.99**.
+- Product type: non-consumable, one-time purchase.
+- Product ID: `com.goodusestudios.supplychecklocal.pro.unlock`.
+- Customer price: the localized price Apple displays in the App Store purchase interface before purchase.
+- No SupplyCheck iOS subscription, renewal, recurring charge, consumable pack, or annual product.
+- **Restore Purchases** re-queries Apple for an eligible non-consumable entitlement associated with the purchasing Apple Account on supported devices.
 
-The purchase:
+## 3. What Pro gates
 
-- is not a subscription;
-- has no automatic renewal or recurring charge;
-- authorizes creation of new deliveries in supported iOS versions of SupplyCheck for the purchasing Apple Account, subject to the Terms of Use; and
-- can be restored through StoreKit on supported iOS devices using the purchasing Apple Account.
+Pro gates authorization of a new delivery and addition of new substantive issue/line/photo scope when no unused included capacity remains. It does not repeatedly resell access to existing records.
 
-It does not guarantee perpetual App availability, future-device or operating-system compatibility, or development of future features. A Store-verified refund or revocation removes the entitlement. A pending or failed purchase does not grant it.
+Without active Pro, a person can continue to view existing records; add bona fide facts/corrections to a completed delivery; review revisions; generate and share reports; export; back up or restore; delete; and record recovery tied to existing deliveries. A qualifying unfinished draft may retain only its frozen authorized scope under the App's grandfathering rules.
 
-## 3. Android monthly Pro subscription
+This access rule is not a promise that the App, Store product, device compatibility, or support will exist indefinitely. Mandatory update, warranty, and support obligations still apply where required by law.
 
-On Android, the only paid product is a **monthly auto-renewing Pro subscription**. The United States base reference price is **US$3.99 per month**. There is no annual Android plan, annual saving claim, one-time Android unlock or upgrade/downgrade catalogue.
+## 4. Live localized prices and taxes
 
-The subscription provides ongoing access to authorize unlimited new deliveries during the paid period. It renews each month and Google Play charges the payment method associated with the purchasing Google Account unless the subscriber cancels before renewal or Google Play states otherwise at checkout.
+Apple displays the actual storefront price, currency, and applicable tax treatment before purchase. GoodUse Studios may change the price or availability for future purchases where the App Store and applicable law permit.
 
-The App and Google Play show the current monthly price, billing frequency, automatic-renewal terms and cancellation route before purchase. Cancellation stops future renewal; unless a refund, revocation, account hold or applicable law produces another result, Pro normally continues through the paid-through date. A verified Google Play grace period continues only through its verified end. A pending purchase, pause, account hold, expiry, refund or revocation does not grant new Pro access under the App's entitlement rules.
+The App obtains the purchasable product and displayed price from StoreKit rather than independently converting a Store price. If the product or price is unavailable, the purchase action may be unavailable until Store service can be queried again. Review the App Store confirmation before buying.
 
-Uninstalling or deleting the App does not cancel the Android subscription. Manage or cancel it through Google Play.
+## 5. Transaction and entitlement states
 
-## 4. Live localized Store prices
+Paid authorization is based on StoreKit transaction and current-entitlement state that the App can verify. A pending, cancelled, failed, unverified, or otherwise incomplete transaction does not create a new verified Pro entitlement. A verified refund or revocation may end Pro authorization for new paid-gated work.
 
-The US dollar amounts above are base reference prices, not the price promised in every country. GoodUse Studios may set lower country-level affordability prices. Apple and Google may localize currency, tax convention and price points and may update them.
+The App may retain a limited local entitlement cache to provide bounded continuity when Store services are temporarily unavailable. That cache does not replace Apple's transaction record and is reconciled when Store state can be verified again.
 
-The App fetches and displays the live, localized Store price and billing period. The exact price, currency, taxes, billing terms and product availability shown by Apple or Google before confirmation control the transaction. SupplyCheck does not independently calculate or add Store tax. If the App cannot load the Store product and price, it does not invent a fallback price; purchasing remains unavailable until the product can be loaded.
+Do not falsify receipts, alter entitlement state, exploit billing errors, or bypass evaluation or purchase controls.
 
-## 5. What Pro changes—and what it does not
+## 6. Cancellation and restoration
 
-Pro governs new-delivery authorization and new substantive issue, line or photo scope. It does not change the calculation logic or establish that an entry is correct.
+There is no SupplyCheck iOS subscription to cancel. **Restore Purchases** re-queries eligible non-consumable purchase entitlement; it does not recreate delivery records, reports, photos, settings, backups, or other operational data.
 
-Without active Pro, you can continue to:
+Deleting the App, deleting organisation data, changing devices, or reinstalling the App does not itself create a refund or reset the historical five-completion allowance. Store entitlement restoration and operational-data restoration are separate functions.
 
-- view existing records and history;
-- complete eligible work already authorized or frozen before entitlement loss;
-- add or correct bona fide facts for a completed delivery;
-- create and share reports;
-- export spreadsheets or all organisation data in readable form;
-- create, restore or merge a complete backup; and
-- continue recovery work tied to an existing delivery.
+## 7. Price and product changes
 
-Adding a different real-world delivery as a correction or revision does not bypass authorization.
+GoodUse Studios may change future App Store price points, territories, availability, or product presentation where permitted. A valid non-consumable Pro entitlement is not converted by SupplyCheck into a recurring subscription merely because future pricing changes.
 
-## 6. Separate Store and platform entitlements
+If Apple, mandatory law, or a product migration requires a different treatment, the applicable Store notice and updated terms will control to the extent required.
 
-The iOS and Android products are separate. The iOS purchase does not unlock Android, and an Android subscription does not unlock iOS. There is no SupplyCheck account or GoodUse Studios entitlement server that transfers a purchase between platforms, Store accounts or unrelated apps.
+## 8. Refunds and mandatory rights
 
-**Restore purchases** is available on both platforms. Use the same Apple Account or Google Account that made the purchase. Restoring an entitlement does not restore, transfer or synchronize local operational records, reports, backups or settings.
+Apple operates the App Store refund process for App Store purchases. GoodUse Studios cannot promise a Store outcome and does not receive full payment-card details. See the **Refund Policy**.
 
-## 7. Purchase authorization and transaction state
+Nothing here limits a refund, cancellation, cooling-off, warranty, price-change, digital-content, or other remedy that mandatory law does not allow GoodUse Studios or the Store to exclude or limit.
 
-You represent that you are authorized to use the selected Store account and payment method. A transaction grants access only after the Store confirms the applicable entitlement. Pending, declined, reversed, refunded, expired, held or revoked states are handled according to the Store state and the App's entitlement rules.
+## 9. Purchase support
 
-Do not falsify receipts, alter entitlement state, exploit billing errors or bypass the one-time allowance. GoodUse Studios may correct an erroneous entitlement or remove access associated with fraud or a Store-verified refund or revocation, subject to applicable law.
+First retry product loading, confirm the Apple Account used for the purchase, and use **Restore Purchases**. Then email **lrodeveloperr@gmail.com** with the App version/build, iOS version, product ID, transaction phase, neutral error code, and a redacted Store order/transaction reference if needed. Do not send payment-card information, passwords, screenshots, supplier records, invoices, photos, reports, databases, or backup/move files.
 
-## 8. Trials, introductory offers and advertising
+Operator: **Lateef Razaq-Oyetola carrying on business as GoodUse Studios**, 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada.
 
-This version has no subscription free trial, introductory price, advertising or pay-per-check pack. The first-five-delivery allowance is not a subscription trial and does not convert automatically into a paid product. A future offer applies only if clearly shown by the Store with its eligibility, duration, price and renewal terms before confirmation.
-
-## 9. Price or product changes
-
-GoodUse Studios may change future prices prospectively through the Stores. Android subscription price changes are subject to Google Play's notice, consent and billing rules. A price change does not convert the iOS one-time product into a subscription or create a recurring iOS charge.
-
-## 10. Refunds and cancellation
-
-The [Refund and Cancellation Policy]({{ '/supplycheck-local/refunds/' | relative_url }}) applies. Cancellation and refund are different: cancellation stops a future Android renewal, while a refund request asks that a completed charge be returned. Store rules and mandatory law govern eligibility.
-
-## 11. Support
-
-First verify that the device uses the Store account that made the purchase and use **Restore purchases**. For an Android subscription, also check its status in Google Play.
-
-If the issue continues, email lrodeveloperr@gmail.com with the platform, App version and a redacted Store order or transaction reference. Do not send payment-card details, passwords, screenshots, invoices, supplier records, photos or backup files.
-
-
-<footer class="legal-footer">
-SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
-</footer>
+<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 19 August 2026</footer>
