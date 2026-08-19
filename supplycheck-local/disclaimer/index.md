@@ -6,81 +6,69 @@ lang: en
 
 <style>
 :root { color-scheme: light dark; }
-body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #ffffff; }
-a { color: #0759b8; }
-h1, h2, h3 { line-height: 1.25; color: #0b2345; }
-h1 { margin-top: 1.2rem; }
-blockquote { margin-left: 0; padding: .75rem 1rem; border-left: 4px solid #4b78a8; background: #f4f7fb; }
-table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
-th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-align: top; }
-.legal-nav { display: flex; flex-wrap: wrap; gap: .55rem 1rem; padding-bottom: 1rem; border-bottom: 1px solid #d7dee8; }
-.legal-meta { color: #48566a; }
-.legal-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d7dee8; color: #48566a; }
-@media (prefers-color-scheme: dark) {
-  body { color: #e8edf5; background: #111827; }
-  h1, h2, h3 { color: #f5f8fc; }
-  a { color: #82b7ff; }
-  blockquote { background: #1d2a3a; }
-  th, td, .legal-nav, .legal-footer { border-color: #425069; }
-  .legal-meta, .legal-footer { color: #b8c3d4; }
-}
+body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #fff; }
+a { color: #0759b8; } h1,h2,h3 { line-height:1.25; color:#0b2345; }
+.legal-nav { display:flex; flex-wrap:wrap; gap:.55rem 1rem; padding-bottom:1rem; border-bottom:1px solid #d7dee8; }
+.legal-meta,.legal-footer { color:#48566a; } .legal-footer { margin-top:3rem; padding-top:1rem; border-top:1px solid #d7dee8; }
+@media (prefers-color-scheme: dark) { body { color:#e8edf5; background:#111827; } h1,h2,h3{color:#f5f8fc;} a{color:#82b7ff;} .legal-nav,.legal-footer{border-color:#425069;} .legal-meta,.legal-footer{color:#b8c3d4;} }
 </style>
 
 <nav class="legal-nav" aria-label="SupplyCheck legal documents">
-  <a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
-  <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
-  <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
-  <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
-  <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
-  <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
-  <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
+<a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
+<a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
+<a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
+<a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
+<a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
+<a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
+<a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
 </nav>
 
-<p class="legal-meta"><strong>GoodUse Studios</strong> · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026</p>
+<p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 19 August 2026</p>
 
-# Operational Disclaimer for SupplyCheck
+# Operational Disclaimer for SupplyCheck Local
 
-**Last updated:** 12 August 2026
+**Document version:** 2026-08-19  
+**Effective:** when this version is first published and linked from the released App  
+**Applies to:** SupplyCheck Local 1.4.0 (build 140) for iPhone/iOS
 
-SupplyCheck is an operational comparison and recordkeeping aid. It calculates from information selected, entered or confirmed by the user. It does not independently inspect goods, authenticate source documents, verify supplier statements or decide what a supplier owes.
+**SupplyCheck Local (displayed on the device as SupplyCheck)** is a neutral operational recordkeeping, comparison, calculation, and reporting aid. It reflects information selected, entered, imported, or confirmed by the user. It does not independently inspect goods, authenticate documents, contact a supplier, verify a supplier statement, or decide what a supplier owes.
 
-## Not an authoritative system or professional opinion
+## Not professional advice or an authoritative system
 
-The App and its reports are not:
+The App and its outputs are not:
 
-- a purchase order, invoice, credit note, acceptance certificate or supplier statement;
-- an inventory, accounting, tax, audit, legal or regulatory system;
-- food-safety, product-safety, quality-control or inspection advice;
-- a determination of contractual rights, liability, fault, fraud or supplier misconduct;
-- proof that goods were ordered, invoiced, received, damaged, returned, credited or replaced;
-- a demand for, or determination of, an amount owed; or
-- a guarantee that a supplier will accept a discrepancy, issue a credit, replace goods or pay an amount.
+- a purchase order, invoice, credit note, acceptance certificate, or supplier statement;
+- an inventory, accounting, accounts-payable, audit, tax, legal, or regulatory system;
+- food-safety, product-safety, quality-control, health, engineering, or inspection advice;
+- a finding of contractual breach, fault, fraud, supplier misconduct, liability, or regulatory compliance;
+- proof that goods were ordered, invoiced, received, damaged, returned, credited, or replaced;
+- a demand for, or determination of, a debt, credit, refund, legal claim, or amount owed; or
+- a guarantee that a supplier will agree, issue a credit, replace goods, or pay any amount.
 
-Original contracts, purchase orders, invoices, delivery documents, credit notes, product labels, physical inspection and direct supplier confirmation remain authoritative. Obtain qualified accounting, tax, legal, regulatory or safety advice where needed.
+Source contracts, purchase orders, invoices, delivery documents, credit notes, product labels, physical inspection, direct supplier confirmation, and qualified professional judgment remain authoritative.
 
-## Calculations depend on confirmed inputs
+## Calculations depend on evidence and inputs
 
-The App uses exact decimal calculations, currency-specific rounding rules and one non-overlapping allocation of affected units when calculating variance for review. Those safeguards do not make an incorrect or incomplete input accurate.
+The App is designed to retain exact source values, make unknowns visible, use currency-specific rounding, and avoid double-counting affected units. Those safeguards cannot make a missing, ambiguous, mismatched, or incorrect input accurate.
 
-The result can be wrong or incomplete if a source match, quantity, unit, pack size, price basis, authoritative price, currency, tax scope, discount, surcharge, allowance, invoice status, disposition or other relevant term is missing, ambiguous or incorrect. A pending-invoice result is provisional. SupplyCheck applies no hidden price tolerance: a supported positive price difference enters calculated variance only when it rounds to at least one currency minor unit. That rounding threshold is not a contractual tolerance or a statement that a price change is acceptable or reflects fair market value.
+A result can be incomplete or wrong if a source match, quantity, unit, pack relationship, conversion, price basis, authoritative price, currency, tax scope, fee, discount, disposition, recovery allocation, or other relevant fact is absent or incorrect. Pending-invoice or incomplete-coverage results are provisional. A supported price difference that rounds below a currency's minor unit is not a contractual tolerance or a statement that a price is acceptable.
 
-Operational flags may describe different relationships and must not be added together unless the App expressly presents a non-overlapping total. A displayed calculated variance is an evidence-limited value for review. It is not a verified invoice balance, debt, amount owed, legal claim or proof that a supplier must pay or credit anything.
+Different relationship flags and amounts must not be added together unless the App expressly presents a non-overlapping total. A displayed calculated variance is an evidence-limited amount for review, not a verified invoice balance, supplier debt, amount owed, or legal entitlement.
 
 ## User-entered events are not independently verified
 
-Entries such as **Supplier contacted**, **Credit promised**, **Credit received**, **Refund received** or **Replacement received** record what the user entered or observed. They do not prove the supplier agreed, that funds cleared, that replacement goods were suitable, or that an issue was legally resolved.
+Labels such as **Supplier contacted**, **Credit promised**, **Credit received**, **Refund received**, **Replacement received**, **Resolved**, or **Marked shared by you** record the user's entry or observation. They do not prove delivery, agreement, cleared funds, suitable replacement goods, legal resolution, or receipt by an external party.
 
-Reports preserve selected inputs, calculation basis and revision context. A report can become outdated after a correction. The user must preview the exact version, recipient and included evidence before sharing.
+Reports preserve a selected record revision, calculation basis, known unknowns, and coverage state. A report can become outdated after correction. Preview the exact revision, scope, recipient, notes, and included evidence before sharing.
 
 ## Decisions remain with the customer
 
-The customer must review entries, calculations and reports against authoritative records and decide whether goods should be accepted, rejected, stored, used, paid for, returned or disputed. Do not rely on the App for urgent safety, health, legal-compliance or business-continuity decisions.
+The customer must compare entries and reports with authoritative sources and decide whether goods should be accepted, rejected, stored, used, paid for, returned, or disputed. Do not rely on SupplyCheck for urgent safety, health, legal-compliance, high-value, or business-continuity decisions. Obtain qualified accounting, tax, legal, regulatory, safety, insurance, or other professional advice when appropriate.
 
-The customer controls who uses the device and which records are sent to a supplier, colleague, file provider or other recipient. GoodUse Studios remains responsible for defects, unsafe defaults, misleading disclosures or unintended disclosure caused by the App to the extent applicable law places that responsibility on us.
+The customer controls device/staff access and deliberate outward recipients. GoodUse Studios remains responsible for defects, unsafe defaults, misleading disclosures, and unintended disclosure caused by the App to the extent applicable law places that responsibility on us.
 
-The complete [Terms of Use]({{ '/supplycheck-local/terms/' | relative_url }}) apply. Nothing in this disclaimer excludes a right, warranty or remedy that applicable law does not permit GoodUse Studios to exclude.
+The complete Terms of Use apply. Nothing in this disclaimer excludes a statutory right, warranty, remedy, or responsibility that applicable law does not allow us to exclude or limit.
 
+Operator: **Lateef Razaq-Oyetola carrying on business as GoodUse Studios**, 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada. Contact: **lrodeveloperr@gmail.com**. Do not send operational records or images.
 
-<footer class="legal-footer">
-SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 12 August 2026
-</footer>
+<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 19 August 2026</footer>
