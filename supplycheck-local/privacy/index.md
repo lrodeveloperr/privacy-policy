@@ -6,198 +6,187 @@ lang: en
 
 <style>
 :root { color-scheme: light dark; }
-body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #ffffff; }
-a { color: #0759b8; }
-h1, h2, h3 { line-height: 1.25; color: #0b2345; }
-h1 { margin-top: 1.2rem; }
-blockquote { margin-left: 0; padding: .75rem 1rem; border-left: 4px solid #4b78a8; background: #f4f7fb; }
-table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
-th, td { padding: .55rem; border: 1px solid #ccd5e0; text-align: left; vertical-align: top; }
-.legal-nav { display: flex; flex-wrap: wrap; gap: .55rem 1rem; padding-bottom: 1rem; border-bottom: 1px solid #d7dee8; }
-.legal-meta { color: #48566a; }
-.legal-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d7dee8; color: #48566a; }
-@media (prefers-color-scheme: dark) {
-  body { color: #e8edf5; background: #111827; }
-  h1, h2, h3 { color: #f5f8fc; }
-  a { color: #82b7ff; }
-  blockquote { background: #1d2a3a; }
-  th, td, .legal-nav, .legal-footer { border-color: #425069; }
-  .legal-meta, .legal-footer { color: #b8c3d4; }
-}
+body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #fff; }
+a { color: #0759b8; } h1,h2,h3 { line-height:1.25; color:#0b2345; }
+.legal-nav { display:flex; flex-wrap:wrap; gap:.55rem 1rem; padding-bottom:1rem; border-bottom:1px solid #d7dee8; }
+.legal-meta,.legal-footer { color:#48566a; } .legal-footer { margin-top:3rem; padding-top:1rem; border-top:1px solid #d7dee8; }
+@media (prefers-color-scheme: dark) { body { color:#e8edf5; background:#111827; } h1,h2,h3{color:#f5f8fc;} a{color:#82b7ff;} .legal-nav,.legal-footer{border-color:#425069;} .legal-meta,.legal-footer{color:#b8c3d4;} }
 </style>
 
 <nav class="legal-nav" aria-label="SupplyCheck legal documents">
-  <a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
-  <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
-  <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
-  <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
-  <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
-  <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
-  <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
+<a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
+<a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
+<a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
+<a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
+<a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
+<a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
+<a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
 </nav>
 
-<p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · Privacy Officer: Lateef Razaq-Oyetola · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026</p>
+<p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 19 August 2026</p>
 
-# Privacy Policy for SupplyCheck
+# Privacy Policy for SupplyCheck Local
 
-**Effective date:** 12 August 2026  
-**Last updated:** 13 August 2026
+**Document version:** 2026-08-19  
+**Effective:** when this version is first published and linked from the released App  
+**Applies to:** SupplyCheck Local 1.4.0 (build 140) for iPhone/iOS
 
-Lateef Razaq-Oyetola carrying on business as GoodUse Studios ("GoodUse Studios," "we," "us," or "our"), whose postal address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada, publishes SupplyCheck (the "App"). This policy explains how the App handles information and how GoodUse Studios handles the limited information it actually receives.
+Lateef Razaq-Oyetola carrying on business as GoodUse Studios ("GoodUse Studios," "we," "us," or "our") publishes **SupplyCheck Local (displayed on the device as SupplyCheck)** (the "App"). Our address is 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada. Our privacy contact is lrodeveloperr@gmail.com.
 
-## 1. Privacy summary
+This policy separates information processed locally under the customer's control from the limited information GoodUse Studios or platform providers may actually receive. Local-first design reduces data flows; it is not a claim that the App or every customer use is automatically compliant with every privacy, employment, records-management, tax, or other law.
 
-SupplyCheck is a local-first business utility. During ordinary core use, GoodUse Studios does not receive or store your orders, invoices, delivery records, photos, supplier notes, discrepancy records or recovery records. The App processes that operational content on your device.
+## 1. Summary
 
-The initial release has no SupplyCheck account, GoodUse Studios operational-data cloud database, advertising, behavioural analytics, tracking identifier, remote OCR, remote AI, supplier connection or simultaneous multi-device synchronization. It uses no third-party crash or analytics SDK. Platform services may separately process purchases or platform diagnostics under their settings, terms and privacy notices.
+- SupplyCheck is an account-free, local-first delivery discrepancy and supplier-credit tracker.
+- During ordinary core use, GoodUse Studios does not receive or store the customer's orders, invoices, delivery records, supplier notes, operational photos, discrepancy records, reports, or recovery records. The App processes them on the device.
+- The App has no GoodUse operational-data cloud, advertising SDK, behavioural analytics, tracking identifier, remote OCR/AI, supplier connection, or simultaneous multi-device synchronization. It does not intentionally include a third-party crash or analytics SDK.
+- Operational content leaves the App only when a person deliberately uses a previewed share, export, backup, copy, or move flow and selects a recipient, app, file provider, or destination. GoodUse Studios does not authenticate that person's identity or authority.
+- Apple separately processes App Store transactions and may make platform diagnostics or sales reports available under Apple's systems, settings, and notices.
+- Ordinary support is not an operational-record intake channel. Do not send us invoices, delivery records, supplier data, photos, reports, databases, or backup/move packages.
 
-Operational content leaves the App only when a person using the device deliberately completes a previewed share, export, backup, copy or move and chooses a recipient, app, provider or destination. GoodUse Studios does not verify that person's identity or authority. V1 support does not ask for or accept operational records, images or backup files.
+## 2. Roles and responsibility
 
-This local-first design reduces the information GoodUse Studios receives. It does not make the App or every use of it automatically compliant with every privacy, employment, records-management or other law.
+The customer organisation normally decides why and how its operational records are created, used, retained, corrected, disclosed, and deleted. It is normally responsible for its lawful basis, notices, workforce and supplier rights, device/staff access, recipients, and selected external providers.
 
-## 2. Information processed locally
+GoodUse Studios separately determines the purposes and means for personal information we actually receive or control, such as support correspondence, privacy requests, security reports, developer-accessible platform diagnostics, and store sales or entitlement information made available to us. Our role must be assessed flow by flow; we do not claim globally to be neither a controller nor processor.
 
-Depending on the features you use, the App may process locally:
+The customer remains responsible for deliberate outward disclosures after the previewed handoff. GoodUse Studios remains responsible for the App sandbox, permissions, dependencies, temporary-file handling, safe defaults, truthful disclosures, and defects that cause unintended disclosure before that handoff, to the extent required by law.
 
-- supplier and contact details;
-- orders, invoices, delivery references, source documents and imported rows;
-- item names, product identifiers, quantities, units, pack sizes, prices, currencies and tax scope;
-- discrepancy, condition, substitution, damage and disposition information;
-- delivery dates, check status, revision history and calculated comparison results;
-- supplier follow-up, promised or received credit, refund or replacement information;
-- notes, tasks, reminders, photos, attachments and locally retained source originals;
-- generated PDFs, spreadsheets, readable exports and backup metadata;
-- device labels, event history, conflict data, retention settings and local legal-notice history; and
-- App settings and locally verified purchase-entitlement state.
+## 3. Operational information processed on the device
 
-Operational content can include personal or confidential information even when the App does not require it—for example names, signatures, faces, contact information, bank details or employee activity. Enter only information your organisation is authorized to use and avoid unnecessary sensitive content.
+Depending on the features used, the App may process locally:
 
-## 3. Limited content-free continuity data
+- supplier and optional contact details;
+- order, invoice, delivery, credit-note, reference, source-document, and imported-row information;
+- item names/codes, quantities, units, pack relationships, weights/volumes, prices, currencies, tax scope, fees, discounts, deposits, and adjustments;
+- shortages, over-deliveries, invoiced differences, damage, substitutions, unexpected items, dispositions, condition, and source-match decisions;
+- check coverage, unknowns, revision history, calculation inputs, comparisons, and results;
+- supplier contact, promised or received credits, refunds, returns, replacements, follow-up dates, tasks, and reminders;
+- notes, photos, attachments, retained source originals, generated PDFs, spreadsheets, and readable exports;
+- machine-backup, copy/move, import, conflict, retention, deletion, outward-action, and recovery journals;
+- language, appearance, privacy-lock, retention, and other local settings; and
+- locally verified store-product and evaluation-entitlement state.
 
-SupplyCheck uses limited opaque local metadata to enforce the one-time five-delivery allowance, prevent duplicates or deleted records from silently reappearing when old packages are merged, and reject late file callbacks after deletion. This metadata is designed not to contain an organisation name, supplier, person, date, amount, attachment, note or other readable business content.
+Operational content may contain personal, confidential, or sensitive information even though the App does not require it—for example names, signatures, faces, contact details, bank details, employee activity, or supplier disputes. Enter only information the organisation is authorized to use, minimize unnecessary personal information, and use crop/redaction where available.
 
-It can include:
+## 4. Why local information is processed
 
-- up to five opaque evaluation-claim tokens or anonymous conflict-family claim slots;
-- a content-free marker recording that the five-use allowance has been exhausted;
-- opaque deletion tombstones and a bounded identity-equivalence ledger; and
-- content-free destruction-generation records used to reject stale callbacks.
+The App processes local information to perform actions requested by the device user: create and revise records, compare selected evidence, calculate supported values, generate reports, track supplier recovery, import/export, preserve integrity across interruptions, prevent duplicate/resurrected records, enforce the evaluation and paid-access state, apply retention/deletion choices, and perform backup/copy/move operations.
 
-The tokens and identity metadata may be correlatable with a matching old backup or package held by the customer. The exhaustion marker itself is only a monotonic status value and does not identify a delivery. This continuity data may remain in the App's private storage for the installation lifetime, including after **Delete all organisation data**, because deleting operational content does not restore the free allowance and an old package must not silently resurrect deleted content. Uninstalling or clearing all App storage may remove installation-local continuity data; a fresh installation without a SupplyCheck backup cannot consult data it does not have.
+Where privacy law applies to GoodUse-controlled processing, the possible bases are performance of the app contract or requested service; legitimate interests in secure operation, fraud/abuse prevention, support, and legal-claim management; compliance with legal duties; and consent only for a distinct optional activity where the law requires and the user can withdraw it. Providing a privacy notice is not blanket consent and is not used as the legal basis for every operation.
 
-The complete installation-wide identity ledger and callback fence are excluded from the complete readable export and organisation backup. A machine-restorable package carries only the bounded continuity subset needed for safe restore: the exhaustion marker when set; no more than five per-claim equivalence entries; a capacity-bounded terminal-family projection of no more than 4,096 components and 16 MiB; and the minimum package-scoped identity and tombstone mapping needed for content in that package. These opaque mappings can relate packages to one another for deduplication and deletion continuity. They are not included in the human-readable export.
+## 5. Content-free continuity and evaluation metadata
 
-## 4. Information GoodUse Studios may receive
+SupplyCheck uses bounded opaque local metadata to enforce the one-time allowance of five distinct completed deliveries, reconcile identities across customer-controlled packages, prevent deleted records from silently reappearing during a later merge, and reject stale callbacks after deletion.
 
-### App-store purchases
+Metadata that may remain after **Delete all organisation data** is limited to:
 
-Apple or Google processes purchases under its terms and privacy notices. We do not receive your full payment-card or bank-account details. The Store and App may process limited information needed to verify or restore access, such as product, transaction or order reference, purchase status, paid-through or grace status, refund or revocation status, and storefront. Stores may provide GoodUse Studios with sales, tax and financial reports.
+- up to five opaque evaluation-claim tokens or bounded anonymous conflict-family slots;
+- a content-free marker that the historical five-use allowance was exhausted;
+- bounded opaque identity-equivalence, terminal-family, and deletion-continuity mappings; and
+- an installation-local destruction-generation fence used to reject late callbacks.
 
-The initial App verifies entitlements through StoreKit or Google Play Billing and does not use a GoodUse Studios receipt server. Purchase restoration restores only an eligible entitlement; it does not restore or synchronize operational records.
+Those values are designed to contain no readable organisation, supplier, person, date, amount, note, attachment, or delivery content. They may correlate with a matching old package held by the customer. Uninstalling or clearing all App storage can remove installation-local metadata; a fresh installation without a SupplyCheck package cannot consult information it does not possess. A portable machine package may carry only the bounded continuity subset needed for safe restore; the complete installation-wide ledger is not part of the human-readable export.
+
+## 6. Information GoodUse Studios or platform providers may receive
+
+### Store purchases and entitlement
+
+Apple processes the App Store transaction under its terms and privacy notices. GoodUse Studios does not receive full payment-card or bank-account details. StoreKit, the App, and Apple developer reports may process or expose limited product and transaction information such as product ID, transaction reference, purchase or entitlement status, storefront, refund/revocation, and sales/tax totals.
 
 ### Platform diagnostics
 
-The App contains no third-party crash or analytics SDK. Apple or Google may make platform diagnostics available according to the device holder's and Store's settings. The App is designed not to put supplier names, filenames, notes, imported values, record identifiers, amounts, internal paths or photos in its logs or crash messages. GoodUse Studios must reassess this policy and the store declarations if production diagnostics or SDKs change.
+The App intentionally contains no third-party crash or behavioural analytics SDK. Apple may make crash or diagnostic information available according to platform and device settings. The App is designed not to place supplier names, imported values, amounts, record IDs, internal filenames/paths, notes, or photos in application logs or exception messages.
 
-### Support and privacy correspondence
+### Support, privacy, and security correspondence
 
-If you contact us, we receive the contact details and neutral technical information you choose to provide. For support, send only the platform, device and operating-system version, App version, schema version, locale and neutral error code. Do not send screenshots, orders, invoices, supplier records, photos, databases, backups, payment-card details, passwords or other operational content. If operational content is sent contrary to these instructions, we will not use it as ordinary support input and will restrict or remove it subject to security, legal-preservation and incident-response duties.
+If a person contacts us, we receive the email address and information they choose to provide. Approved neutral support details are platform, device model, operating-system version, App version/build, schema version, locale, store product ID, transaction phase, and a neutral error code. Do not send screenshots, supplier/export records, photos, databases, backup/move packages, credentials, or payment-card details.
 
-We use correspondence to answer the request, troubleshoot using neutral information, handle purchase support, protect the App, meet legal obligations and establish, exercise or defend claims. Email providers may process correspondence outside your country. We retain it only as long as reasonably necessary for those purposes, subject to documented legal, tax, security and dispute-retention requirements.
+We use correspondence to answer the request, troubleshoot using neutral information, handle privacy/security requests, protect the App, comply with law, and establish, exercise, or defend claims. If operational content is sent contrary to these instructions, we will restrict access and remove it when reasonably possible, subject to security, evidence-preservation, incident-response, and legal duties.
 
-## 5. Local storage and device security
+### Public policy and support pages
 
-Live operational data is kept in the operating system's app-private internal storage. The production design uses iOS file data protection and Android private credential-encrypted storage. Operational files are excluded from automatic operating-system/cloud App backup and automatic device-transfer paths; the complete organisation dataset moves only through a deliberate SupplyCheck backup or copy/move action.
+The public policy and support pages are intended to be hosted through GitHub Pages. GitHub and network providers may process IP address, request, device/browser, cookie, and security-log information under their own notices. GoodUse Studios does not use those pages as an operational-record intake channel and does not authorize advertising or behavioural analytics on those pages through this policy.
 
-SupplyCheck creates no App password, PIN, backup password, recovery key or separate live-database encryption credential. The operating system's device authentication normally controls device access. When native authentication is configured and available, the App requires it for complete readable export, complete backup, copy/move, restore/replace, Finish move, retention-policy changes or conflicts, and deletion of all organisation data. A failed, cancelled, timed-out or interrupted authentication attempt aborts the action. A strong consequence confirmation is used instead only when the operating system reports before prompting that native authentication is unsupported or not configured. Routine supplier sharing uses an exact preview and authority confirmation; per-record deletion uses a record-specific confirmation.
+## 7. Permissions and device security
 
-Use a strong device passcode, keep the operating system current and control physical access. GoodUse Studios is responsible for the App sandbox, permissions, temporary-file handling, dependencies, safe defaults and prevention of unintended disclosure caused by the software. The customer is responsible for device and staff access, lawful use, retention choices, selected recipients/providers and deliberate external copies.
+Live operational data is intended to remain in app-private internal storage. The iOS design applies protected files and excludes operational data from automatic backup. SupplyCheck creates no App password, PIN, backup password, or recovery key and adds no separate encryption/password to exported files. Operating-system authentication normally protects the device.
 
-No storage system is infallible. Device loss, failure, reset, uninstall, storage corruption or an incompatible update can cause data loss. GoodUse Studios cannot retrieve records that it never receives.
+Use a strong device passcode, keep the operating system and App current, restrict physical/staff access, and maintain appropriate customer-controlled backups. No storage system can be guaranteed completely secure. Device loss, failure, reset, uninstall, corruption, or an incompatible update can make local information unrecoverable; GoodUse Studios cannot retrieve content it never received.
 
-## 6. Photos, files and imports
+## 8. Photos, imports, and temporary files
 
-The App uses system pickers so you select the photo or file to provide. Photos are re-encoded and location/EXIF metadata is removed when they enter the App. Crop and redaction tools are available, and photos are excluded from sharing by default. Keeping an untouched original is a separate, warned, off-by-default choice.
+When a person chooses a photo or file through an available system selection flow, the selected content may itself contain visible or embedded personal or confidential information. Review and minimize the selected content before importing or sharing it. Report sharing includes photos only through an explicit user selection; operational content otherwise remains subject to the App's local storage and retention rules.
 
-Imported files are treated as untrusted. The App validates supported formats and sizes, does not execute macros, formulas, links or external references, and does not modify or delete the original file in the location you selected. Temporary raw import copies, previews and share files are removed after success or cancellation where possible. Each is unusable no later than 24 hours after creation and is purged before normal use the next time the operating system executes the App. We do not claim physical deletion while the device does not run the App.
+Imports are treated as untrusted data. The App validates supported type/size boundaries, rejects unsupported or active content, stages accepted data privately before live mutation, and does not intentionally alter the selected external original. Temporary import quarantine, preview, and share files use opaque local storage and have a maximum 24-hour logical lifetime with cleanup on the next execution after expiry. We do not claim physical erasure while the operating system is not executing the App.
 
-## 7. Sharing, exports, backup and device copies
+## 9. Sharing, exports, backups, copies, and moves
 
-The App distinguishes:
+The App distinguishes supplier/internal report sharing, filtered analysis export, complete readable export, and machine-restorable backup/copy/move. Before a complete-data handoff it must preview scope and warn that SupplyCheck does not password-protect the file or transfer package.
 
-- supplier or internal PDF sharing;
-- a filtered analysis spreadsheet;
-- **Export all organisation data (readable)**, which produces a versioned ZIP with a canonical UTF-8 JSON dataset, convenience CSV tables and associated files; and
-- a complete machine-restorable SupplyCheck backup or copy/move package.
+After the platform share/save interface hands bytes to the selected recipient, provider, messaging app, cloud storage, external device, or other destination, that destination controls its copy under its own terms. The customer is responsible for recipient authority, transfer duties, access, retention, later copies, and deletion from external systems. GoodUse Studios cannot recall, remotely wipe, or prove deletion of those copies.
 
-Before a complete-data handoff, the App previews the scope and warns:
+The local outward-copy log and backup inventory record observed actions, not proof that an external file still exists or was delivered. SupplyCheck is designed for one intended active working copy at a time, not live simultaneous synchronization. Copies can diverge.
 
-> SupplyCheck does not password-protect this file or transfer package. Anyone with access to the destination or file may be able to read it after handoff.
+## 10. Local retention
 
-SupplyCheck adds no password or bespoke encryption to exported PDFs, spreadsheets, readable ZIPs, backups or local transfer packages. The system save/share interface hands the selected bytes to the destination you choose. After handoff, the recipient, file provider, messaging service, cloud-storage provider or other destination controls its copy under its terms and practices. The customer is responsible for that destination, authorized recipients, transfer duties, later copies and deletion from external systems. GoodUse Studios cannot recall or remotely delete those copies.
+The intended local retention state machine is:
 
-The App keeps a local backup inventory and outward-copy log to help you remember observed saves and handoffs. These observations are not proof that an external file still exists or was delivered, and the App does not claim to delete it. The initial release supports one intended active working copy at a time. A copied or restored package is not live synchronization; copies can diverge.
+- temporary raw quarantine, preview, and share files: maximum 24-hour logical lifetime plus purge at the next execution after expiry;
+- Drafts: after 90 days without a substantive edit or **Keep draft**, enter seven-day **Pending deletion**, then permanently delete on a safe App run unless kept, edited, or completed;
+- unattached/supplier-template staging: after 90 days without **Resume import** or **Keep staging**, enter the same seven-day state;
+- completed records without open recovery: organisation default or record override of 1 year, 3 years, 7 years, or **Manual deletion only**; no automatic deletion until a choice is made;
+- fixed completed-record periods run from the latest substantive completed revision, or for a recovery matter, the later of that revision and latest recovery resolution/closure;
+- display-only edits, reminder/share status, export, and UI changes do not extend the substantive anchor;
+- open recovery matters and unresolved conflicts are exempt from automatic deletion until resolved; and
+- photos, retained originals, attachments, and immutable marked-shared PDFs inherit the parent record's retention. Archive does not stop the clock.
 
-## 8. Retention inside the App
+A fixed-period record enters a seven-day Pending-deletion state before hard deletion. Export does not cancel or extend the deadline. Changing a policy can make existing content immediately eligible for that grace state. This schedule is part of the iPhone local-retention architecture.
 
-SupplyCheck applies these local retention choices:
+## 11. GoodUse-controlled retention
 
-- Temporary quarantine, preview and share files are deleted after success or cancellation where possible and have a maximum 24-hour logical lifetime plus purge on the next App execution.
-- A Draft enters a seven-day **Pending deletion** state after 90 days without an edit or a **Keep draft** action, then is permanently deleted on the next safe App run unless kept, edited or completed.
-- Record-bound import staging follows its parent record. An unattached or supplier-template staging session enters seven-day **Pending deletion** after 90 days without **Resume import** or **Keep staging**; either action resets its activity anchor.
-- After the first completion, the organisation chooses a default of 1 year, 3 years, 7 years or **Manual deletion only** for completed records without open recovery. Until a choice is made, completed records are not automatically deleted. For a record without follow-up, a fixed period runs from the latest substantive completed revision; for a recovery case, it runs from the later of the latest substantive revision and latest resolution or closure. Display-label changes, task/reminder/share status, exports and UI changes do not reset that anchor. An individual record can use the organisation policy or one of the same override choices.
-- A fixed-period completed or archived record enters **Pending deletion** seven days before its scheduled deletion. Exporting does not cancel or extend the deadline. **Keep and choose retention** changes the applicable choice.
-- Open recovery matters and unresolved conflicts are not automatically deleted.
-- Photos, retained originals and exact PDFs marked shared inherit the parent record's retention. Archiving does not stop the retention clock.
+For information GoodUse Studios actually possesses, the operational retention schedule is: ordinary support correspondence up to 24 months after closure; privacy-rights correspondence up to three years after closure to document the response; security/vulnerability records up to five years after closure; and App Store sales/tax/accounting records for the period required by applicable accounting and tax law. A record may be retained longer for an unresolved dispute, incident, legal hold, fraud/security investigation, or legal obligation, and deleted or de-identified earlier when no longer needed.
 
-Changing a retention choice can make old content immediately eligible for the seven-day Pending-deletion period. The App shows the affected scope before deletion.
+Provider-specific retention may also be governed by Apple, the email provider, GitHub Pages, or another service independently selected by the customer. This policy does not authorize GoodUse Studios to introduce a new operational-data provider.
 
-## 9. Access, correction and deletion
+## 12. Access, correction, portability, deletion, and privacy rights
 
-Because operational content remains under the customer's control on its device, local tools provide the practical access, correction, export and deletion routes:
+The App provides local search/review, traceable correction, complete readable export, per-record purge, and **Delete all organisation data**. Deletion cannot recall external PDFs, spreadsheets, recipient/provider copies, old customer-controlled backups, or copies on another device. Restoring a pre-deletion backup in isolation may reintroduce content. SupplyCheck does not claim forensic erasure from flash storage.
 
-- search and review records and their history;
-- correct a completed record through a traceable revision;
-- export all organisation data in the complete readable format;
-- permanently delete an individual record and its content-bearing derivatives; or
-- use **Delete all organisation data** to remove the live organisation dataset and local content-bearing derivatives.
+For operational records held only by a customer organisation, a person should ordinarily contact that organisation. GoodUse Studios cannot search, correct, export, or delete content it never received. The organisation can use the local tools described above.
 
-Deletion cannot recall PDFs, spreadsheets, recipient copies, provider-held exports, old customer-controlled backups or copies on another device. An isolated device restoring a backup made before a later deletion may reintroduce older content because it cannot know the deletion occurred. SupplyCheck does not claim forensic erasure from flash storage. The limited content-free continuity data described in section 3 survives Delete all organisation data.
+For personal information GoodUse Studios actually holds, depending on applicable law a person may request information, access, correction, deletion, restriction, portability, objection, or withdrawal of consent where consent is the basis. They may complain to the Office of the Privacy Commissioner of Canada, a provincial regulator, or another competent authority. Email lrodeveloperr@gmail.com. We may reasonably verify identity and authority and explain any lawful exception.
 
-For records held only by a customer organisation, a person seeking privacy rights should ordinarily contact that organisation. GoodUse Studios cannot search, correct or delete operational content it never received. For personal information GoodUse Studios actually holds, such as support or privacy correspondence, you may request access, correction or deletion, withdraw consent or object where applicable law provides that right. We may verify the request and may retain limited information where required by law or needed for security or legal claims.
+If applicable law requires a local representative, DPO, CPO, or additional rights contact for a territory, the published privacy information will provide the required details for distribution there.
 
-You may also have a right to complain to the privacy regulator in your jurisdiction.
+## 13. Disclosure and international processing
 
-## 10. Sale, advertising and tracking
+We may disclose information we actually possess to service providers acting under appropriate instructions, professional advisers, payment/store operators, or authorities where reasonably necessary for a valid legal obligation, security/incident response, or legal claims. We do not gain access to local operational records through this clause.
 
-GoodUse Studios does not sell or rent operational content. The App has no ads, behavioural analytics or cross-app tracking and does not share operational content with advertising networks.
+GoodUse Studios is based in Ontario, Canada. Apple, email, GitHub Pages, and destinations independently selected by a customer may process their limited information in Canada, the United States, or other countries. Laws may differ. GoodUse Studios applies applicable transfer, contractual, safeguard, and notice requirements to information it controls; a user's independent choice of an external destination does not change the responsibilities that apply to each party.
 
-## 11. International processing
+## 14. Advertising, sale, and tracking
 
-GoodUse Studios is based in Ontario, Canada. Apple, Google, email providers and destinations you independently select may process the limited information they receive in Canada, the United States or other countries under their own terms, privacy notices and transfer mechanisms. Laws in those places may differ from those where you live.
+The App has no advertising, behavioural analytics, cross-app tracking, or advertising identifier use. GoodUse Studios does not sell or rent operational content. This local-first design does not mean that no information can ever be processed by Apple, support email, public web hosting, or a destination deliberately selected by the customer.
 
-## 12. Children
+## 15. Children, workforce data, and sensitive information
 
-The App is a business utility and is not directed to children. We do not knowingly solicit personal information from children through the App. A person who cannot legally agree to the Terms of Use must not purchase or use the App without an authorized adult's involvement.
+SupplyCheck is an adult business utility and is not directed to children. Do not use it to collect children's information without a lawful, necessary business purpose and appropriate authority.
 
-## 13. Legal disclosures
+Operational photos or notes can contain faces, signatures, bank details, workforce activity, allegations, or other sensitive information. Customers must assess employment/labour notices, lawful basis, monitoring proportionality, access, retention, and impact-assessment duties. SupplyCheck performs no facial recognition or biometric inference.
 
-We may use or disclose information we actually possess when reasonably necessary to comply with law or valid legal process, protect rights or safety, investigate fraud or security incidents, or establish, exercise or defend legal claims. This does not give GoodUse Studios access to operational records held only on a customer's device.
+## 16. Changes
 
-## 14. Changes
+Material changes receive a new version. The App presents an updated Privacy Policy before new record creation and separately requires Terms acceptance when contract terms change, while preserving access to view, export, and delete existing information. The local history records the displayed document language, version, digest, and time.
 
-We may update this policy when the App, data flows, providers or legal requirements change. We will change the date above and provide any additional notice required for a material change. We will not describe an acknowledgement of this notice as blanket consent for unrelated processing.
+## 17. Contact
 
-## 15. Contact
+**Lateef Razaq-Oyetola carrying on business as GoodUse Studios**  
+36 Zorra Street  
+Toronto (Etobicoke), Ontario M8Z 0G5  
+Canada  
+Email: **lrodeveloperr@gmail.com**
 
-**Operator:** Lateef Razaq-Oyetola carrying on business as GoodUse Studios  
-**Postal address:** 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada  
-**Privacy Officer:** Lateef Razaq-Oyetola  
-**Email:** lrodeveloperr@gmail.com
+Do not send operational records or images to this email.
 
-© 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios
-
-
-<footer class="legal-footer">
-SupplyCheck · © 2026 Lateef Razaq-Oyetola carrying on business as GoodUse Studios · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 13 August 2026
-</footer>
+<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 19 August 2026</footer>
