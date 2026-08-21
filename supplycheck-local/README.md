@@ -1,11 +1,12 @@
 # SupplyCheck legal publication set
 
-Final public legal and support pages for **SupplyCheck Local 1.4.0 (build 140) for iPhone/iOS**, displayed on the device as **SupplyCheck**.
+Public legal, privacy, purchase, refund, support, and disclaimer pages for **SupplyCheck 2.0.0** on Android (build 200) and iPhone/iOS (build 201).
 
-**Version:** 19 August 2026
+**Document version:** 21 August 2026
 
-The authoritative public routes are:
+Authoritative routes:
 
+- `/supplycheck-local/`
 - `/supplycheck-local/privacy/`
 - `/supplycheck-local/terms/`
 - `/supplycheck-local/purchases/`
@@ -13,4 +14,4 @@ The authoritative public routes are:
 - `/supplycheck-local/support/`
 - `/supplycheck-local/disclaimer/`
 
-This publication set is iPhone/iOS-specific. It does not describe an Android subscription or Android release.
+SupplyCheck is the current local-first stock-control product. These pages do not describe the retired delivery-discrepancy prototype, a free-use allowance, an in-app purchase, or a subscription.
