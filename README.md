@@ -54,6 +54,20 @@ Promise Guard has no advertising. Its app-specific documents explain its local-f
 
 SupplyCheck's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck contains ads.
 
+## Welding Gas Wallet
+
+- [Welding Gas Wallet legal and support overview](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/privacy/)
+- [Terms of Use and Purchase Terms](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/terms/)
+- [Support](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/support/)
+- [Local Data Deletion and No-Account Explanation](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/deletion/)
+- [Safety and Scope Disclaimer](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/disclaimer/)
+
+Welding Gas Wallet has no advertising. Its app-specific documents explain its
+local-first cylinder records, user-initiated backup/export, platform purchases,
+free three-current-cylinder allowance, and strict non-safety/non-verification
+scope.
+
 ## Contact
 
 For questions about a particular app, identify the app and platform when emailing [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com). Do not send passwords, payment-card details or confidential operational records.
