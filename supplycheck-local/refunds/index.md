@@ -5,61 +5,50 @@ lang: en
 ---
 
 <style>
-:root { color-scheme: light dark; }
-body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172033; background: #fff; }
-a { color: #0759b8; } h1,h2,h3 { line-height:1.25; color:#0b2345; }
-.legal-nav { display:flex; flex-wrap:wrap; gap:.55rem 1rem; padding-bottom:1rem; border-bottom:1px solid #d7dee8; }
-.legal-meta,.legal-footer { color:#48566a; } .legal-footer { margin-top:3rem; padding-top:1rem; border-top:1px solid #d7dee8; }
-@media (prefers-color-scheme: dark) { body { color:#e8edf5; background:#111827; } h1,h2,h3{color:#f5f8fc;} a{color:#82b7ff;} .legal-nav,.legal-footer{border-color:#425069;} .legal-meta,.legal-footer{color:#b8c3d4;} }
+:root { color-scheme:light dark; }
+body { box-sizing:border-box; max-width:980px; margin:0 auto; padding:28px 22px 56px; font:17px/1.62 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; color:#163451; background:#fff; }
+a { color:#0759b8; } h1,h2,h3 { line-height:1.25; color:#163451; }
+.skip-link { position:absolute; left:1rem; top:-6rem; z-index:10; padding:.7rem 1rem; color:#fff; background:#0759b8; border-radius:.5rem; }
+.skip-link:focus { top:1rem; }
+a:focus-visible { outline:3px solid #f2a900; outline-offset:3px; border-radius:2px; }
+.legal-nav { display:flex; flex-wrap:wrap; gap:.55rem 1rem; padding-bottom:1rem; border-bottom:1px solid #d7e6f3; }
+.legal-meta,.legal-footer { color:#526a82; } .legal-footer { margin-top:3rem; padding-top:1rem; border-top:1px solid #d7e6f3; }
+@media (prefers-color-scheme:dark) { body{color:#eaf4ff;background:#09111c} h1,h2,h3{color:#eaf4ff} a{color:#8fc3ff} .legal-nav,.legal-footer{border-color:#31465b} .legal-meta,.legal-footer{color:#afc3d6} }
 </style>
 
-<nav class="legal-nav" aria-label="SupplyCheck legal documents">
-<a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a>
-<a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a>
-<a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a>
-<a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a>
-<a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a>
-<a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a>
-<a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
-</nav>
+<a class="skip-link" href="#main-content">Skip to main content</a>
 
-<p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 19 August 2026</p>
+<nav class="legal-nav" aria-label="SupplyCheck legal documents"><a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a> <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a> <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a> <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a> <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a></nav>
 
-# Refund Policy for SupplyCheck Local
+<p class="legal-meta"><strong>GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</p>
 
-**Document version:** 2026-08-19  
-**Effective:** when this version is first published and linked from the released App  
-**Applies to:** SupplyCheck Local 1.4.0 (build 140) for iPhone/iOS
+<main id="main-content" markdown="1">
 
-Apple processes purchases for **SupplyCheck Local (displayed on the device as SupplyCheck)**. GoodUse Studios does not receive full payment-card or bank-account details. App Store procedures, these terms, and mandatory law determine refund outcomes.
+# Refund Policy for SupplyCheck
 
-## 1. iOS one-time purchase
+**Effective:** 21 August 2026  
+**Applies to:** SupplyCheck 2.0.0 on Android and iPhone/iOS
 
-There is no SupplyCheck iOS subscription or recurring charge to cancel. To request a refund for the non-consumable product `com.goodusestudios.supplychecklocal.pro.unlock`, use Apple's Report a Problem service at `https://reportaproblem.apple.com/` or Apple's applicable purchase-history/support route for the purchasing Apple Account.
+SupplyCheck is a one-time paid app download. There is no SupplyCheck subscription or recurring charge to cancel.
 
-Apple decides App Store refund eligibility. GoodUse Studios cannot issue an App Store refund directly or promise Apple's outcome. **Restore Purchases** can address an eligible missing entitlement; it does not restore operational records.
+## Apple App Store purchases
 
-## 2. Effect of refund or revocation
+Apple decides App Store refund eligibility. Submit a request through [Apple's Report a Problem service](https://reportaproblem.apple.com/) or the purchase-history/support route for the Apple Account used to buy the App. GoodUse Studios cannot directly issue an App Store refund or promise Apple's decision.
 
-When StoreKit reports a verified refund or revocation that removes the Pro entitlement, authorization for new paid-gated work may end. Existing local records remain governed by the App's access, retention, export, correction, recovery, and deletion rules rather than being erased merely because the entitlement changed.
+## Google Play purchases
 
-A refund or revocation does not reset the first-five completed-delivery allowance. Deleting a completed record, deleting all organisation content, uninstalling the App, or restoring an older customer-controlled package does not create another evaluation use.
+Google Play and applicable law determine Google Play refund eligibility. Use [Google Play's refund guidance](https://support.google.com/googleplay/answer/2479637) or the purchase-history/support route for the Google Account used to buy the App. Where Google permits the developer to assist with a transaction, contact us with a redacted order reference—never payment-card or account credentials.
 
-## 3. Technical and entitlement support
+## Local data and redownloads
 
-Before contacting support:
+A refund, app removal, or store-account change does not cause GoodUse Studios to receive, retain, or remotely delete local stock data. A later eligible redownload does not restore operational records unless the user separately restores a supported device or app backup.
 
-1. confirm the Apple Account that made the purchase;
-2. reopen the product screen with network/App Store service available;
-3. use **Restore Purchases** or the equivalent re-query action; and
-4. note the App version/build, iOS version, product ID, neutral error code, and transaction phase.
+## Mandatory rights
 
-Email **lrodeveloperr@gmail.com** with only those neutral details and a redacted order/transaction reference where needed. Do not send payment-card details, passwords, PINs, screenshots, supplier data, invoices, photos, reports, databases, or backup/move files.
+Nothing in this policy limits a refund, cooling-off right, warranty, digital-content remedy, or other protection that applicable law does not permit the store or GoodUse Studios to exclude.
 
-## 4. Mandatory rights
+Contact: **lrodeveloperr@gmail.com**. Include only the store, App version/build, device/OS, a redacted order reference if necessary, and a neutral issue description.
 
-Nothing in this policy limits a refund, cancellation, cooling-off, warranty, digital-content, price-change, or other remedy that applicable law does not permit GoodUse Studios or the Store to exclude or limit. Mandatory law controls where it conflicts with this policy.
+</main>
 
-Operator: **Lateef Razaq-Oyetola carrying on business as GoodUse Studios**, 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada.
-
-<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 19 August 2026</footer>
+<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</footer>
