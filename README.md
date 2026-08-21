@@ -23,12 +23,24 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 12 August 2026  
+**Index updated:** 21 August 2026  
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
 This site publishes product-specific legal, privacy and support documents for apps from GoodUse Studios. Select the relevant app below.
 
 <p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
+
+## Promise Guard
+
+- [Promise Guard legal and support overview](https://lrodeveloperr.github.io/privacy-policy/promise-guard/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/promise-guard/privacy/)
+- [Terms of Use and Purchase Terms](https://lrodeveloperr.github.io/privacy-policy/promise-guard/terms/)
+- [Support](https://lrodeveloperr.github.io/privacy-policy/promise-guard/support/)
+- [Data Deletion and No-Account Explanation](https://lrodeveloperr.github.io/privacy-policy/promise-guard/deletion/)
+- [Safety and Legal Disclaimer](https://lrodeveloperr.github.io/privacy-policy/promise-guard/disclaimer/)
+- [Store Metadata Package](https://lrodeveloperr.github.io/privacy-policy/promise-guard/store-metadata/)
+
+Promise Guard has no advertising. Its app-specific documents explain its local-first records, user-initiated sharing and backup, two-record creation allowance and platform-specific purchases.
 
 ## SupplyCheck
 
@@ -41,10 +53,6 @@ This site publishes product-specific legal, privacy and support documents for ap
 - [Operational Disclaimer](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/disclaimer/)
 
 SupplyCheck's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck contains ads.
-
-## Other GoodUse Studios apps
-
-No other app-specific legal-document links were present on the repository home page as reviewed on 12 August 2026. When another app's documents are published here, list and link that app separately without treating SupplyCheck's terms or data practices as applicable to it.
 
 ## Contact
 
