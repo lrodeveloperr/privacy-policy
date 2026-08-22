@@ -28,29 +28,31 @@ a:focus-visible { outline:3px solid #f2a900; outline-offset:3px; border-radius:2
 <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a>
 </nav>
 
-<p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</p>
+<p class="legal-meta"><strong>Lateef Razaq-Oyetola carrying on business as GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 22 August 2026</p>
 
 <main id="main-content" markdown="1">
 
 # SupplyCheck — legal and support documents
 
-These documents apply to **SupplyCheck 2.0.0**, package `com.goodusestudios.supplychecklocal` on Android and bundle identifier `com.goodusestudios.supplychecklocal` on iPhone/iOS. SupplyCheck is an account-free, local-first stock-control app for small workshops and trade teams.
+These documents apply to **SupplyCheck 2.1.0 on Android** and **SupplyCheck 2.0.0 on iPhone/iOS**, package/bundle identifier `com.goodusestudios.supplychecklocal`. SupplyCheck is an account-free, local-first stock-control app for small workshops and trade teams. Inventory records remain device-local unless the user deliberately exports/shares them or uses platform backup/device-transfer features.
 
 ## Documents
 
 - [Privacy Policy]({{ '/supplycheck-local/privacy/' | relative_url }})
 - [Terms of Use]({{ '/supplycheck-local/terms/' | relative_url }})
 - [Purchase Terms]({{ '/supplycheck-local/purchases/' | relative_url }})
-- [Refund Policy]({{ '/supplycheck-local/refunds/' | relative_url }})
+- [Refund and Cancellation Policy]({{ '/supplycheck-local/refunds/' | relative_url }})
 - [Support and Data Deletion]({{ '/supplycheck-local/support/' | relative_url }})
 - [Operational Disclaimer]({{ '/supplycheck-local/disclaimer/' | relative_url }})
 
-## Product and purchase boundary
+## Platform and purchase boundary
 
-SupplyCheck records stock items, locations, suppliers, minimums, physical counts, receipts, use, loss, notes, corrections, and exports on the device. It has no GoodUse Studios account, inventory cloud, advertising, behavioural analytics, or tracking SDK.
+**Android 2.1.0:** the complete inventory feature set is available without a feature paywall or usage cap. Unless Google Play verifies an active ad-free subscription, the App reserves a permanent bottom banner for **non-personalized advertising**. The optional **SupplyCheck Ad-Free Monthly** subscription removes only that banner. The intended United States list price is **US$2.99/month**; the localized price and renewal terms displayed by Google Play at checkout control. Android uses Google User Messaging Platform for applicable consent/privacy choices and Google Play Billing for the subscription.
 
-SupplyCheck is offered as a **one-time paid app download** through the applicable store. It has no SupplyCheck subscription, free-use cap, in-app purchase, paywall, or recurring SupplyCheck charge. The store displays and processes the purchase before download.
+**iPhone/iOS 2.0.0:** the existing version remains a one-time paid App Store download with no SupplyCheck advertising banner or monthly SupplyCheck subscription. Its intended United States list price remains **US$4.99**, subject to Apple’s displayed price and terms.
+
+SupplyCheck does not provide a GoodUse Studios account or inventory cloud, and it does not include behavioural analytics or a third-party crash-reporting SDK. Android advertising/billing network processing is described separately in the Privacy Policy and does not intentionally include the local inventory ledger.
 
 </main>
 
-<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</footer>
+<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 22 August 2026</footer>
