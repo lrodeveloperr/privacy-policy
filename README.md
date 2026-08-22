@@ -23,12 +23,12 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 21 August 2026  
+**Index updated:** 22 August 2026  
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
 This site publishes product-specific legal, privacy and support documents for apps from GoodUse Studios. Select the relevant app below.
 
-<p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
+<p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps, platforms and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
 
 ## Promise Guard
 
@@ -52,7 +52,7 @@ Promise Guard has no advertising. Its app-specific documents explain its local-f
 - [Support and Data Deletion](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/support/)
 - [Operational Disclaimer](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/disclaimer/)
 
-SupplyCheck's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck contains ads.
+SupplyCheck uses different commercial models by platform/version. Android 2.1.0 provides the full feature set with a permanent non-personalized advertising banner unless an optional monthly ad-free Google Play subscription is active. SupplyCheck 2.0.0 on iPhone/iOS remains a one-time paid, no-ad version. See the app-specific pages for advertising, privacy, subscription, cancellation, backup and deletion details.
 
 ## Contact
 
