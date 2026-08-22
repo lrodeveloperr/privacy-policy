@@ -20,16 +20,18 @@ a:focus-visible { outline:3px solid #f2a900; outline-offset:3px; border-radius:2
 
 <nav class="legal-nav" aria-label="SupplyCheck legal documents"><a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a> <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a> <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a> <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a> <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a></nav>
 
-<p class="legal-meta"><strong>GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</p>
+<p class="legal-meta"><strong>GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 22 August 2026</p>
 
 <main id="main-content" markdown="1">
 
 # Operational Disclaimer for SupplyCheck
 
-**Effective:** 21 August 2026  
-**Applies to:** SupplyCheck 2.0.0 on Android and iPhone/iOS
+**Effective:** 22 August 2026  
+**Applies to:** SupplyCheck 2.1.0 on Android and SupplyCheck 2.0.0 on iPhone/iOS
 
 SupplyCheck is a local operational recordkeeping aid. It calculates and displays information from user-entered items, locations, minimums, counts, receipts, use, loss, notes, and corrections. It does not independently inspect stock, scan or authenticate a barcode or document, contact a supplier, verify that an event occurred, or determine what a person or business owes.
+
+The presence or absence of an Android advertising banner, or the status of an optional ad-free subscription, does not change the operational meaning, accuracy, authority, or completeness of inventory records or reports.
 
 ## Not an authoritative or professional system
 
@@ -59,4 +61,4 @@ Operator: **Lateef Razaq-Oyetola carrying on business as GoodUse Studios**, 36 Z
 
 </main>
 
-<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</footer>
+<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 22 August 2026</footer>
