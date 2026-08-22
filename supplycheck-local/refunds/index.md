@@ -1,5 +1,5 @@
 ---
-title: Refund Policy for SupplyCheck
+title: Refund and Cancellation Policy for SupplyCheck
 permalink: /supplycheck-local/refunds/
 lang: en
 ---
@@ -20,35 +20,41 @@ a:focus-visible { outline:3px solid #f2a900; outline-offset:3px; border-radius:2
 
 <nav class="legal-nav" aria-label="SupplyCheck legal documents"><a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a> <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a> <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a> <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a> <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a></nav>
 
-<p class="legal-meta"><strong>GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</p>
+<p class="legal-meta"><strong>GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 22 August 2026</p>
 
 <main id="main-content" markdown="1">
 
-# Refund Policy for SupplyCheck
+# Refund and Cancellation Policy for SupplyCheck
 
-**Effective:** 21 August 2026  
-**Applies to:** SupplyCheck 2.0.0 on Android and iPhone/iOS
+**Effective:** 22 August 2026  
+**Applies to:** SupplyCheck 2.1.0 on Android and SupplyCheck 2.0.0 on iPhone/iOS
 
-SupplyCheck is a one-time paid app download. There is no SupplyCheck subscription or recurring charge to cancel.
+## Android monthly ad-free subscription
 
-## Apple App Store purchases
+SupplyCheck 2.1.0 for Android provides the full App with a permanent non-personalized advertising banner when no active ad-free entitlement is verified. The optional **SupplyCheck Ad-Free Monthly** subscription removes only that banner while the entitlement remains active.
 
-Apple decides App Store refund eligibility. Submit a request through [Apple's Report a Problem service](https://reportaproblem.apple.com/) or the purchase-history/support route for the Apple Account used to buy the App. GoodUse Studios cannot directly issue an App Store refund or promise Apple's decision.
+The subscription renews automatically on the schedule and at the price shown by Google Play until cancelled. **Uninstalling SupplyCheck, clearing App data, or resetting the workspace does not cancel the subscription.** Cancel future renewal through Google Play’s subscription controls.
 
-## Google Play purchases
+Cancellation normally stops a future renewal rather than retroactively refunding a completed period. The ad-free entitlement may remain active until the end of the paid period according to Google Play’s status. Google Play and applicable law determine refund eligibility and timing. Use [Google Play's refund guidance](https://support.google.com/googleplay/answer/2479637) and the subscription/purchase-history tools for the Google Account used for the transaction.
 
-Google Play and applicable law determine Google Play refund eligibility. Use [Google Play's refund guidance](https://support.google.com/googleplay/answer/2479637) or the purchase-history/support route for the Google Account used to buy the App. Where Google permits the developer to assist with a transaction, contact us with a redacted order reference—never payment-card or account credentials.
+Where Google permits the developer to assist with a transaction, contact us with a redacted order reference—never payment-card details, Google Account credentials, or inventory data. GoodUse Studios cannot promise Google’s refund decision.
 
-## Local data and redownloads
+## iPhone/iOS one-time purchase
 
-A refund, app removal, or store-account change does not cause GoodUse Studios to receive, retain, or remotely delete local stock data. A later eligible redownload does not restore operational records unless the user separately restores a supported device or app backup.
+SupplyCheck 2.0.0 for iPhone/iOS remains a one-time paid App Store download with no SupplyCheck recurring subscription in that version. Apple decides App Store refund eligibility. Submit a request through [Apple's Report a Problem service](https://reportaproblem.apple.com/) or the purchase-history/support route for the Apple Account used to buy the App. GoodUse Studios cannot directly issue an App Store refund or promise Apple's decision.
+
+## Local data, ads, and refunds
+
+A refund, subscription cancellation, App removal, or store-account change does not cause GoodUse Studios to receive, retain, or remotely delete local stock data. A later eligible redownload does not restore operational records unless the user separately restores a supported device or App backup.
+
+If an Android ad-free entitlement expires, is refunded, revoked, or can no longer be verified, the permanent non-personalized banner may return. Inventory features remain available.
 
 ## Mandatory rights
 
-Nothing in this policy limits a refund, cooling-off right, warranty, digital-content remedy, or other protection that applicable law does not permit the store or GoodUse Studios to exclude.
+Nothing in this policy limits a refund, cooling-off right, warranty, digital-content remedy, subscription right, or other protection that applicable law does not permit the store or GoodUse Studios to exclude.
 
 Contact: **lrodeveloperr@gmail.com**. Include only the store, App version/build, device/OS, a redacted order reference if necessary, and a neutral issue description.
 
 </main>
 
-<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</footer>
+<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 22 August 2026</footer>
