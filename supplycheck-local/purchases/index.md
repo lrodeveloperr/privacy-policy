@@ -20,43 +20,63 @@ a:focus-visible { outline:3px solid #f2a900; outline-offset:3px; border-radius:2
 
 <nav class="legal-nav" aria-label="SupplyCheck legal documents"><a href="{{ '/supplycheck-local/' | relative_url }}">Overview</a> <a href="{{ '/supplycheck-local/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/supplycheck-local/terms/' | relative_url }}">Terms</a> <a href="{{ '/supplycheck-local/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/supplycheck-local/refunds/' | relative_url }}">Refunds</a> <a href="{{ '/supplycheck-local/support/' | relative_url }}">Support & deletion</a> <a href="{{ '/supplycheck-local/disclaimer/' | relative_url }}">Disclaimer</a></nav>
 
-<p class="legal-meta"><strong>GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</p>
+<p class="legal-meta"><strong>GoodUse Studios</strong> · 36 Zorra Street, Toronto (Etobicoke), Ontario M8Z 0G5, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 22 August 2026</p>
 
 <main id="main-content" markdown="1">
 
 # Purchase Terms for SupplyCheck
 
-**Effective:** 21 August 2026  
-**Applies to:** SupplyCheck 2.0.0 on Android and iPhone/iOS
+**Effective:** 22 August 2026  
+**Applies to:** SupplyCheck 2.1.0 on Android and SupplyCheck 2.0.0 on iPhone/iOS
 
-## 1. One-time paid download
+The commercial model differs by platform and version.
 
-SupplyCheck is sold as a **one-time paid app download** through Apple App Store or Google Play. The intended United States list price is **US$4.99**; the store may display a localized price, currency, tax, or equivalent tier before purchase. The price and terms shown by the store at checkout control the transaction.
+## 1. Android 2.1.0 — full app with ads; optional monthly ad-free subscription
 
-There is no SupplyCheck subscription, auto-renewal, recurring SupplyCheck charge, free-use allowance, in-app purchase, paywall, consumable, or separate Pro unlock.
+SupplyCheck for Android provides the full inventory feature set without a feature paywall or usage cap. When Google Play has not verified an active ad-free subscription, the App displays a permanent bottom banner using non-personalized advertising, subject to applicable privacy/consent controls.
 
-## 2. Store processing
+The optional Google Play product **SupplyCheck Ad-Free Monthly** removes that banner while the subscription entitlement remains active. It does not unlock additional stock, reporting, backup, export, location, supplier, or correction features.
 
-The applicable store processes or facilitates the transaction under its terms. The store handles payment authorization, local taxes, currencies, receipts, regional availability, refund routing, account purchase history, and eligible redownload. GoodUse Studios does not receive full card or bank details.
+The intended United States list price is **US$2.99 per month**. Google Play may display a localized price, currency, tax treatment, promotional offer, or equivalent amount. The price and renewal terms presented by Google Play at checkout control the transaction.
 
-SupplyCheck does not contain a runtime purchase screen or entitlement switch because access is controlled by the paid store download. Local stock records are not erased merely because the store later changes download availability.
+The subscription automatically renews at the interval shown by Google Play until cancelled through Google Play, subject to the store’s rules. Cancelling normally stops future renewal; access to the ad-free entitlement may continue until the end of the already-paid period according to Google Play’s subscription status. When an active entitlement is no longer verified, the permanent banner may return without affecting access to the full App.
 
-## 3. Devices, sharing, and redownloads
+The subscription product identifier used by the Android App is `supplycheck_ad_free_monthly`.
 
-Any use on multiple devices, Family Sharing, managed distribution, or redownload is governed by the applicable store, account, territory, and current listing settings. It does not synchronize or restore the user's stock records. Device data must be moved or restored using the supported platform-specific backup process.
+## 2. iPhone/iOS 2.0.0 — one-time paid download
 
-## 4. Updates and compatibility
+SupplyCheck 2.0.0 for iPhone/iOS remains a one-time paid App Store download under that version’s commercial model. The intended United States list price is **US$4.99**, subject to the price, currency, tax, storefront, and equivalent tier shown by Apple at checkout.
 
-The purchase does not guarantee every future feature, perpetual store availability, support for every future operating system, or indefinite compatibility with a particular device. Mandatory statutory rights remain unaffected.
+That iOS version has no SupplyCheck advertising banner, monthly SupplyCheck subscription, recurring SupplyCheck charge, or separate ad-removal purchase.
 
-## 5. Purchase support
+## 3. Store processing
 
-For a missing download, duplicate charge, receipt, payment failure, or refund, use the purchasing store's account and support tools. For an App defect, email **lrodeveloperr@gmail.com** with the App version/build, device model, operating-system version, storefront, and a neutral description. Do not send payment credentials, inventory databases, backups, or sensitive business records.
+Google Play or Apple processes the applicable transaction under its own terms. The store handles payment authorization, local taxes, currencies, receipts, regional availability, subscription renewal/cancellation where applicable, refund routing, account purchase history, and eligible redownload. GoodUse Studios does not receive full card or bank details.
 
-## 6. Beta builds
+On Android, the App receives limited Google Play purchase/product state needed to determine whether the ad-free banner entitlement is active and to acknowledge completed purchases. Inventory records are not part of that purchase request.
 
-Authorized TestFlight or private debug builds may be provided without charge. They can expire or be withdrawn, do not prove that the production App was purchased, confer no production purchase entitlement, and should not contain critical live inventory. Production purchase terms apply only to the store transaction shown at checkout.
+## 4. Managing the Android subscription
+
+Use Google Play’s subscription controls to review renewal status, cancel future renewal, or manage the payment method. SupplyCheck also provides a **Manage subscription** route in Settings when the App recognizes an active entitlement. Store availability and account state can affect which controls are shown.
+
+Deleting SupplyCheck, resetting its workspace, or clearing inventory records does **not** itself cancel a Google Play subscription. Subscription cancellation must be completed through Google Play.
+
+## 5. Devices, sharing, and local records
+
+Any use on multiple devices, family or managed distribution, and redownload is governed by the applicable store, account, territory, and current listing settings. A purchase or subscription does not synchronize or restore stock records. Operational data must be moved or restored using the supported platform-specific backup process.
+
+## 6. Updates and compatibility
+
+A purchase or subscription does not guarantee every future feature, perpetual store availability, support for every future operating system, or indefinite compatibility with a particular device. Mandatory statutory rights remain unaffected.
+
+## 7. Purchase support
+
+For a missing purchase, renewal, cancellation, duplicate charge, receipt, payment failure, or refund, use the purchasing store’s account and support tools. For an App defect, email **lrodeveloperr@gmail.com** with the App version/build, device model, operating-system version, storefront, and a neutral description. Do not send payment credentials, inventory databases, backups, or sensitive business records.
+
+## 8. Test and beta builds
+
+Authorized TestFlight, internal-test, closed-test, or private debug builds may be provided without charge. They can expire or be withdrawn and must not be the sole repository for critical live inventory. A sideloaded Android debug APK can use Google’s test advertising identifiers and may be unable to complete a real subscription purchase because Google Play distribution and product configuration are required for a live transaction.
 
 </main>
 
-<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 21 August 2026</footer>
+<footer class="legal-footer">SupplyCheck · GoodUse Studios · Ontario, Canada · <a href="mailto:lrodeveloperr@gmail.com">lrodeveloperr@gmail.com</a> · Version 22 August 2026</footer>
