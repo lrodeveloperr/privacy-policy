@@ -39,9 +39,8 @@ This site publishes product-specific legal, privacy and support documents for ap
 - [Support](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/support/)
 - [Data Deletion](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/deletion/)
 - [Safety and Legal Disclaimer](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/disclaimer/)
-- [Store Metadata Package](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/store-metadata/)
 
-Welding Gas Wallet is a cylinder-only, local-first tool. Free supports up to three active cylinders and displays a Google AdMob banner after any required consent process. An active monthly Pro subscription removes displayed advertising and unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
+Welding Gas Wallet is a cylinder-only, local-first tool with no advertising. Free supports up to three active cylinders, and an active monthly Pro subscription unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
 
 ## Promise Guard
 
@@ -51,7 +50,6 @@ Welding Gas Wallet is a cylinder-only, local-first tool. Free supports up to thr
 - [Support](https://lrodeveloperr.github.io/privacy-policy/promise-guard/support/)
 - [Data Deletion and No-Account Explanation](https://lrodeveloperr.github.io/privacy-policy/promise-guard/deletion/)
 - [Safety and Legal Disclaimer](https://lrodeveloperr.github.io/privacy-policy/promise-guard/disclaimer/)
-- [Store Metadata Package](https://lrodeveloperr.github.io/privacy-policy/promise-guard/store-metadata/)
 
 Promise Guard has no advertising. Its app-specific documents explain its local-first records, user-initiated sharing and backup, two-record creation allowance and platform-specific purchases.
 

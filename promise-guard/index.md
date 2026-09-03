@@ -29,7 +29,6 @@ Promise Guard helps you keep a structured personal record of what a provider pro
 - [Support](support/)
 - [Data deletion and no-account explanation](deletion/)
 - [Safety and legal disclaimer](disclaimer/)
-- [Localized App Store and Google Play listing package](store-metadata/)
 
 ## Product summary
 
