@@ -64,22 +64,28 @@ If you enable an alert, the app requests notification permission when required a
 
 Where applicable law requires a legal basis, local wallet processing is performed to provide the functions you request; subscription information is processed to perform the purchase contract and protect entitlement integrity; consent is used for advertising where required; and limited security, fraud-prevention and service-integrity processing may rely on legitimate interests or another basis permitted by law. Google and store providers may process information in countries other than the one where you live, subject to their safeguards and policies.
 
-## 8. Retention and deletion
+## 8. Territorial availability
+
+GoodUse Studios currently does not offer the app through store territories in the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye or mainland China. This distribution restriction reflects the app's current advertising processing and GoodUse Studios' present representative and registration arrangements. It does not restrict any privacy or consumer right that applicable law otherwise gives you.
+
+Switzerland remains an authorized launch territory based on the current assessment that the app's processing does not meet all conditions for the applicable Swiss representative obligation, in particular because it is not expected to be both large-scale and high-risk. GoodUse Studios will revisit that assessment if the scale, data types, advertising configuration or services materially change. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion.
+
+## 9. Retention and deletion
 
 Wallet records remain on your device until you edit or delete them, delete the wallet, or remove them through device controls. Use **Settings → Delete wallet** to remove the wallet's local records. This does not cancel a subscription or delete separately exported backups, store records, advertising-provider records or information you voluntarily sent to support. See [Data Deletion](../deletion/).
 
 Google, Apple and Google Play retain information under their own policies. GoodUse Studios retains support correspondence only as long as reasonably necessary for support, security, recordkeeping and legal obligations.
 
-## 9. Security and privacy rights
+## 10. Security and privacy rights
 
 We minimize access by keeping core wallet records local, but no storage or transmission method is completely secure. Depending on where you live, you may have rights concerning personal information controlled by GoodUse Studios. Most wallet-content control is exercised directly through the app and your device because GoodUse Studios does not possess that content.
 
 For a privacy request or complaint concerning information under GoodUse Studios' control, email [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com) and identify the app and platform. Do not send passwords, payment-card details or confidential operational records. Requests concerning Google, Apple or another provider must generally be directed to that provider.
 
-## 10. Children
+## 11. Children
 
 The app is intended for adults aged 18 and over and is not directed to children. GoodUse Studios does not knowingly solicit children's personal information through the app or configure the advertising service as child-directed.
 
-## 11. Changes
+## 12. Changes
 
 We may update this policy when the app, SDKs, services or legal requirements change. The effective date above identifies the current version.

@@ -6,7 +6,7 @@ lang: en
 
 # Welding Gas Wallet store listing package
 
-This page records the code-grounded English listing and disclosure baseline for the 3 September 2026 ads-supported release. It is a controlled worksheet; store forms must be reconciled with the final signed Android App Bundle and iOS archive before submission.
+This page records the code-grounded English listing, disclosure and territory baseline for the 3 September 2026 ads-supported release. It is a controlled worksheet; store forms must be reconciled with the final signed Android App Bundle and iOS archive before submission.
 
 ## App Store
 
@@ -70,7 +70,7 @@ Free includes up to three active cylinders and displays advertising. An auto-ren
 4. **Subscription:** Settings → Upgrade, or the fourth-cylinder gate, presents the monthly product `com.gooduse.weldinggaswallet.pro.monthly`. The localized price and period are supplied by StoreKit. An active subscription removes the displayed banner and cylinder limit. Restore purchases is visible. Privacy and Terms links are available from the app.
 5. **External services:** Google Mobile Ads and Google's User Messaging Platform provide advertising and consent management; StoreKit provides iOS purchases; Google Play Billing provides Android purchases; operating-system notifications provide local reminders; and user-selected file providers receive backup files. There is no GoodUse Studios account, cylinder-record backend, AI service or separate third-party analytics/crash-reporting service.
 6. **Release target:** Submit the normal ads-enabled `WeldingGasWallet` production target. Do not submit a `SCREENSHOT_BUILD`, debug monetization mode, no-ads shell target, test-ad build or build containing placeholder advertising identifiers.
-7. **Regions:** Core features are consistent worldwide. Ads and consent choices can vary by region, consent and device settings. Store prices, taxes, eligible offers, default currency and measurement-unit suggestions can vary by store or device settings.
+7. **Regions:** Enable only the approved store territories recorded below. Core features are consistent across enabled territories. Ads and consent choices can vary by region, consent and device settings. Store prices, taxes, eligible offers, default currency and measurement-unit suggestions can vary by store or device settings.
 8. **Regulated material:** The app is a user-entered personal inventory and does not provide welding certification, engineering, inspection, compressed-gas compliance or regulated safety decisions. It contains no third-party standards text, certification marks or protected training content.
 
 ## Store declarations
@@ -85,7 +85,17 @@ Free includes up to three active cylinders and displays advertising. An auto-ren
 - **SDK processing:** Google Mobile Ads and UMP can process advertising, interaction, diagnostics, general-location and identifier data. GoodUse Studios has no separate analytics or third-party crash-reporting service.
 - **Notifications:** Optional local notifications, requested only when the user enables an alert.
 - **Audience:** Adults 18 and over; not directed to children and not in a kids or families category.
-- **Availability:** Worldwide, subject to each store's availability, advertising eligibility and local law.
+- **Availability:** Selected territories only. Exclude the European Economic Area, the United Kingdom, Türkiye and mainland China. Keep Switzerland enabled under the current documented processing-risk assessment. Hong Kong, Macau and Taiwan are not part of the mainland-China exclusion.
+
+## Storefront exclusion checklist
+
+Apply the same availability to Google Play and the App Store before release.
+
+- **Exclude these 30 EEA countries:** Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden.
+- **Also exclude:** United Kingdom, Türkiye and mainland China.
+- **Keep enabled:** Switzerland, subject to the current assessment that the app's processing does not meet all conditions for the applicable Swiss representative obligation, in particular because it is not expected to be both large-scale and high-risk.
+- **Mainland-China boundary:** Hong Kong, Macau and Taiwan are not included in this exclusion and may remain enabled if otherwise supported by the stores and services.
+- **Change control:** Do not re-enable an excluded territory until its representative, registration, advertising, consent, consumer-law and store requirements have been reviewed and the policies and store disclosures have been updated where necessary. Reassess Switzerland if the processing scale, data types, advertising configuration or services materially change.
 
 ### Google Play Data safety baseline
 

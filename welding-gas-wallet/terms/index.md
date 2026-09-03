@@ -56,20 +56,26 @@ Use the app lawfully. Do not misuse it as an official certification, inspection 
 
 Google Mobile Ads, Google's User Messaging Platform, Apple, Google Play and user-selected file providers operate under their own terms and privacy policies. Availability, advertisements, consent forms, payment services and file destinations supplied by those providers are outside GoodUse Studios' direct control.
 
-## 9. Disclaimers and liability
+## 9. Territorial availability
+
+The app is offered only through store territories enabled by GoodUse Studios. Current authorized distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye and mainland China. Switzerland is currently included. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion.
+
+GoodUse Studios may change store availability for legal, representative, registration, advertising-service or platform reasons, subject to applicable law and without limiting acquired or mandatory consumer rights. Access while travelling, an existing installation or availability through a store provider does not guarantee that every advertisement, consent form, purchase feature or service will be available in every location.
+
+## 10. Disclaimers and liability
 
 To the maximum extent permitted by law, the app is provided as available and without warranties beyond those that cannot lawfully be excluded. GoodUse Studios is not responsible for decisions based on unverified entries, unsafe cylinder handling, user-selected sharing, loss caused by device failure or deletion, or third-party services outside its control.
 
 Nothing in these Terms excludes or limits liability that cannot lawfully be excluded or limits mandatory consumer or other statutory rights.
 
-## 10. Apple terms
+## 11. Apple terms
 
 For iOS, these Terms are between you and GoodUse Studios, not Apple. Apple's [Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies where required. Apple is a third-party beneficiary of the applicable provisions concerning the licensed application.
 
-## 11. Changes
+## 12. Changes
 
 We may update these Terms when the app, plans, legal requirements or services change. Material changes will be handled as required by applicable law and platform rules. The effective date above identifies the current version.
 
-## 12. Governing law
+## 13. Governing law
 
 These Terms are governed by the laws applicable to GoodUse Studios in Ontario, Canada, without overriding mandatory consumer protections or jurisdiction rules that apply to you.

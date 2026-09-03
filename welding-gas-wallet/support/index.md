@@ -42,6 +42,10 @@ Use the app's Backup action to export a JSON wallet file and choose a destinatio
 
 Device alerts are optional local notifications. If permission is denied, enable notifications in system settings and retry. Reminder titles and cylinder names may appear on the lock screen.
 
+## Country availability
+
+Current authorized store distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye and mainland China. Switzerland remains included. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion. Availability elsewhere can still depend on the store, device and service providers.
+
 ## Delete the wallet
 
 Open **Settings → Delete wallet** and confirm. This removes the app's local wallet records. It does not cancel a subscription or delete exported copies, operating-system backups, advertising-provider data, support messages, or Google Play/App Store records. See [Data Deletion](../deletion/).
