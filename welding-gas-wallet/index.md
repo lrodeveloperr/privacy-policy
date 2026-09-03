@@ -33,4 +33,4 @@ No GoodUse Studios account or cylinder-record server is required. Core records r
 
 ## Launch availability
 
-Current authorized store distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye and mainland China. Switzerland remains included under the current processing-risk assessment. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion. Availability may change after further legal, representative or registration review.
+Current authorized store distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye, mainland China and Switzerland. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion. Availability may change after further legal, representative or registration review.

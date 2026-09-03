@@ -88,17 +88,16 @@ Free includes up to three active cylinders and displays advertising. An auto-ren
 - **SDK processing:** Google Mobile Ads and UMP can process advertising, interaction, diagnostics, general-location and identifier data. GoodUse Studios has no separate analytics or third-party crash-reporting service.
 - **Notifications:** Optional local notifications, requested only when the user enables an alert.
 - **Audience:** Adults 18 and over; not directed to children and not in a kids or families category.
-- **Availability:** Selected territories only. Exclude the European Economic Area, the United Kingdom, Türkiye and mainland China. Keep Switzerland enabled under the current documented processing-risk assessment. Hong Kong, Macau and Taiwan are not part of the mainland-China exclusion.
+- **Availability:** Selected territories only. Exclude the European Economic Area, the United Kingdom, Türkiye, mainland China and Switzerland. Hong Kong, Macau and Taiwan are not part of the mainland-China exclusion.
 
 ## Storefront exclusion checklist
 
 Apply the same availability to Google Play and the App Store before release.
 
 - **Exclude these 30 EEA countries:** Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden.
-- **Also exclude:** United Kingdom, Türkiye and mainland China.
-- **Keep enabled:** Switzerland, subject to the current assessment that the app's processing does not meet all conditions for the applicable Swiss representative obligation, in particular because it is not expected to be both large-scale and high-risk.
+- **Also exclude:** United Kingdom, Türkiye, mainland China and Switzerland.
 - **Mainland-China boundary:** Hong Kong, Macau and Taiwan are not included in this exclusion and may remain enabled if otherwise supported by the stores and services.
-- **Change control:** Do not re-enable an excluded territory until its representative, registration, advertising, consent, consumer-law and store requirements have been reviewed and the policies and store disclosures have been updated where necessary. Reassess Switzerland if the processing scale, data types, advertising configuration or services materially change.
+- **Change control:** Do not re-enable an excluded territory, including Switzerland, until its representative, registration, advertising, consent, consumer-law and store requirements have been reviewed and the policies and store disclosures have been updated where necessary.
 
 ### Google Play Data safety baseline
 

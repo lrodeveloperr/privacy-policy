@@ -60,7 +60,7 @@ Google Mobile Ads, Google's User Messaging Platform, Apple, Google Play and user
 
 ## 9. Territorial availability
 
-The app is offered only through store territories enabled by GoodUse Studios. Current authorized distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye and mainland China. Switzerland is currently included. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion.
+The app is offered only through store territories enabled by GoodUse Studios. Current authorized distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye, mainland China and Switzerland. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion.
 
 GoodUse Studios may change store availability for legal, representative, registration, advertising-service or platform reasons, subject to applicable law and without limiting acquired or mandatory consumer rights. Access while travelling, an existing installation or availability through a store provider does not guarantee that every advertisement, consent form, purchase feature or service will be available in every location.
 

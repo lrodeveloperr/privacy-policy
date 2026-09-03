@@ -68,9 +68,9 @@ Where applicable law requires a legal basis, local wallet processing is performe
 
 ## 8. Territorial availability
 
-GoodUse Studios currently does not offer the app through store territories in the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye or mainland China. This distribution restriction reflects the app's current advertising processing and GoodUse Studios' present representative and registration arrangements. It does not restrict any privacy or consumer right that applicable law otherwise gives you.
+GoodUse Studios currently does not offer the app through store territories in the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye, mainland China or Switzerland. This distribution restriction reflects the app's current advertising processing and GoodUse Studios' present representative and registration arrangements. It does not restrict any privacy or consumer right that applicable law otherwise gives you.
 
-Switzerland remains an authorized launch territory based on the current assessment that the app's processing does not meet all conditions for the applicable Swiss representative obligation, in particular because it is not expected to be both large-scale and high-risk. GoodUse Studios will revisit that assessment if the scale, data types, advertising configuration or services materially change. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion.
+Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion.
 
 ## 9. Retention and deletion
 

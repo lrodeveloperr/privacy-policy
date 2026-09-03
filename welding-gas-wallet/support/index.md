@@ -44,7 +44,7 @@ Device alerts are optional local notifications. If permission is denied, enable 
 
 ## Country availability
 
-Current authorized store distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye and mainland China. Switzerland remains included. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion. Availability elsewhere can still depend on the store, device and service providers.
+Current authorized store distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye, mainland China and Switzerland. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion. Availability elsewhere can still depend on the store, device and service providers.
 
 ## Delete app data
 
