@@ -8,9 +8,11 @@ lang: en
 
 Welding Gas Wallet has no GoodUse Studios account and does not upload wallet records to a GoodUse Studios server during normal use.
 
-## Delete local wallet data
+## Delete local wallet data on iOS
 
-Open **Settings → Delete wallet** and confirm. The app removes its local wallet records and returns to its initial state.
+Open **Settings → Delete all data**, enter the displayed confirmation word and confirm. The app removes cylinders, suppliers, costs, activity, reminders and wallet preferences and leaves an empty wallet.
+
+This control does not reset the selected app language, onboarding status, accepted legal-document version or acceptance date. It also does not clear locally cached StoreKit entitlement evidence used to recognize Pro. Apple remains authoritative for the subscription status.
 
 You can also use your device's app-storage controls or uninstall the app, subject to the device and operating system's behavior.
 
@@ -19,6 +21,8 @@ You can also use your device's app-storage controls or uninstall the app, subjec
 - Backups or exports that you saved to Files, cloud storage, email, messaging or another destination.
 - Operating-system or manufacturer device backups that exist outside the app.
 - Google Play or App Store purchase, subscription, entitlement, refund or account records.
+- The selected app language or local onboarding and legal-acceptance record.
+- Locally cached store-entitlement evidence, which is updated according to the applicable store's verified entitlement state.
 - Advertising, device, consent or diagnostics information processed by Google or participating advertising providers under their policies.
 - Information you voluntarily sent to support.
 

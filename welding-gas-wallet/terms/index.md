@@ -26,11 +26,11 @@ The free plan remains usable without a purchase. It supports up to three active 
 
 Pro is an auto-renewing monthly subscription on Android and iOS. While the subscription is active, Pro removes displayed advertising and unlocks unlimited active cylinders. If Pro ends, advertising can resume and the app can prevent adding or duplicating cylinders while more than three active cylinders remain. The user can return, archive or delete cylinders to return to the free limit.
 
-The production app continues to include advertising and consent components while a subscriber is using Pro. Pro removes the displayed ad banner; it does not remove those components from the installed binary. Limited consent, configuration or service requests may still occur as explained in the [Privacy Policy](../privacy/).
+The production app continues to include advertising and consent components in the installed binary while a subscriber is using Pro. In the current iOS implementation, the app does not request a banner while it recognizes active Pro. If Pro is recognized before advertising preparation at launch, the app does not initiate Google Mobile Ads setup; an SDK initialized earlier in the same app session is not removed. Store entitlement checks continue as explained in the [Privacy Policy](../privacy/).
 
 ## 3. Subscription billing, renewal and cancellation
 
-Android subscriptions are sold by Google Play and iOS subscriptions by the App Store. The store purchase sheet shown before confirmation is authoritative for the localized price, currency, taxes, billing period, renewal date and any eligible introductory or promotional offer. No free trial or discounted offer is promised unless it appears in that purchase sheet.
+Android subscriptions are sold by Google Play and iOS subscriptions by the App Store. The current iOS commercial reference price is US$1.99 per month with territory-specific prices configured by the App Store. The store purchase sheet shown before confirmation is authoritative for the localized price, currency, taxes, billing period, renewal date and any eligible introductory or promotional offer. No free trial or discounted offer is promised unless it appears in that purchase sheet.
 
 Payment is charged to the store account when the purchase is confirmed. The subscription renews automatically each month until cancelled. The store may charge shortly before the next subscription period under its rules. Cancel through the subscription settings for the store account used to buy Pro. Deleting the app does not cancel the subscription. Cancellation stops future renewal; access normally continues until the end of the paid period, subject to refunds, revocation, billing retry, grace periods and store rules.
 
@@ -43,6 +43,8 @@ Apple or Google processes payments, cancellations and refund requests under its 
 ## 5. Local data and backups
 
 Core wallet records remain on your device unless you initiate an export. You are responsible for the accuracy of entries and for protecting exported files and device backups. GoodUse Studios does not operate a cylinder-record server and cannot recover a lost local wallet or a separately deleted backup.
+
+The iOS app validates a selected backup before replacing the wallet and rejects unsupported, invalid or larger-than-5-MB files. A free user cannot restore a backup containing more than three active cylinders; that restore requires active Pro access. A failed restore leaves the current wallet unchanged.
 
 ## 6. No financial or physical-goods service
 

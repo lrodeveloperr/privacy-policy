@@ -6,7 +6,7 @@ lang: en
 
 # Welding Gas Wallet store listing package
 
-This page records the code-grounded English listing, disclosure and territory baseline for the 3 September 2026 ads-supported release. It is a controlled worksheet; store forms must be reconciled with the final signed Android App Bundle and iOS archive before submission.
+This page records the code-grounded English listing, disclosure and territory baseline for the 3 September 2026 ads-supported release. The current iOS source was verified at commit `306500bfbec999af23d27e0e45a683d5b4a2c9b1`. It is a controlled worksheet; store forms must be reconciled with the final signed Android App Bundle and iOS archive before submission.
 
 ## App Store
 
@@ -67,16 +67,19 @@ Free includes up to three active cylinders and displays advertising. An auto-ren
 1. **Function and audience:** Welding Gas Wallet is a local-first cylinder inventory for adult welders, fabricators, workshop operators and people who own, rent or exchange welding-gas cylinders. It replaces scattered notes with status, supplier, cost, history and reminder records. It does not measure gas, scan a cylinder or provide safety or compliance decisions.
 2. **Access:** No login, demo account, external hardware or sample file is required. Review the legal notice, add a cylinder manually, use the status buttons, record a refill or exchange, then open Settings for reminders, backup and restore, deletion, privacy, ad privacy choices where available, and purchases.
 3. **Free limit and advertising:** A free user may keep up to three active cylinders. Attempting to add or duplicate a fourth active cylinder opens the upgrade screen. The ads-enabled production target can show a lower Google AdMob banner after Google's consent process allows ad requests.
-4. **Subscription:** Settings → Upgrade, or the fourth-cylinder gate, presents the monthly product `com.gooduse.weldinggaswallet.pro.monthly`. The localized price and period are supplied by StoreKit. An active subscription removes the displayed banner and cylinder limit. Restore purchases is visible. Privacy and Terms links are available from the app.
-5. **External services:** Google Mobile Ads and Google's User Messaging Platform provide advertising and consent management; StoreKit provides iOS purchases; Google Play Billing provides Android purchases; operating-system notifications provide local reminders; and user-selected file providers receive backup files. There is no GoodUse Studios account, cylinder-record backend, AI service or separate third-party analytics/crash-reporting service.
+4. **Subscription:** Settings → Upgrade, or the fourth-cylinder gate, presents the monthly product `com.gooduse.weldinggaswallet.pro.monthly`. Configure it as a one-month subscription with a US$1.99 reference price and territory-specific App Store prices. The customer-facing localized price and period are supplied by StoreKit. An active subscription removes the displayed banner and cylinder limit. Restore purchases is visible. Privacy and Terms links are available from the app.
+5. **External services:** Google Mobile Ads and Google's User Messaging Platform provide advertising and consent management; StoreKit provides iOS purchases; Google Play Billing provides Android purchases; operating-system notifications provide local reminders; and user-selected file providers receive backup files. On iOS, no banner is requested while active Pro is recognized. If Pro is recognized before advertising preparation at launch, the app does not initiate Google Mobile Ads setup; an SDK initialized earlier in the same app session is not removed. The SDK remains in the binary. There is no GoodUse Studios account, cylinder-record backend, AI service or separate third-party analytics/crash-reporting service.
 6. **Release target:** Submit the normal ads-enabled `WeldingGasWallet` production target. Do not submit a `SCREENSHOT_BUILD`, debug monetization mode, no-ads shell target, test-ad build or build containing placeholder advertising identifiers.
 7. **Regions:** Enable only the approved store territories recorded below. Core features are consistent across enabled territories. Ads and consent choices can vary by region, consent and device settings. Store prices, taxes, eligible offers, default currency and measurement-unit suggestions can vary by store or device settings.
 8. **Regulated material:** The app is a user-entered personal inventory and does not provide welding certification, engineering, inspection, compressed-gas compliance or regulated safety decisions. It contains no third-party standards text, certification marks or protected training content.
+9. **Backup restore:** iOS accepts supported, internally consistent JSON backups up to 5 MB. A free user cannot restore a backup with more than three active cylinders. Rejected restores leave the current wallet unchanged, and backup files never contain Pro entitlement.
+10. **Languages:** The current iOS release enables English and Latin American Spanish. The published legal documents are in English, and the app identifies that language on its legal-document settings rows. Do not advertise or enable additional app locales until their full product catalog passes the release gate.
 
 ## Store declarations
 
 - **Contains ads:** Yes on Android and iOS.
 - **Subscription:** One auto-renewing monthly Pro product on each platform; product identifier `com.gooduse.weldinggaswallet.pro.monthly`.
+- **iOS pricing configuration:** One month; US$1.99 reference price with territory-specific App Store prices. The in-app paywall must display StoreKit's localized price.
 - **Pro benefits:** Unlimited active cylinders and no displayed ads while entitlement is active.
 - **Advertising ID:** The Android ads-enabled release declares access to the Android advertising ID. The current iOS app does not request App Tracking Transparency permission or intentionally access IDFA.
 - **Account creation:** No.
@@ -111,7 +114,7 @@ Answer **Yes** to the initial question asking whether the app collects or shares
 - **Data encrypted in transit:** Yes for Google Mobile Ads SDK data, according to Google's SDK disclosure.
 - **Core cylinder records, reminders and backup contents:** Not collected or shared by GoodUse Studios. A user-selected backup destination is a user-initiated transfer described in the Privacy Policy.
 - **Account deletion:** Not applicable because the app has no account creation.
-- **Deletion request mechanism:** The in-app Delete wallet control deletes local wallet records. Advertising-provider or store records are controlled by those providers.
+- **Deletion request mechanism:** On iOS, **Settings → Delete all data** removes cylinders, suppliers, costs, activity, reminders and wallet preferences after confirmation. It does not reset the selected language or local legal-acceptance record, clear locally cached StoreKit entitlement evidence, cancel a subscription, or delete provider-controlled records or separately exported backups.
 
 ### App Store privacy baseline
 
