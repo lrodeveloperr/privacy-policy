@@ -104,7 +104,7 @@ For the no-advertising Android app, the expected initial answer is that the app 
 - **Core cylinder records, reminders and backup contents:** Processed on the device. A user-selected backup destination is a user-initiated transfer and is described in the Privacy Policy.
 - **Purchase data:** Google Play processes payment and account data as the independent store provider. Reconcile any information actually transmitted by the final Billing implementation against Google's then-current Data safety definitions.
 - **Account deletion:** Not applicable because the app has no account creation.
-- **Local deletion:** **Settings → Delete all data** removes cylinders, suppliers, costs, activity, reminders and wallet preferences after confirmation. It does not reset the selected language, clear locally cached store-entitlement evidence, cancel a subscription, or delete provider-controlled records or separately exported backups.
+- **Local deletion:** **Settings → Delete all data** removes cylinders, suppliers, costs, activity, reminders and wallet preferences after confirmation. It does not reset the selected language, clear locally cached store-entitlement evidence, cancel a subscription, or delete provider-controlled records, separately exported backups or limited accounting records that GoodUse Studios must retain.
 - **Data encrypted in transit:** Answer according to the final bundle's actual network traffic. Do not use a former advertising-SDK answer.
 - **Ads and Advertising ID:** No.
 

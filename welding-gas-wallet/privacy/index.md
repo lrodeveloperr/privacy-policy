@@ -62,11 +62,15 @@ GoodUse Studios intends to make the final no-advertising app available in every 
 
 Wallet records remain on your device until you edit or delete them, use the app's deletion control, or remove them through device controls. On Android or iOS, use **Settings → Delete all data** to remove cylinders, suppliers, costs, activity, reminders and wallet preferences. This leaves an empty wallet but does not reset the selected app language or clear locally cached store-entitlement evidence. It also does not cancel a subscription or delete separately exported backups, store records or information you voluntarily sent to support. See [Data Deletion](../deletion/).
 
-Apple, Google and their app stores retain information under their own policies. GoodUse Studios retains support correspondence only as long as reasonably necessary for support, security, recordkeeping and legal obligations.
+Apple, Google and their app stores retain information under their own policies. GoodUse Studios retains support correspondence and any limited store-issued sales, transaction, tax or subscription records it receives only as long as reasonably necessary for support, accounting, tax, fraud prevention, recordkeeping and legal obligations.
 
 ## 10. Security and privacy rights
 
-We minimize access by keeping core wallet records local, but no storage or transmission method is completely secure. Depending on where you live, you may have rights concerning personal information controlled by GoodUse Studios. Most wallet-content control is exercised directly through the app and your device because GoodUse Studios does not possess that content.
+We minimize access by keeping core wallet records local, but no storage or transmission method is completely secure.
+
+Depending on where you live and subject to lawful exceptions, you may have rights to request access to, correction of or deletion of personal information controlled by GoodUse Studios; obtain a portable copy; restrict or object to processing; withdraw consent where processing relies on consent; appeal a denied request where applicable; and complain to your local privacy or data-protection authority. GoodUse Studios will not discriminate against you for exercising a privacy right. We may need to verify your identity or an authorized agent before acting on a request.
+
+Most wallet-content control is exercised directly through the app and your device because GoodUse Studios does not possess that content. Deleting local data cannot delete information held by a store or file provider, and some limited records may need to be retained for legal, tax, accounting, security or dispute-resolution purposes.
 
 For a privacy request or complaint concerning information under GoodUse Studios' control, email [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com) and identify the app and platform. Do not send passwords, payment-card details or confidential operational records. Requests concerning Google, Apple or another provider must generally be directed to that provider.
 

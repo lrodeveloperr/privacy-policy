@@ -21,6 +21,7 @@ You can also use your device's app-storage controls or uninstall the app, subjec
 - Backups or exports that you saved to Files, cloud storage, email, messaging or another destination.
 - Operating-system or manufacturer device backups that exist outside the app.
 - Google Play or App Store purchase, subscription, entitlement, refund or account records.
+- Limited store-issued sales, transaction, tax or subscription records retained by GoodUse Studios where needed for accounting, tax, support, fraud prevention, legal compliance or disputes.
 - The selected app language.
 - Locally cached store-entitlement evidence, which is updated according to the applicable store's verified entitlement state.
 - Information you voluntarily sent to support.
