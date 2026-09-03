@@ -23,7 +23,6 @@ The current release is **cylinder-only**. It does not scan cylinders, use the ca
 - [Support](support/)
 - [Data Deletion](deletion/)
 - [Safety and Legal Disclaimer](disclaimer/)
-- [Store Metadata Package](store-metadata/)
 
 ## Plans and privacy
 
