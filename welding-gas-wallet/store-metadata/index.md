@@ -6,7 +6,7 @@ lang: en
 
 # Welding Gas Wallet store listing package
 
-This page records the code-grounded English listing, disclosure and territory baseline for the 3 September 2026 ads-supported release. The current iOS source was verified at commit `306500bfbec999af23d27e0e45a683d5b4a2c9b1`. It is a controlled worksheet; store forms must be reconciled with the final signed Android App Bundle and iOS archive before submission.
+This page records the code-grounded English listing and disclosure baseline for the final no-advertising model approved on 3 September 2026. The controlling iOS source was verified at commit `e052d8ae0f45a801d769cdb944c45565b66cbadb`. Android follows the same structure and data-flow model. Store forms must be reconciled with each final signed binary before submission.
 
 ## App Store
 
@@ -31,9 +31,9 @@ Welding Gas Wallet gives you one clear place to:
 - Set optional local reminders for refills, payments, returns and checks
 - Back up and restore through the system file picker
 
-Your core records stay on your device unless you export a backup. The app does not scan cylinders, use the camera, read tank pressure or make safety or compliance decisions.
+Your core records stay on your device unless you export a backup. The app does not display ads, scan cylinders, use the camera, read tank pressure or make safety or compliance decisions.
 
-Free includes up to three active cylinders and displays advertising. An auto-renewing monthly Pro subscription removes displayed ads and unlocks unlimited active cylinders. The App Store purchase sheet shows the authoritative local price, taxes, renewal date and any eligible offer before confirmation. Cancel in App Store subscription settings.
+Free includes up to three active cylinders. An auto-renewing monthly Pro subscription unlocks unlimited active cylinders. The approved commercial base price is US$1.99 per month. The App Store purchase sheet shows the authoritative displayed price, currency, taxes, renewal date and any eligible offer before confirmation. Cancel in App Store subscription settings.
 
 Terms: https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/terms/
 
@@ -56,88 +56,75 @@ Welding Gas Wallet is a local-first inventory for the cylinders you own, rent, l
 - Set optional local reminders for refills, payments, returns and checks
 - Back up and restore through the system file picker
 
-Your core records stay on your device unless you export a backup. The app does not scan cylinders, use the camera, read tank pressure or make safety or compliance decisions.
+Your core records stay on your device unless you export a backup. The app does not display ads, scan cylinders, use the camera, read tank pressure or make safety or compliance decisions.
 
-Free includes up to three active cylinders and displays advertising. An auto-renewing monthly Pro subscription removes displayed ads and unlocks unlimited active cylinders. Google Play shows the authoritative local price, taxes, renewal date and any eligible offer before purchase. Manage or cancel the subscription in Google Play.
+Free includes up to three active cylinders. An auto-renewing monthly Pro subscription unlocks unlimited active cylinders. The approved commercial base price is US$1.99 per month. Google Play shows the authoritative displayed price, currency, taxes, renewal date and any eligible offer before purchase. Manage or cancel the subscription in Google Play.
 
 ## Reviewer notes
 
 ### Apple App Review information
 
 1. **Function and audience:** Welding Gas Wallet is a local-first cylinder inventory for adult welders, fabricators, workshop operators and people who own, rent or exchange welding-gas cylinders. It replaces scattered notes with status, supplier, cost, history and reminder records. It does not measure gas, scan a cylinder or provide safety or compliance decisions.
-2. **Access:** No login, demo account, external hardware or sample file is required. Review the legal notice, add a cylinder manually, use the status buttons, record a refill or exchange, then open Settings for reminders, backup and restore, deletion, privacy, ad privacy choices where available, and purchases.
-3. **Free limit and advertising:** A free user may keep up to three active cylinders. Attempting to add or duplicate a fourth active cylinder opens the upgrade screen. The ads-enabled production target can show a lower Google AdMob banner after Google's consent process allows ad requests.
-4. **Subscription:** Settings → Upgrade, or the fourth-cylinder gate, presents the monthly product `com.gooduse.weldinggaswallet.pro.monthly`. Configure it as a one-month subscription with a US$1.99 reference price and territory-specific App Store prices. The customer-facing localized price and period are supplied by StoreKit. An active subscription removes the displayed banner and cylinder limit. Restore purchases is visible. Privacy and Terms links are available from the app.
-5. **External services:** Google Mobile Ads and Google's User Messaging Platform provide advertising and consent management; StoreKit provides iOS purchases; Google Play Billing provides Android purchases; operating-system notifications provide local reminders; and user-selected file providers receive backup files. On iOS, no banner is requested while active Pro is recognized. If Pro is recognized before advertising preparation at launch, the app does not initiate Google Mobile Ads setup; an SDK initialized earlier in the same app session is not removed. The SDK remains in the binary. There is no GoodUse Studios account, cylinder-record backend, AI service or separate third-party analytics/crash-reporting service.
-6. **Release target:** Submit the normal ads-enabled `WeldingGasWallet` production target. Do not submit a `SCREENSHOT_BUILD`, debug monetization mode, no-ads shell target, test-ad build or build containing placeholder advertising identifiers.
-7. **Regions:** Enable only the approved store territories recorded below. Core features are consistent across enabled territories. Ads and consent choices can vary by region, consent and device settings. Store prices, taxes, eligible offers, default currency and measurement-unit suggestions can vary by store or device settings.
+2. **Access:** No login, mandatory legal onboarding, demo account, external hardware or sample file is required. The app opens directly to its core functions. Add a cylinder manually, use the status buttons, record a refill or exchange, then open Settings for reminders, backup and restore, deletion, legal links and purchases.
+3. **Free limit:** A free user may keep up to three active cylinders. Attempting to add or duplicate a fourth active cylinder opens the upgrade screen. The app contains no advertising.
+4. **Subscription:** Settings → Upgrade, or the fourth-cylinder gate, presents the monthly product `com.gooduse.weldinggaswallet.pro.monthly`. Configure it as a one-month subscription with the approved US$1.99 base price. The app applies no geographic-pricing rules; the customer-facing price, currency and period are supplied by StoreKit. An active subscription unlocks unlimited active cylinders. Restore purchases and subscription management are visible, and Privacy Policy and Terms links are available in the app.
+5. **External services:** StoreKit provides iOS purchases; Google Play Billing provides Android purchases; operating-system notifications provide local reminders; and user-selected file providers receive backup files. The final model has no advertising, advertising-consent, analytics, attribution, tracking, backend, AI or third-party crash-reporting service.
+6. **Release target:** Submit the normal production target. The Android and iOS releases contain no advertising SDK, consent SDK, advertising identifier declaration, ad-network attribution entry, banner UI, test-ad configuration or placeholder advertising identifier. Do not submit a debug, screenshot or test monetization build.
+7. **Regions:** Enable every App Store and Google Play country or region the store permits GoodUse Studios to enable. There are no voluntary country exclusions. Store availability, prices, taxes, eligible offers, default currency and measurement-unit suggestions can still vary under store and device rules.
 8. **Regulated material:** The app is a user-entered personal inventory and does not provide welding certification, engineering, inspection, compressed-gas compliance or regulated safety decisions. It contains no third-party standards text, certification marks or protected training content.
-9. **Backup restore:** iOS accepts supported, internally consistent JSON backups up to 5 MB. A free user cannot restore a backup with more than three active cylinders. Rejected restores leave the current wallet unchanged, and backup files never contain Pro entitlement.
+9. **Backup restore:** Android and iOS accept supported, internally consistent JSON backups up to 5 MB. A free user may restore more than three active cylinders, but must select up to three to manage. Other active cylinders remain visible and read-only and may be exported, returned, archived or deleted until Pro becomes active. A rejected restore leaves the current wallet unchanged. Backup files never contain Pro entitlement.
 10. **Languages:** The current iOS release enables English and Latin American Spanish. The published legal documents are in English, and the app identifies that language on its legal-document settings rows. Do not advertise or enable additional app locales until their full product catalog passes the release gate.
 
 ## Store declarations
 
-- **Contains ads:** Yes on Android and iOS.
+- **Contains ads:** No on Android and iOS.
 - **Subscription:** One auto-renewing monthly Pro product on each platform; product identifier `com.gooduse.weldinggaswallet.pro.monthly`.
-- **iOS pricing configuration:** One month; US$1.99 reference price with territory-specific App Store prices. The in-app paywall must display StoreKit's localized price.
-- **Pro benefits:** Unlimited active cylinders and no displayed ads while entitlement is active.
-- **Advertising ID:** The Android ads-enabled release declares access to the Android advertising ID. The current iOS app does not request App Tracking Transparency permission or intentionally access IDFA.
+- **Pricing:** One month; approved US$1.99 commercial base price. The app contains no geographic-pricing logic and must display the applicable store's localized price and currency.
+- **Pro benefit:** Unlimited active cylinders while entitlement is active.
+- **Advertising identifiers and tracking:** No advertising ID access, no IDFA use, no App Tracking Transparency prompt and no cross-app tracking in the final signed binaries.
 - **Account creation:** No.
 - **Camera:** Not used or requested.
 - **Core record collection by GoodUse Studios:** No; cylinder records remain local unless the user selects a backup destination.
-- **SDK processing:** Google Mobile Ads and UMP can process advertising, interaction, diagnostics, general-location and identifier data. GoodUse Studios has no separate analytics or third-party crash-reporting service.
+- **Analytics and third-party SDK processing:** No advertising, consent-management, analytics, attribution or third-party crash-reporting SDK in the final model.
 - **Notifications:** Optional local notifications, requested only when the user enables an alert.
 - **Audience:** Adults 18 and over; not directed to children and not in a kids or families category.
-- **Availability:** Selected territories only. Exclude the European Economic Area, the United Kingdom, Türkiye, mainland China and Switzerland. Hong Kong, Macau and Taiwan are not part of the mainland-China exclusion.
+- **Availability:** All countries and regions that the applicable store permits GoodUse Studios to enable; no voluntary exclusions.
 
-## Storefront exclusion checklist
+## Worldwide availability checklist
 
-Apply the same availability to Google Play and the App Store before release.
-
-- **Exclude these 30 EEA countries:** Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden.
-- **Also exclude:** United Kingdom, Türkiye, mainland China and Switzerland.
-- **Mainland-China boundary:** Hong Kong, Macau and Taiwan are not included in this exclusion and may remain enabled if otherwise supported by the stores and services.
-- **Change control:** Do not re-enable an excluded territory, including Switzerland, until its representative, registration, advertising, consent, consumer-law and store requirements have been reviewed and the policies and store disclosures have been updated where necessary.
+- Select every available country or region in App Store Connect and Google Play Console, subject to any store-specific eligibility or local-compliance prompts.
+- Complete and verify the App Store Connect Digital Services Act trader assessment and required public contact details for European Union distribution.
+- Complete any local compliance, licensing or business-information fields requested by a store for particular countries or regions. Do not claim availability where the store blocks distribution until a required field is satisfied.
+- Reconcile subscription availability and the localized store price in every enabled storefront.
 
 ### Google Play Data safety baseline
 
-Answer **Yes** to the initial question asking whether the app collects or shares any required user-data types because the included Google Mobile Ads SDK processes data. Reconcile the final form with the SDK's current Play data-disclosure documentation and the signed bundle.
+For the no-advertising Android app, the expected initial answer is that the app does not collect or share a required user-data type. The app has no advertising, analytics, attribution, remote backend or third-party crash-reporting SDK and no other network data flow beyond Google Play Billing.
 
-| Data type | Collected | Shared | Primary purposes |
-|---|---:|---:|---|
-| Approximate location derived from IP address | Yes | Yes | Advertising or marketing; analytics; fraud prevention, security and compliance |
-| App interactions, including app launches, taps and ad interactions | Yes | Yes | Advertising or marketing; analytics |
-| Diagnostics and performance information | Yes | Yes | Analytics; app functionality and performance; fraud prevention, security and compliance |
-| Device or other identifiers, including advertising ID where available | Yes | Yes | Advertising or marketing; analytics; fraud prevention, security and compliance |
-
-- **Data encrypted in transit:** Yes for Google Mobile Ads SDK data, according to Google's SDK disclosure.
-- **Core cylinder records, reminders and backup contents:** Not collected or shared by GoodUse Studios. A user-selected backup destination is a user-initiated transfer described in the Privacy Policy.
+- **Core cylinder records, reminders and backup contents:** Processed on the device. A user-selected backup destination is a user-initiated transfer and is described in the Privacy Policy.
+- **Purchase data:** Google Play processes payment and account data as the independent store provider. Reconcile any information actually transmitted by the final Billing implementation against Google's then-current Data safety definitions.
 - **Account deletion:** Not applicable because the app has no account creation.
-- **Deletion request mechanism:** On iOS, **Settings → Delete all data** removes cylinders, suppliers, costs, activity, reminders and wallet preferences after confirmation. It does not reset the selected language or local legal-acceptance record, clear locally cached StoreKit entitlement evidence, cancel a subscription, or delete provider-controlled records or separately exported backups.
+- **Local deletion:** **Settings → Delete all data** removes cylinders, suppliers, costs, activity, reminders and wallet preferences after confirmation. It does not reset the selected language, clear locally cached store-entitlement evidence, cancel a subscription, or delete provider-controlled records or separately exported backups.
+- **Data encrypted in transit:** Answer according to the final bundle's actual network traffic. Do not use a former advertising-SDK answer.
+- **Ads and Advertising ID:** No.
 
 ### App Store privacy baseline
 
-Do **not** select **Data Not Collected** for the ads-enabled iOS app. At minimum, reconcile these categories against the privacy report for the final signed archive and Google's current iOS disclosure:
-
-| App privacy category | Expected data | Purposes to evaluate |
-|---|---|---|
-| Location | Coarse location derived from IP address | Third-party advertising; analytics |
-| Identifiers | Device ID or app/developer-bounded identifier | Third-party advertising; analytics; fraud prevention |
-| Usage Data | Product interaction and advertising data | Third-party advertising; analytics |
-| Diagnostics | Crash data and performance data | Analytics; app functionality |
+The expected App Store privacy answer is **Data Not Collected** if the final signed archive continues to match the verified source: core records are processed only on the device, user backups are sent only to a destination the user selects, and the app contains no third-party data-collecting SDK. Apple's own StoreKit processing is not treated as developer collection merely because the app uses StoreKit. Optional, infrequent support contact initiated by the user may qualify for Apple's optional-disclosure exception, but it remains disclosed in the Privacy Policy.
 
 - **User-entered cylinder records:** Stored locally and transferred only when the user selects a backup destination; not collected by GoodUse Studios.
-- **Linked to the user:** Use the conservative answers indicated by the final SDK privacy report and App Store Connect definitions. Do not mark SDK data as unlinked solely because GoodUse Studios cannot identify the person.
-- **Data used to track the user:** The current app-level privacy manifest declares no tracking and the app does not request ATT. Select **No** only if the final advertising configuration and signed archive do not perform tracking as Apple defines it. If personalized or cross-company tracking is enabled, the app must implement ATT where required and the label must disclose tracking before submission.
+- **Tracking:** No. The iOS privacy manifest declares `NSPrivacyTracking` as false, and the app does not request ATT or use IDFA.
+- **Required-reason APIs:** The manifest declares the UserDefaults required-reason API category for app preferences. Reconcile the final archive privacy report before submission.
+- **Final control:** If the signed archive, privacy report or network inspection reveals any additional collection, update App Store Connect and this policy before release.
 
 ### Additional Play declarations
 
 - **App access:** All core free functionality is available without login; no credentials or access instructions are required.
-- **Ads:** Contains ads — Yes.
-- **Advertising ID:** Yes for the ads-enabled production bundle; declare the advertising purpose accurately in Play Console.
+- **Ads:** Contains ads — No.
+- **Advertising ID:** No; remove any advertising-ID permission or SDK access from the final bundle.
 - **Target audience:** Adults 18 and over. Do not select child age groups or the Designed for Families program.
 - **Content rating:** Utility or inventory; no violence, sexual content, gambling, controlled-substance sales, user communication or public user-generated content.
 - **Special categories:** Not a health, medical, finance, government, news, election, dating or social app.
-- **Permissions:** Internet and advertising-ID access support ads; notification and boot-completed handling support optional local reminders. Camera, microphone, contacts, precise location and broad photo or video access are not requested.
+- **Permissions:** Internet access supports store billing. Notification and boot-completed handling may support optional local reminders. Camera, microphone, contacts, precise location, advertising ID and broad photo or video access are not requested in the final model.
 
 [Privacy Policy](../privacy/) · [Terms](../terms/) · [Support](../support/)

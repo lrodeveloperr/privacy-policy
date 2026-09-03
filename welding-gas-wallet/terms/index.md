@@ -20,19 +20,19 @@ Welding Gas Wallet is an independent recordkeeping and planning tool for welding
 
 The app does not measure pressure or gas quantity, monitor or scan a cylinder, validate a serial number, certify materials or personnel, track consumable lots or certificates, determine legal ownership, or decide whether a cylinder, gas, handling method or workplace is safe or compliant. It does not replace inspection, labels, supplier instructions, training, professional judgment or applicable law.
 
-## 2. Free plan, advertising and Pro
+## 2. Free plan and Pro
 
-The free plan remains usable without a purchase. It supports up to three active cylinders and can display a Google AdMob banner after any required consent process. Returning or archiving a cylinder removes it from active inventory and makes an active slot available. Existing wallet records are not automatically deleted because a subscription expires.
+The free plan remains usable without a purchase and supports up to three active cylinders. Returning or archiving a cylinder removes it from active inventory and makes an active slot available. The app contains no advertising.
 
-Pro is an auto-renewing monthly subscription on Android and iOS. While the subscription is active, Pro removes displayed advertising and unlocks unlimited active cylinders. If Pro ends, advertising can resume and the app can prevent adding or duplicating cylinders while more than three active cylinders remain. The user can return, archive or delete cylinders to return to the free limit.
+Pro is an auto-renewing monthly subscription on Android and iOS. While the subscription is active, Pro unlocks unlimited active cylinders.
 
-The production app continues to include advertising and consent components in the installed binary while a subscriber is using Pro. In the current iOS implementation, the app does not request a banner while it recognizes active Pro. If Pro is recognized before advertising preparation at launch, the app does not initiate Google Mobile Ads setup; an SDK initialized earlier in the same app session is not removed. Store entitlement checks continue as explained in the [Privacy Policy](../privacy/).
+If Pro ends while more than three cylinders are active, the app does not delete or silently archive them. The user selects up to three active cylinders to keep managing. Other active cylinders remain visible and may be exported, returned, archived or deleted, but cannot otherwise be edited until Pro becomes active or they move within the free allowance. The selected managed cylinders cannot be repeatedly swapped to simulate unlimited access.
 
 ## 3. Subscription billing, renewal and cancellation
 
-Android subscriptions are sold by Google Play and iOS subscriptions by the App Store. The current iOS commercial reference price is US$1.99 per month with territory-specific prices configured by the App Store. The store purchase sheet shown before confirmation is authoritative for the localized price, currency, taxes, billing period, renewal date and any eligible introductory or promotional offer. No free trial or discounted offer is promised unless it appears in that purchase sheet.
+Android subscriptions are sold by Google Play and iOS subscriptions by the App Store. The approved commercial base price is US$1.99 per month. The app does not implement geographic-pricing rules. The store purchase sheet shown before confirmation is authoritative for the displayed price, currency, taxes, billing period, renewal date and any eligible introductory or promotional offer. No free trial or discounted offer is promised unless it appears in that purchase sheet.
 
-Payment is charged to the store account when the purchase is confirmed. The subscription renews automatically each month until cancelled. The store may charge shortly before the next subscription period under its rules. Cancel through the subscription settings for the store account used to buy Pro. Deleting the app does not cancel the subscription. Cancellation stops future renewal; access normally continues until the end of the paid period, subject to refunds, revocation, billing retry, grace periods and store rules.
+Payment is charged to the store account when the purchase is confirmed. The subscription renews automatically each month until cancelled. The store may charge shortly before the next subscription period under its rules. Cancel through the subscription settings for the store account used to buy Pro. Deleting the app does not cancel the subscription. Cancellation stops future renewal; access continues until the verified paid-through date. A verified billing grace period remains Pro until its stated expiration; billing retry without an active grace period, expiry, refund or revocation does not provide Pro access.
 
 Use **Restore purchases** in the app to check for an eligible subscription previously bought with the current store account. Apple or Google is authoritative for entitlement status.
 
@@ -44,7 +44,7 @@ Apple or Google processes payments, cancellations and refund requests under its 
 
 Core wallet records remain on your device unless you initiate an export. You are responsible for the accuracy of entries and for protecting exported files and device backups. GoodUse Studios does not operate a cylinder-record server and cannot recover a lost local wallet or a separately deleted backup.
 
-The iOS app validates a selected backup before replacing the wallet and rejects unsupported, invalid or larger-than-5-MB files. A free user cannot restore a backup containing more than three active cylinders; that restore requires active Pro access. A failed restore leaves the current wallet unchanged.
+The Android and iOS apps validate a selected backup before replacing the wallet and reject unsupported, invalid or larger-than-5-MB files. A free user may restore a valid backup containing more than three active cylinders, but must select up to three to manage; the rest remain visible and read-only as described above. A failed restore leaves the current wallet unchanged. Backups do not include purchase entitlement.
 
 ## 6. No financial or physical-goods service
 
@@ -52,17 +52,15 @@ The iOS app validates a selected backup before replacing the wallet and rejects 
 
 ## 7. Acceptable use
 
-Use the app lawfully. Do not misuse it as an official certification, inspection or compliance system; attempt unauthorized access; introduce malicious code; interfere with the app, advertising, billing or store services; or use the app in violation of applicable law.
+Use the app lawfully. Do not misuse it as an official certification, inspection or compliance system; attempt unauthorized access; introduce malicious code; interfere with billing or store services; or use the app in violation of applicable law.
 
 ## 8. Third-party services
 
-Google Mobile Ads, Google's User Messaging Platform, Apple, Google Play and user-selected file providers operate under their own terms and privacy policies. Availability, advertisements, consent forms, payment services and file destinations supplied by those providers are outside GoodUse Studios' direct control.
+Apple, Google Play and user-selected file providers operate under their own terms and privacy policies. Store payment services and file destinations supplied by those providers are outside GoodUse Studios' direct control.
 
 ## 9. Territorial availability
 
-The app is offered only through store territories enabled by GoodUse Studios. Current authorized distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye, mainland China and Switzerland. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion.
-
-GoodUse Studios may change store availability for legal, representative, registration, advertising-service or platform reasons, subject to applicable law and without limiting acquired or mandatory consumer rights. Access while travelling, an existing installation or availability through a store provider does not guarantee that every advertisement, consent form, purchase feature or service will be available in every location.
+GoodUse Studios intends to enable the app in every Google Play and App Store country or region available to it, with no voluntary country exclusions. Actual availability can still depend on store support, local legal or registration requirements and platform decisions. GoodUse Studios may change availability where necessary, subject to applicable law and without limiting acquired or mandatory consumer rights. Access while travelling or an existing installation does not guarantee that every purchase feature or store service will be available in every location.
 
 ## 10. Disclaimers and liability
 

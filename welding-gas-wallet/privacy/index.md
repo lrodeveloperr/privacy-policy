@@ -16,67 +16,53 @@ lang: en
 
 Welding Gas Wallet is a local-first cylinder recordkeeping app. It does not require a GoodUse Studios account, and GoodUse Studios does not operate a server that receives your cylinder records during normal use.
 
-The free plan supports up to three active cylinders and can display a Google AdMob banner. An active monthly Pro subscription removes displayed advertising and unlocks unlimited active cylinders. The production app includes Google Mobile Ads and Google's User Messaging Platform (UMP). While the current iOS app recognizes active Pro, it does not request a banner. If Pro is recognized before advertising preparation at launch, the app does not initiate Google Mobile Ads setup. The advertising components remain included in the installed binary, and an SDK initialized earlier in the same app session is not removed.
+The free plan supports up to three active cylinders. An active monthly Pro subscription unlocks unlimited active cylinders. The final production model contains no advertising SDK, advertising-consent service, analytics SDK, attribution SDK, tracking SDK or third-party crash-reporting SDK.
 
 ## 2. Information stored locally
 
-The app can store cylinder names, gas type, capacity, serial number, ownership or rental relationship, supplier details, acquisition and refill or exchange costs, dates, status, notes, activity history, currency preferences, reminder titles and due dates on your device. It also stores the selected app language, onboarding status, accepted legal-document version and acceptance date locally. GoodUse Studios does not receive this information during normal use.
+The app can store cylinder names, gas type, capacity, serial number, ownership or rental relationship, supplier details, acquisition and refill or exchange costs, dates, status, notes, activity history, currency preferences, reminder titles and due dates on your device. It also stores the selected app language and the identifiers of up to three active cylinders that remain manageable if Pro ends while the wallet contains more than three active cylinders. GoodUse Studios does not receive this information during normal use.
 
 The app does not scan cylinders or use the camera. It does not request microphone, contacts, precise-location, Bluetooth or broad photo-library access. It does not track consumable lots or certificates.
 
-## 3. Advertising and consent information
+## 3. No advertising, analytics or tracking
 
-For free users, the app requests banner ads from Google AdMob only after the UMP consent process says ads may be requested. Where required, UMP presents consent choices and makes a privacy-options control available. The eligible form of advertising can depend on your choices, location, device settings and Google's advertising rules. The app does not promise that every advertisement will be personalized or non-personalized.
+The app does not display third-party advertising and does not contain an advertising or advertising-consent SDK. GoodUse Studios does not use the app to track you across apps or websites, create an advertising profile, sell or share personal information for targeted advertising, or collect app-usage analytics or third-party crash reports.
 
-Google states that the Google Mobile Ads SDK may automatically collect or share:
-
-- the device's IP address, which can be used to estimate general location;
-- app and advertisement interactions, such as app launches, taps and ads viewed;
-- diagnostics and performance information, including crash logs, launch time, hang rate and energy use;
-- device or account identifiers, including the Android advertising ID where available and app- or developer-bounded identifiers; and
-- advertising data, including advertisements shown and interactions with them.
-
-Google and participating advertising partners may use this information for advertising, analytics, service performance, security and fraud prevention. Google says Mobile Ads data is encrypted in transit. GoodUse Studios may receive aggregated advertising and performance reports but does not provide your cylinder-record content to the advertising SDK for ad selection.
-
-On Android, the ads-enabled release can access the Android advertising ID. You can reset or delete that identifier in Android settings where supported. The current iOS app does not request Apple's App Tracking Transparency permission and does not intentionally access the IDFA. It may still use app- or developer-bounded identifiers and SKAdNetwork attribution subject to Apple and Google rules.
-
-An active Pro subscription removes the displayed advertising banner. In the current iOS implementation, no banner is requested while active Pro is recognized. If Pro is recognized before advertising preparation at launch, the app does not initiate Google Mobile Ads setup; an SDK initialized earlier in the same app session is not removed. The advertising and consent components remain included in the installed binary. StoreKit still processes entitlement checks, and cancellation, expiry, refund, revocation or loss of Pro access can cause consent preparation and advertising to resume after the paid period and any applicable store grace period ends.
-
-For more information, see Google's [Privacy Policy](https://policies.google.com/privacy) and [advertising technologies explanation](https://policies.google.com/technologies/ads).
+The iOS privacy manifest declares that the app does not track users. Android follows the same no-advertising, no-tracking model and does not use advertising libraries, advertising identifiers or related consent components.
 
 ## 4. Purchases
 
 Pro is an auto-renewing monthly subscription on both platforms. Android purchases are processed by Google Play and iOS purchases by the App Store. Apple and Google process account, billing, payment, tax, cancellation and refund information under their own policies. GoodUse Studios does not receive full payment-card details.
 
-The app receives product, transaction and entitlement information needed to present the store product, verify or restore access and determine whether Pro is active. It can keep a limited local entitlement cache so access can continue temporarily when the store is unavailable. Apple or Google remains authoritative for subscription status.
+The app receives product, transaction, expiration and entitlement information on the device as needed to present the store product, verify or restore access and determine whether Pro is active. It keeps limited verified entitlement evidence in device-secure storage so access can continue until the verified paid-through date when the store is temporarily unavailable. Apple or Google remains authoritative for subscription status. The stores may provide GoodUse Studios with limited sales, proceeds, transaction and subscription reports under their own terms.
 
 ## 5. Backups and user-directed sharing
 
 You can initiate a wallet backup and choose a file destination. Exported files can contain the cylinder, supplier, cost, activity and reminder information you entered. The selected file destination, cloud provider, email service or other receiving application is a separate service and its own privacy policy applies. The app does not upload backups to a GoodUse Studios server.
 
-On iOS, backup files are JSON documents limited to 5 MB. The app validates the file before replacing the current wallet. A free user cannot restore a backup containing more than three active cylinders; an active Pro subscription is required for that restore. A rejected or invalid restore does not replace the current wallet.
+On Android and iOS, backup files are JSON documents limited to 5 MB. The app validates the file before replacing the current wallet. A free user may restore a valid backup containing more than three active cylinders, but must select up to three active cylinders to keep managing; the remaining active cylinders stay visible and read-only unless they are returned, archived or deleted, or Pro becomes active. A rejected or invalid restore does not replace the current wallet. Backup files do not include purchase entitlement.
 
-Android automatic app backup is disabled in the current app. Apple's device or iCloud backup and device-transfer services may separately copy app data according to your operating-system settings. GoodUse Studios does not control those services.
+Operating-system backup, cloud backup and device-transfer services may separately copy app data according to your device and account settings. GoodUse Studios does not control those services.
 
 ## 6. Notifications
 
 If you enable an alert, the app requests notification permission when required and schedules the reminder locally. Reminder titles and cylinder names may appear on the lock screen. GoodUse Studios does not receive reminder content and does not operate a push-notification server for the app.
 
-## 7. Legal grounds and international processing
+## 7. Support, legal grounds and international processing
 
-Where applicable law requires a legal basis, local wallet processing is performed to provide the functions you request; subscription information is processed to perform the purchase contract and protect entitlement integrity; consent is used for advertising where required; and limited security, fraud-prevention and service-integrity processing may rely on legitimate interests or another basis permitted by law. Google and store providers may process information in countries other than the one where you live, subject to their safeguards and policies.
+If you contact support, GoodUse Studios receives the information you choose to send, such as your email address, message and attachments. Do not send passwords, payment-card details or confidential wallet records unless strictly necessary. Support information is used to respond, maintain security, keep necessary records and meet legal obligations.
+
+Where applicable law requires a legal basis, local wallet processing is performed to provide the functions you request; subscription information is processed to perform the purchase contract and protect entitlement integrity; support information is processed to respond to you; and limited security, fraud-prevention and legal-compliance processing may rely on legitimate interests, legal obligations or another basis permitted by law. Apple, Google, support providers and user-selected file providers may process information in countries other than the one where you live, subject to their safeguards and policies.
 
 ## 8. Territorial availability
 
-GoodUse Studios currently does not offer the app through store territories in the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye, mainland China or Switzerland. This distribution restriction reflects the app's current advertising processing and GoodUse Studios' present representative and registration arrangements. It does not restrict any privacy or consumer right that applicable law otherwise gives you.
-
-Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion.
+GoodUse Studios intends to make the final no-advertising app available in every Google Play and App Store country or region that the applicable store permits it to enable, with no voluntary country exclusions. Actual availability remains subject to store support, local requirements and platform decisions. This does not limit any privacy or consumer right that applicable law gives you.
 
 ## 9. Retention and deletion
 
-Wallet records remain on your device until you edit or delete them, use the app's deletion control, or remove them through device controls. On iOS, use **Settings → Delete all data** to remove cylinders, suppliers, costs, activity, reminders and wallet preferences. This leaves an empty wallet but does not reset the selected app language, local legal-acceptance record or locally cached StoreKit entitlement evidence. It also does not cancel a subscription or delete separately exported backups, store records, advertising-provider records or information you voluntarily sent to support. See [Data Deletion](../deletion/).
+Wallet records remain on your device until you edit or delete them, use the app's deletion control, or remove them through device controls. On Android or iOS, use **Settings → Delete all data** to remove cylinders, suppliers, costs, activity, reminders and wallet preferences. This leaves an empty wallet but does not reset the selected app language or clear locally cached store-entitlement evidence. It also does not cancel a subscription or delete separately exported backups, store records or information you voluntarily sent to support. See [Data Deletion](../deletion/).
 
-Google, Apple and Google Play retain information under their own policies. GoodUse Studios retains support correspondence only as long as reasonably necessary for support, security, recordkeeping and legal obligations.
+Apple, Google and their app stores retain information under their own policies. GoodUse Studios retains support correspondence only as long as reasonably necessary for support, security, recordkeeping and legal obligations.
 
 ## 10. Security and privacy rights
 
@@ -86,7 +72,7 @@ For a privacy request or complaint concerning information under GoodUse Studios'
 
 ## 11. Children
 
-The app is intended for adults aged 18 and over and is not directed to children. GoodUse Studios does not knowingly solicit children's personal information through the app or configure the advertising service as child-directed.
+The app is intended for adults aged 18 and over and is not directed to children. GoodUse Studios does not knowingly solicit children's personal information through the app.
 
 ## 12. Changes
 

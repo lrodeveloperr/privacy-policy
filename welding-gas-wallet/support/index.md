@@ -14,21 +14,20 @@ Welding Gas Wallet is a cylinder-only, local-first wallet for welders. It does n
 
 ## Getting started
 
-1. Review and accept the legal notice.
-2. Add a cylinder manually.
-3. Record its gas, capacity and optional supplier or relationship details.
-4. Use the status controls and activity history.
-5. Open Settings for suppliers, reminders, backup and restore, deletion, legal links, ad privacy choices where available, and Pro.
+1. Add a cylinder manually.
+2. Record its gas, capacity and optional supplier or relationship details.
+3. Use the status controls and activity history.
+4. Open Settings for suppliers, reminders, backup and restore, deletion, legal links and Pro.
 
 No account, demo login, external hardware or sample file is required.
 
-## Free plan and advertising
+## Free plan
 
-Free supports up to three active cylinders and can display a Google AdMob banner. If a consent or privacy-options form is required in your region, follow the choices shown in the app. Returning or archiving a cylinder frees an active slot.
+Free supports up to three active cylinders. The app contains no advertising. Returning or archiving a cylinder frees an active slot.
 
 ## Pro subscription
 
-Android and iOS offer a monthly Pro subscription through Google Play or the App Store. While active, Pro unlocks unlimited active cylinders and removes the displayed ad banner. The current iOS commercial reference price is US$1.99 per month with territory-specific App Store prices. The store purchase sheet shows the authoritative local price, taxes, renewal date and any eligible offer.
+Android and iOS offer a monthly Pro subscription through Google Play or the App Store. While active, Pro unlocks unlimited active cylinders. The approved commercial base price is US$1.99 per month, without app-controlled geographic pricing. The store purchase sheet shows the authoritative displayed price, currency, taxes, renewal date and any eligible offer.
 
 Use **Restore purchases** to check for an eligible subscription bought with the current store account. Manage or cancel the subscription in Google Play or App Store subscription settings. Deleting the app does not cancel it.
 
@@ -36,7 +35,7 @@ If Pro is not recognized, confirm that the device is signed into the purchasing 
 
 ## Backups
 
-Use the app's Backup action to export a JSON wallet file and choose a destination. On another device, use Restore and select the file. iOS accepts supported, internally consistent files up to 5 MB. Free users cannot restore a backup containing more than three active cylinders; restore Pro first or use a backup with no more than three active cylinders. A rejected restore leaves the current wallet unchanged. Keep exported files secure. GoodUse Studios cannot recover a lost local wallet from a server. Backup files do not contain the Pro entitlement; restore the subscription separately through the store.
+Use the app's Backup action to export a JSON wallet file and choose a destination. On another device, use Restore and select the file. Android and iOS accept supported, internally consistent files up to 5 MB. A free user may restore more than three active cylinders, but must select up to three to manage; the remaining active cylinders stay visible and read-only until returned, archived or deleted, or Pro becomes active. A rejected restore leaves the current wallet unchanged. Keep exported files secure. GoodUse Studios cannot recover a lost local wallet from a server. Backup files do not contain the Pro entitlement; restore the subscription separately through the store.
 
 ## Reminders
 
@@ -44,11 +43,11 @@ Device alerts are optional local notifications. If permission is denied, enable 
 
 ## Country availability
 
-Current authorized store distribution excludes the European Economic Area (the EU member states, Iceland, Liechtenstein and Norway), the United Kingdom, Türkiye, mainland China and Switzerland. Hong Kong, Macau and Taiwan are not included in the mainland-China exclusion. Availability elsewhere can still depend on the store, device and service providers.
+The final no-advertising app is intended for every Google Play and App Store country or region that the applicable store permits GoodUse Studios to enable, with no voluntary country exclusions. Actual availability can still depend on the store, local requirements and the device.
 
 ## Delete app data
 
-On iOS, open **Settings → Delete all data**, enter the displayed confirmation word and confirm. This removes cylinders, suppliers, costs, activity, reminders and wallet preferences, leaving an empty wallet. It does not reset the selected app language or local legal-acceptance record, cancel a subscription, clear locally cached StoreKit entitlement evidence, or delete exported copies, operating-system backups, advertising-provider data, support messages or Google Play/App Store records. See [Data Deletion](../deletion/).
+On Android or iOS, open **Settings → Delete all data**, enter the displayed confirmation word and confirm. This removes cylinders, suppliers, costs, activity, reminders and wallet preferences, leaving an empty wallet. It does not reset the selected app language, cancel a subscription, clear locally cached store-entitlement evidence, or delete exported copies, operating-system backups, support messages or Google Play/App Store records. See [Data Deletion](../deletion/).
 
 ## Privacy and legal
 
