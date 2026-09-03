@@ -41,7 +41,7 @@ This site publishes product-specific legal, privacy and support documents for ap
 - [Safety and Legal Disclaimer](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/disclaimer/)
 - [Store Metadata Package](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/store-metadata/)
 
-Welding Gas Wallet is a cylinder-only, local-first tool with no advertising. Free supports up to three current editable cylinders; Pro unlocks unlimited cylinder records.
+Welding Gas Wallet is a cylinder-only, local-first tool. Free supports up to three active cylinders and displays a Google AdMob banner after any required consent process. An active monthly Pro subscription removes displayed advertising and unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
 
 ## Promise Guard
 

@@ -25,8 +25,8 @@ The current release is **cylinder-only**. It does not scan cylinders, use the ca
 - [Safety and Legal Disclaimer](disclaimer/)
 - [Store Metadata Package](store-metadata/)
 
-## Plans
+## Plans and advertising
 
-The free plan supports up to three current editable cylinders. Pro unlocks unlimited cylinder records. Android offers auto-renewing monthly and annual subscriptions through Google Play. iOS offers a one-time, non-consumable lifetime purchase through the App Store. Store-displayed prices and billing terms are authoritative.
+The free plan supports up to three active cylinders and can display a Google AdMob banner. An active monthly Pro subscription removes displayed advertising and unlocks unlimited active cylinders. Android subscriptions are processed by Google Play and iOS subscriptions by the App Store. Store-displayed prices, taxes, billing periods, renewal dates and offer terms are authoritative.
 
-No GoodUse Studios account or cylinder-record server is required. Core records remain on the device unless you choose to export a backup. The app contains no advertising, analytics, tracking or third-party crash-reporting SDK. It uses local notifications only when you enable reminders.
+No GoodUse Studios account or cylinder-record server is required. Core records remain on the device unless you choose to export a backup. The production app includes Google Mobile Ads and Google's User Messaging Platform for advertising and consent management. Advertising services can process device and usage information as described in the [Privacy Policy](privacy/). The app does not include a separate GoodUse Studios analytics or third-party crash-reporting service. It uses local notifications only when you enable reminders.
