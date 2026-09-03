@@ -6,8 +6,10 @@ lang: en
 
 # Privacy Policy
 
-**Effective date:** 2 September 2026  
-**Operator:** GoodUse Studios, Ontario, Canada  
+**Effective date:** 3 September 2026
+
+**Operator:** GoodUse Studios, Ontario, Canada
+
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
 ## Summary
@@ -18,11 +20,9 @@ The app can store, on your device, cylinder names, gas type, capacity, serial nu
 
 The app does **not** scan cylinders or use the camera. It does not request camera, microphone, contacts, precise-location, Bluetooth or broad photo-library access. It does not track consumable lots or certificates.
 
-## Advertising
+## No advertising, analytics or tracking
 
-The free plan displays one fixed banner supplied through Google Mobile Ads (AdMob). The app requests non-personalized advertising and uses Google's User Messaging Platform where required. Google may process technical advertising information such as IP-derived approximate location, device or other identifiers, app interactions, advertising data, diagnostics and performance information for advertising, analytics, fraud prevention, security and compliance. GoodUse Studios does not send the contents of your cylinder records to AdMob.
-
-If you use the privacy-choice control provided by Google, it manages Google's applicable advertising-data choices. It is not a purchase control or an ad on/off switch.
+The app contains no advertising, analytics, attribution, tracking or third-party crash-reporting SDK. It does not use the Android advertising ID or Apple's App Tracking Transparency permission, and GoodUse Studios does not build advertising profiles from app activity.
 
 ## Purchases
 
@@ -48,8 +48,8 @@ We minimize access by keeping core wallet records local, but no storage method i
 
 ## Children
 
-The app is intended for adults and is not directed to children under 13. We do not knowingly collect personal information from children under 13.
+The app is intended for adults aged 18 and over and is not directed to children. GoodUse Studios does not knowingly collect personal information from children through the app.
 
 ## Changes
 
-We may update this policy when the app, SDKs, advertising configuration or legal requirements change. The effective date above identifies the current version.
+We may update this policy when the app, SDKs or legal requirements change. The effective date above identifies the current version.

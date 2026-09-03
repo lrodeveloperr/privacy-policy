@@ -6,8 +6,10 @@ lang: en
 
 # Terms of Use
 
-**Effective date:** 2 September 2026  
-**Operator:** GoodUse Studios, Ontario, Canada  
+**Effective date:** 3 September 2026
+
+**Operator:** GoodUse Studios, Ontario, Canada
+
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
 By using Welding Gas Wallet, you agree to these Terms. The app is intended for users aged 18 or older.
@@ -20,11 +22,11 @@ The app does not measure pressure or gas quantity, monitor a cylinder, identify 
 
 ## 2. Free and Pro plans
 
-The free plan supports up to three current editable cylinders and displays one fixed non-personalized banner ad. Returned, exchanged or archived cylinders do not consume a current editable slot. If Pro ends while more than three current cylinders exist, the app can require selection of the three that remain editable; other records remain viewable.
+The free plan supports up to three current editable cylinders. Returned, exchanged or archived cylinders do not consume a current editable slot. If Pro ends while more than three current cylinders exist, the app can require selection of the three that remain editable; other records remain viewable.
 
-Android Pro is an auto-renewing monthly or annual Google Play subscription. Google Play displays the applicable local price, billing period, renewal date and purchase terms before confirmation. Unless cancelled before renewal, the subscription renews under Google's terms. Cancellation stops future renewal; access normally continues through the paid period. Deleting the app does not cancel a subscription.
+Android Pro unlocks unlimited cylinders through an auto-renewing monthly or annual Google Play subscription. The planned US list prices are US$1.99 per month and US$12.99 per year; Google Play's localized purchase sheet shows the authoritative price, taxes, billing period and renewal date before confirmation. There is no advertised free trial. Unless cancelled before renewal, the subscription renews and Google Play charges the selected payment method under its terms. Cancellation stops future renewal; access normally continues through the paid period. Deleting the app does not cancel a subscription. Manage or cancel through Google Play's subscription settings.
 
-iOS Pro is a one-time, non-consumable lifetime purchase through the App Store. The App Store displays the applicable localized price before purchase. “Lifetime” means access for the supported life of the app and service; it is not a promise of perpetual compatibility with every future device or operating system.
+iOS Pro unlocks unlimited cylinders through a one-time, non-consumable lifetime purchase. The planned US list price is US$19.99; the App Store purchase sheet shows the authoritative localized price before confirmation. It is not a subscription and does not renew automatically. “Lifetime” means access for the supported life of the app; it is not a promise of perpetual compatibility with every future device or operating system.
 
 ## 3. Purchases and refunds
 
@@ -36,7 +38,7 @@ Core wallet records remain on your device unless you initiate an export. You are
 
 ## 5. Acceptable use
 
-Use the app lawfully. Do not misuse it as an official certification, inspection or compliance system; attempt unauthorized access; introduce malicious code; interfere with the service or advertising; or use the app in violation of applicable law.
+Use the app lawfully. Do not misuse it as an official certification, inspection or compliance system; attempt unauthorized access; introduce malicious code; interfere with the app or store services; or use the app in violation of applicable law.
 
 ## 6. Disclaimers and liability
 
@@ -46,7 +48,7 @@ Nothing in these Terms excludes or limits liability that cannot lawfully be excl
 
 ## 7. Apple terms
 
-For iOS, these Terms are between you and GoodUse Studios, not Apple. Apple's applicable Licensed Application End User License Agreement also applies where required. Apple is a third-party beneficiary of the applicable provisions concerning the licensed application.
+For iOS, these Terms are between you and GoodUse Studios, not Apple. Apple's [Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies where required. Apple is a third-party beneficiary of the applicable provisions concerning the licensed application.
 
 ## 8. Changes
 

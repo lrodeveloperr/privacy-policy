@@ -17,13 +17,13 @@ Welding Gas Wallet is a cylinder-only local-first wallet for welders. It does no
 2. Add a cylinder manually.
 3. Record its gas, capacity and optional supplier/relationship details.
 4. Use the cylinder status controls and activity history.
-5. Open Settings for suppliers, reminders, backup/restore, deletion, privacy choices and Pro.
+5. Open Settings for suppliers, reminders, backup/restore, deletion, legal links and Pro.
 
 No account or sample login is required.
 
 ## Pro
 
-Android offers monthly and annual Pro subscriptions through Google Play. iOS offers a one-time lifetime Pro purchase through the App Store. Pro removes the banner and unlocks unlimited cylinder records. Store-displayed prices are authoritative.
+Android offers monthly and annual Pro subscriptions through Google Play, with planned US list prices of US$1.99 per month and US$12.99 per year. iOS offers a one-time lifetime Pro purchase with a planned US list price of US$19.99. Pro unlocks unlimited cylinder records. The app contains no advertising. Store-displayed localized prices are authoritative.
 
 Use **Restore purchases** to recover an eligible previous purchase. On Android, subscription management and cancellation are handled by Google Play; deleting the app does not cancel a subscription.
 
