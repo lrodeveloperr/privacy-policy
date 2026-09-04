@@ -8,7 +8,7 @@ lang: en
 
 **Publisher:** GoodUse Studios, Ontario, Canada
 
-**Effective date:** 3 September 2026
+**Effective date:** 4 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
@@ -26,10 +26,10 @@ The current release is **cylinder-only**. It does not scan cylinders, use the ca
 
 ## Plans and privacy
 
-The free plan supports up to three active cylinders. An active monthly Pro subscription unlocks unlimited active cylinders. The approved commercial base price is US$1.99 per month. The app contains no geographic-pricing logic; the price, currency, taxes, billing period, renewal date and offer terms shown by Google Play or the App Store before confirmation are authoritative.
+The iOS free plan supports up to three active cylinders. A verified annual Pro subscription unlocks unlimited active cylinders. The United States base price is US$19.99 per year. App Store Connect controls geographic storefront prices, and the price, currency, billing period, taxes, renewal date and offer terms shown by Apple before confirmation are authoritative. The app does not calculate a price from device location or hard-code the U.S. price into customer-facing purchase screens.
 
 No GoodUse Studios account or cylinder-record server is required. Core records remain on the device unless you choose to export a backup. The final production model contains no advertising SDK, advertising-consent service, analytics SDK, attribution SDK, tracking SDK or third-party crash-reporting SDK. The app uses local notifications only when you enable reminders.
 
 ## Launch availability
 
-GoodUse Studios intends to make the app available in every Google Play and App Store country or region that the applicable store permits it to enable, with no voluntary country exclusions. Actual availability remains subject to store support, local requirements and platform decisions.
+GoodUse Studios intends to make the iOS app available in every App Store country or region that Apple permits it to enable, with no voluntary country exclusions. Actual availability remains subject to App Store support, local requirements and Apple's decisions.

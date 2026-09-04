@@ -23,7 +23,7 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 3 September 2026
+**Index updated:** 4 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
@@ -40,7 +40,7 @@ This site publishes product-specific legal, privacy and support documents for ap
 - [Data Deletion](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/deletion/)
 - [Safety and Legal Disclaimer](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/disclaimer/)
 
-Welding Gas Wallet is a cylinder-only, local-first tool with no advertising. Free supports up to three active cylinders, and an active monthly Pro subscription unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
+Welding Gas Wallet for iOS is a cylinder-only, local-first tool with no advertising. Free supports up to three active cylinders, and a verified annual Pro subscription unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
 
 ## Promise Guard
 
