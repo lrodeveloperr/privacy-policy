@@ -60,7 +60,7 @@ Apple, GitHub Pages and user-selected file providers operate under their own ter
 
 ## 9. Territorial availability
 
-GoodUse Studios intends to enable the iOS app in every App Store country or region Apple makes available to it, with no voluntary country exclusions. Actual availability can still depend on App Store support, local legal or registration requirements and Apple's decisions. GoodUse Studios may change availability where necessary, subject to applicable law and without limiting acquired or mandatory consumer rights. Access while travelling or an existing installation does not guarantee that every purchase feature or App Store service will be available in every location.
+GoodUse Studios intends to enable the iOS app in every App Store country or region Apple makes available to it except China mainland. China mainland is excluded unless and until the required local filing is completed and accepted. Actual availability can still depend on App Store support, local legal or registration requirements and Apple's decisions. GoodUse Studios may change availability where necessary, subject to applicable law and without limiting acquired or mandatory consumer rights. Access while travelling or an existing installation does not guarantee that every purchase feature or App Store service will be available in every location.
 
 ## 10. Disclaimers and liability
 
