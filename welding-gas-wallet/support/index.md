@@ -43,7 +43,7 @@ Device alerts are optional local notifications. If permission is denied, enable 
 
 ## Country availability
 
-The iOS app is intended for every App Store country or region Apple permits GoodUse Studios to enable, with no voluntary country exclusions. Actual availability can still depend on App Store support, local requirements and the device.
+The iOS app is intended for every App Store country or region Apple permits GoodUse Studios to enable except China mainland. China mainland is excluded unless and until the required local filing is completed and accepted. Actual availability can still depend on App Store support, local requirements and the device.
 
 ## Delete app data
 
