@@ -60,7 +60,7 @@ Where applicable law requires a legal basis, on-device wallet processing is perf
 
 ## 9. Territorial availability
 
-GoodUse Studios intends to make the iOS app available in every App Store country or region that Apple permits it to enable, with no voluntary country exclusions. Actual availability remains subject to App Store support, local requirements and Apple's decisions. This does not limit any privacy or consumer right that applicable law gives you.
+GoodUse Studios intends to make the iOS app available in every App Store country or region that Apple permits it to enable except China mainland. China mainland is excluded unless and until the required local filing is completed and accepted. Actual availability remains subject to App Store support, local requirements and Apple's decisions. This does not limit any privacy or consumer right that applicable law gives you.
 
 ## 10. Retention and deletion
 
