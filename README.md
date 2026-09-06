@@ -23,13 +23,24 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 4 September 2026
+**Index updated:** 6 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
 This site publishes product-specific legal, privacy and support documents for apps from GoodUse Studios. Select the relevant app below.
 
 <p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
+
+## HVAC Restock
+
+- [HVAC Restock legal and support overview](https://lrodeveloperr.github.io/privacy-policy/hvac-restock/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/hvac-restock/privacy/)
+- [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/hvac-restock/terms/)
+- [Purchase Terms](https://lrodeveloperr.github.io/privacy-policy/hvac-restock/purchases/)
+- [Support and Data Deletion](https://lrodeveloperr.github.io/privacy-policy/hvac-restock/support/)
+- [Operational and Safety Disclaimer](https://lrodeveloperr.github.io/privacy-policy/hvac-restock/disclaimer/)
+
+HVAC Restock for iPhone and iPad is an account-free, local-first inventory utility with no advertising or behavioural analytics. Ten active inventory items are free; a one-time non-consumable purchase unlocks unlimited active items.
 
 ## Welding Gas Wallet
 
