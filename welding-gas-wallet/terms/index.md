@@ -6,7 +6,7 @@ lang: en
 
 # Terms of Use
 
-**Effective date:** 4 September 2026
+**Effective date:** 6 September 2026
 
 **Operator:** GoodUse Studios, Ontario, Canada
 
@@ -20,31 +20,31 @@ Welding Gas Wallet is an independent recordkeeping and planning tool for welding
 
 The app does not measure pressure or gas quantity, monitor or scan a cylinder, validate a serial number, certify materials or personnel, track consumable lots or certificates, determine legal ownership, or decide whether a cylinder, gas, handling method or workplace is safe or compliant. It does not replace inspection, labels, supplier instructions, training, professional judgment or applicable law.
 
-## 2. Free plan and Pro
+## 2. Free version and permanent unlock
 
-The free plan remains usable without a purchase and supports up to three active cylinders. Returning or archiving a cylinder removes it from active inventory and makes an active slot available. The app contains no advertising.
+The free version remains usable without a purchase and supports up to two active cylinders. Returning or archiving a cylinder removes it from active inventory and makes an active slot available. The app contains no advertising.
 
-Pro is an auto-renewing annual subscription on iOS. While the subscription is active, Pro unlocks unlimited active cylinders.
+A one-time non-consumable App Store purchase permanently unlocks unlimited active cylinders for the purchaser's Apple Account, subject to normal App Store purchase verification, refund and revocation rules. There is no recurring charge or automatic renewal for new customers.
 
-If Pro ends while more than three cylinders are active, the app does not delete or silently archive them. The user selects up to three active cylinders to keep managing. Other active cylinders remain visible and may be exported, returned, archived or deleted, but cannot otherwise be edited until Pro becomes active or they move within the free allowance. The selected managed cylinders cannot be repeatedly swapped to simulate unlimited access.
+If a wallet contains more than two active cylinders without a verified permanent unlock, the app does not delete or silently archive them. The user selects up to two active cylinders to keep managing. Other active cylinders remain visible and may be exported, returned, archived or deleted, but cannot otherwise be edited until the permanent unlock is purchased or restored, or they move within the free allowance. The selected managed cylinders cannot be repeatedly swapped to simulate unlimited access.
 
-## 3. Subscription billing, renewal and cancellation
+## 3. Purchase, price and restore
 
-The subscription is sold by Apple through the App Store as `com.gooduse.weldinggaswallet.pro.yearly`. Its United States base price is US$19.99 per year. App Store Connect controls geographic storefront prices. The app does not calculate prices from device location and displays StoreKit's localized price, currency and annual period. Apple's purchase sheet shown before confirmation is authoritative for the price, taxes, renewal date and any eligible introductory or promotional offer. No free trial or discounted offer is promised unless Apple presents it before purchase.
+The permanent unlock is sold by Apple through the App Store as `com.gooduse.weldinggaswallet.pro.lifetime`. The United States reference price is US$14.99, with an App Store Connect geopriced schedule for other storefronts. The app does not calculate customer prices from device location and displays StoreKit's localized storefront price. Apple's purchase sheet shown before confirmation is authoritative for the amount, taxes and other transaction details.
 
-Payment is charged to your Apple Account when the purchase is confirmed. The subscription renews automatically each year until cancelled. Apple may charge shortly before the next subscription period under its rules. Cancel through App Store subscription settings for the Apple Account used to buy Pro. Deleting the app does not cancel the subscription. Cancellation stops future renewal; access continues until the verified paid-through date. A verified billing grace period remains Pro until its stated expiration; billing retry without an active grace period, expiry, refund or revocation does not provide Pro access.
+Payment is charged to your Apple Account when the purchase is confirmed. The purchase does not renew and does not require a later subscription payment to keep the permanent feature unlock. Deleting the app does not remove the purchase from your Apple Account. Use **Restore purchases** in the app to check for an eligible non-consumable purchase previously bought with the current Apple Account. Apple is authoritative for entitlement status.
 
-Use **Restore purchases** in the app to check for an eligible subscription previously bought with the current Apple Account. Apple is authoritative for entitlement status.
+A refund, revocation, failed StoreKit verification or other App Store action may affect the purchase entitlement according to Apple's rules. Any legacy subscription previously sold for the app is not offered to new customers and remains governed by the terms that applied to that transaction until it ends.
 
 ## 4. Refunds and consumer rights
 
-Apple processes payments, cancellations and refund requests under its terms and applicable law. GoodUse Studios does not receive full payment-card details and does not control App Store refund decisions. Statutory consumer rights remain unaffected.
+Apple processes payments and refund requests under its terms and applicable law. GoodUse Studios does not receive full payment-card details and does not control App Store refund decisions. Statutory consumer rights remain unaffected.
 
 ## 5. Local data and backups
 
 Core wallet records remain on your device unless you initiate an export. You are responsible for the accuracy of entries and for protecting exported files and device backups. GoodUse Studios does not operate a cylinder-record server and cannot recover a lost local wallet or a separately deleted backup.
 
-The iOS app validates a selected backup before replacing the wallet and rejects unsupported, invalid or larger-than-5-MB files. A free user may restore a valid backup containing more than three active cylinders, but must select up to three to manage; the rest remain visible and read-only as described above. A failed restore leaves the current wallet unchanged. Backups do not include StoreKit purchase entitlement.
+The iOS app validates a selected backup before replacing the wallet and rejects unsupported, invalid or larger-than-5-MB files. A user without the permanent unlock may restore a valid backup containing more than two active cylinders, but must select up to two to manage; the rest remain visible and read-only as described above. A failed restore leaves the current wallet unchanged. Backups do not include StoreKit purchase entitlement.
 
 ## 6. No financial or physical-goods service
 
@@ -74,7 +74,7 @@ For iOS, these Terms are between you and GoodUse Studios, not Apple. Apple's [St
 
 ## 12. Changes
 
-We may update these Terms when the app, plans, legal requirements or services change. Material changes will be handled as required by applicable law and platform rules. The effective date above identifies the current version.
+We may update these Terms when the app, purchase model, legal requirements or services change. Material changes will be handled as required by applicable law and platform rules. The effective date above identifies the current version.
 
 ## 13. Governing law
 
