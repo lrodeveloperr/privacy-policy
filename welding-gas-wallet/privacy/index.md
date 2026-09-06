@@ -6,7 +6,7 @@ lang: en
 
 # Privacy Policy
 
-**Effective date:** 4 September 2026
+**Effective date:** 6 September 2026
 
 **Operator:** GoodUse Studios, Ontario, Canada
 
@@ -16,11 +16,11 @@ lang: en
 
 This policy describes the current iOS version of Welding Gas Wallet. It is a local-first cylinder recordkeeping app for iPhone and iPad. It does not require a GoodUse Studios account, and GoodUse Studios does not operate a server that receives your cylinder records during normal use.
 
-The free plan supports up to three active cylinders. A verified annual Pro subscription unlocks unlimited active cylinders. The iOS app contains no advertising SDK, advertising-consent service, analytics SDK, attribution SDK, tracking SDK or third-party crash-reporting SDK.
+The free version supports up to two active cylinders. A verified one-time App Store purchase permanently unlocks unlimited active cylinders. The iOS app contains no advertising SDK, advertising-consent service, analytics SDK, attribution SDK, tracking SDK or third-party crash-reporting SDK.
 
 ## 2. Information stored locally
 
-The app can store cylinder names, gas type, capacity, serial number, ownership or rental relationship, supplier details, acquisition and refill or exchange costs, dates, status, notes, activity history, currency and entry preferences, reminder titles and due dates on your device. It also stores the selected app language and the identifiers of up to three active cylinders that remain manageable if Pro ends while the wallet contains more than three active cylinders. GoodUse Studios does not receive this information during normal use.
+The app can store cylinder names, gas type, capacity, serial number, ownership or rental relationship, supplier details, acquisition and refill or exchange costs, dates, status, notes, activity history, currency and entry preferences, reminder titles and due dates on your device. It also stores the selected app language and, when a wallet contains more active cylinders than the free allowance, the identifiers of up to two active cylinders that remain manageable without the permanent unlock. GoodUse Studios does not receive this information during normal use.
 
 The app does not scan cylinders or use the camera. It does not request microphone, contacts, precise-location, Bluetooth or broad photo-library access. It does not track consumable lots or certificates.
 
@@ -32,15 +32,17 @@ The iOS privacy manifest declares no tracking domains and no data types collecte
 
 ## 4. Purchases
 
-Pro is an auto-renewing annual subscription processed by Apple through the App Store. Apple processes App Store account, billing, payment, tax, cancellation and refund information under its policies. GoodUse Studios does not receive your full payment-card details.
+The permanent unlock is a non-consumable one-time purchase processed by Apple through the App Store. Apple processes App Store account, billing, payment, tax and refund information under its policies. GoodUse Studios does not receive your full payment-card details.
 
-The app uses StoreKit to receive the product identifier, localized price and billing period and to verify purchases, restores, expiration, grace-period, refund and revocation status on the device. It stores only the verified entitled product identifier, verified expiration date and verification time in the iOS Keychain. This cache is restricted to the device and does not extend access beyond the verified expiration date. Apple remains authoritative for subscription status and may provide GoodUse Studios with limited sales, proceeds, transaction and subscription reports under its terms.
+The app uses StoreKit to obtain the product identifier and storefront-localized price and to verify purchases, restores, refunds and revocations on the device. The verified entitlement may be cached locally to support reliable access. Apple remains authoritative for the App Store transaction and may provide GoodUse Studios with limited sales, proceeds and transaction reports under its terms.
+
+There is no recurring charge for new customers, no renewal period, and no loss of the permanent unlock merely because a future subscription payment cannot be made. A refund, revocation, StoreKit verification failure or other App Store action may affect the purchase entitlement according to Apple's rules.
 
 ## 5. Backups and user-directed sharing
 
 You can initiate a wallet backup and choose a file destination. Exported files can contain the cylinder, supplier, cost, activity and reminder information you entered. The selected file destination, cloud provider, email service or other receiving application is a separate service and its own privacy policy applies. The app does not upload backups to a GoodUse Studios server.
 
-On iOS, backup files are JSON documents limited to 5 MB. The app validates the file before replacing the current wallet. A free user may restore a valid backup containing more than three active cylinders, but must select up to three active cylinders to keep managing; the remaining active cylinders stay visible and read-only unless they are returned, archived or deleted, or Pro becomes active. A rejected or invalid restore does not replace the current wallet. Backup files do not include StoreKit purchase entitlement.
+On iOS, backup files are JSON documents limited to 5 MB. The app validates the file before replacing the current wallet. A user without the permanent unlock may restore a valid backup containing more than two active cylinders, but must select up to two active cylinders to keep managing; the remaining active cylinders stay visible and read-only unless they are returned, archived or deleted, or the permanent unlock is purchased or restored. A rejected or invalid restore does not replace the current wallet. Backup files do not include StoreKit purchase entitlement.
 
 Apple's device backup, iCloud backup and device-transfer services may separately copy app data according to your device and account settings. GoodUse Studios does not control those services.
 
@@ -56,7 +58,7 @@ If you contact support, GoodUse Studios receives the information you choose to s
 
 ## 8. Legal grounds and international processing
 
-Where applicable law requires a legal basis, on-device wallet processing is performed to provide the functions you request; subscription information is processed to perform the purchase contract and protect entitlement integrity; support information is processed to respond to you; and limited security, fraud-prevention, accounting and legal-compliance processing may rely on legitimate interests, legal obligations or another basis permitted by law. Apple, GitHub, support providers and user-selected file providers may process information in countries other than the one where you live, subject to their safeguards and policies.
+Where applicable law requires a legal basis, on-device wallet processing is performed to provide the functions you request; purchase information is processed to perform the purchase contract and protect entitlement integrity; support information is processed to respond to you; and limited security, fraud-prevention, accounting and legal-compliance processing may rely on legitimate interests, legal obligations or another basis permitted by law. Apple, GitHub, support providers and user-selected file providers may process information in countries other than the one where you live, subject to their safeguards and policies.
 
 ## 9. Territorial availability
 
@@ -64,9 +66,9 @@ GoodUse Studios intends to make the iOS app available in every App Store country
 
 ## 10. Retention and deletion
 
-Wallet records remain on your device until you edit or delete them, use the app's deletion control, or remove them through iOS controls. In the app, use **Settings → Delete all data**, enter the displayed confirmation word and confirm. This removes cylinders, suppliers, costs, activity, reminders and wallet preferences, cancels their pending local notifications and leaves an empty wallet. It does not reset the selected app language, clear the device-only StoreKit entitlement cache, cancel a subscription or delete separately exported backups, Apple records or information you voluntarily sent to support. See [Data Deletion](../deletion/).
+Wallet records remain on your device until you edit or delete them, use the app's deletion control, or remove them through iOS controls. In the app, use **Settings → Delete all data**, enter the displayed confirmation word and confirm. This removes cylinders, suppliers, costs, activity, reminders and wallet preferences, cancels their pending local notifications and leaves an empty wallet. It does not reset the selected app language, remove an App Store purchase from your Apple Account, delete separately exported backups, delete Apple transaction records or delete information you voluntarily sent to support. See [Data Deletion](../deletion/).
 
-Apple retains App Store information under its policies. GoodUse Studios retains support correspondence and any limited Apple-issued sales, transaction, tax or subscription records it receives only as long as reasonably necessary for support, accounting, tax, fraud prevention, recordkeeping, dispute resolution and legal obligations.
+Apple retains App Store information under its policies. GoodUse Studios retains support correspondence and any limited Apple-issued sales, transaction, tax or purchase records it receives only as long as reasonably necessary for support, accounting, tax, fraud prevention, recordkeeping, dispute resolution and legal obligations.
 
 ## 11. Security and privacy rights
 
