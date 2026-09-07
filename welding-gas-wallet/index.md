@@ -26,7 +26,7 @@ The current release is **cylinder-only**. It does not scan cylinders, use the ca
 
 ## Plans and privacy
 
-The iOS free plan supports up to three active cylinders. A verified annual Pro subscription unlocks unlimited active cylinders. The United States base price is US$19.99 per year. App Store Connect controls geographic storefront prices, and the price, currency, billing period, taxes, renewal date and offer terms shown by Apple before confirmation are authoritative. The app does not calculate a price from device location or hard-code the U.S. price into customer-facing purchase screens.
+The iOS free plan supports up to two active cylinders. A one-time non-consumable Pro purchase permanently unlocks unlimited active cylinders. The United States reference price is US$14.99. App Store Connect controls geographic storefront prices, and the price, currency, taxes and transaction details shown by Apple before confirmation are authoritative. The app does not calculate a price from device location or hard-code the U.S. price into customer-facing purchase screens. The permanent unlock does not renew automatically.
 
 No GoodUse Studios account or cylinder-record server is required. Core records remain on the device unless you choose to export a backup. The final production model contains no advertising SDK, advertising-consent service, analytics SDK, attribution SDK, tracking SDK or third-party crash-reporting SDK. The app uses local notifications only when you enable reminders.
 

@@ -23,19 +23,19 @@ No account, demo login, external hardware or sample file is required.
 
 ## Free plan
 
-Free supports up to three active cylinders. The app contains no advertising. Returning or archiving a cylinder frees an active slot.
+Free supports up to two active cylinders. The app contains no advertising. Returning or archiving a cylinder frees an active slot.
 
-## Pro subscription
+## Permanent Pro unlock
 
-The iOS app offers an annual Pro subscription through the App Store. While active, Pro unlocks unlimited active cylinders. The United States base price is US$19.99 per year, with geographic storefront prices controlled by App Store Connect. The app displays StoreKit's localized price, currency and annual period; Apple's purchase sheet shows the authoritative taxes, renewal date and any eligible offer.
+The iOS app offers a one-time non-consumable Pro purchase through the App Store. Pro permanently unlocks unlimited active cylinders for the purchaser's Apple Account, subject to Apple's verification, refund and revocation rules. The United States reference price is US$14.99, with geographic storefront prices controlled by App Store Connect. The app displays StoreKit's localized price and currency; Apple's purchase sheet shows the authoritative amount, taxes and transaction details. There is no recurring charge or automatic renewal.
 
-Use **Restore purchases** to check for an eligible subscription bought with the current Apple Account. Manage or cancel the subscription in App Store subscription settings. Deleting the app does not cancel it.
+Use **Restore purchases** to check for an eligible permanent unlock bought with the current Apple Account. Deleting the app does not remove the purchase from that Apple Account.
 
 If Pro is not recognized, confirm that the device is signed into the purchasing store account, connect to the internet, tap **Restore purchases**, and restart the app. If the problem continues, contact support without sending payment-card details.
 
 ## Backups
 
-Use the iOS app's Backup action to export a JSON wallet file and choose a Files destination. On another iPhone or iPad, use Restore and select the file. The app accepts supported, internally consistent files up to 5 MB. A free user may restore more than three active cylinders, but must select up to three to manage; the remaining active cylinders stay visible and read-only until returned, archived or deleted, or Pro becomes active. A rejected restore leaves the current wallet unchanged. Keep exported files secure. GoodUse Studios cannot recover a lost local wallet from a server. Backup files do not contain the Pro entitlement; restore the subscription separately through the App Store.
+Use the iOS app's Backup action to export a JSON wallet file and choose a Files destination. On another iPhone or iPad, use Restore and select the file. The app accepts supported, internally consistent files up to 5 MB. A free user may restore more than two active cylinders, but must select up to two to manage; the remaining active cylinders stay visible and read-only until returned, archived or deleted, or Pro is purchased or restored. A rejected restore leaves the current wallet unchanged. Keep exported files secure. GoodUse Studios cannot recover a lost local wallet from a server. Backup files do not contain the Pro entitlement; restore the permanent unlock separately through the App Store.
 
 ## Reminders
 
@@ -47,7 +47,7 @@ The iOS app is intended for every App Store country or region Apple permits Good
 
 ## Delete app data
 
-On iOS, open **Settings → Delete all data**, enter the displayed confirmation word and confirm. This removes cylinders, suppliers, costs, activity, reminders and wallet preferences, cancels their pending local notifications and leaves an empty wallet. It does not reset the selected app language, cancel a subscription, clear the device-only StoreKit entitlement cache, or delete exported copies, Apple backups, support messages or App Store records. See [Data Deletion](../deletion/).
+On iOS, open **Settings → Delete all data**, enter the displayed confirmation word and confirm. This removes cylinders, suppliers, costs, activity, reminders and wallet preferences, cancels their pending local notifications and leaves an empty wallet. It does not reset the selected app language, remove the permanent purchase from the purchaser's Apple Account, clear the device-only StoreKit entitlement cache, or delete exported copies, Apple backups, support messages or App Store records. See [Data Deletion](../deletion/).
 
 ## Privacy and legal
 

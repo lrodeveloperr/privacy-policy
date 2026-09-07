@@ -51,7 +51,7 @@ HVAC Restock for iPhone and iPad is an account-free, local-first inventory utili
 - [Data Deletion](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/deletion/)
 - [Safety and Legal Disclaimer](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/disclaimer/)
 
-Welding Gas Wallet for iOS is a cylinder-only, local-first tool with no advertising. Free supports up to three active cylinders, and a verified annual Pro subscription unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
+Welding Gas Wallet for iOS is a cylinder-only, local-first tool with no advertising. Free supports up to two active cylinders, and a one-time Pro purchase permanently unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
 
 ## Promise Guard
 
