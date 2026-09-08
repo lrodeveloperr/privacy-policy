@@ -32,6 +32,9 @@ Télécommande TV n’envoie aucun renseignement personnel à WorksBien Studios 
 
 L’app utilise le réseau local pour détecter un téléviseur compatible choisi par l’utilisateur et communiquer directement avec lui. Elle peut traiter son adresse IPv4 privée, son port, son nom et son identifiant. L’utilisateur choisit le téléviseur et termine le jumelage au moyen du NIP affiché avant de le contrôler. Les commandes et le texte saisi circulent de l’appareil Apple au téléviseur; WorksBien Studios ne les reçoit pas. Apple, le réseau et le fabricant peuvent traiter des données séparément selon leurs pratiques.
 
+
+Lors du premier jumelage, les téléviseurs compatibles présentent un certificat local autosigné qui ne peut pas être vérifié par une autorité de certification publique pour l’adresse privée du téléviseur. L’app fait temporairement confiance uniquement au point d’accès privé sélectionné pour l’échange du NIP affiché à l’écran, puis enregistre cette identité de certificat lorsque le NIP est accepté. Cette mesure protège la continuité des connexions suivantes, mais elle ne peut pas établir indépendamment l’identité du téléviseur contre un attaquant actif lors du premier jumelage. Jumelez seulement sur un réseau privé auquel vous faites confiance.
+
 ## Données enregistrées sur l’appareil
 
 L’adresse IPv4 privée, le port et le nom du téléviseur sélectionné, le jeton de jumelage et l’identité de son certificat sont stockés comme éléments réservés à l’appareil dans le trousseau iOS. L’UUID client généré par l’app et la préférence haptique sont conservés localement.
