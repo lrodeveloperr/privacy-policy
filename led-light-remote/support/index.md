@@ -13,6 +13,8 @@ lang: en
 
 # LED Light Remote — Support and Saved-Light Data Removal
 
+**Applies to:** LED Light Remote 1.0 for iPhone and iPad (App Store listing: **LED Remote: Light Control**)
+
 ## Fast troubleshooting
 
 1. Confirm the light and Bluetooth controller have power.

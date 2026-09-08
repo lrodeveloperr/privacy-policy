@@ -14,7 +14,7 @@ lang: en
 # LED Light Remote — Supplemental Terms of Use
 
 **Effective:** 8 September 2026  
-**Applies to:** LED Light Remote 1.0 for iPhone and iPad
+**Applies to:** LED Light Remote 1.0 for iPhone and iPad (App Store listing: **LED Remote: Light Control**)
 
 These disclosures supplement the [Apple Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which governs the App licence. If these disclosures conflict with Apple's agreement or applicable law, the controlling agreement and law prevail.
 

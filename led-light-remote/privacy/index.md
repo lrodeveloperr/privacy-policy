@@ -14,7 +14,7 @@ lang: en
 # Privacy Policy for LED Light Remote
 
 **Effective:** 8 September 2026  
-**Applies to:** LED Light Remote 1.0 for iPhone and iPad
+**Applies to:** LED Light Remote 1.0 for iPhone and iPad (App Store listing: **LED Remote: Light Control**)
 
 WorksBien Studios Inc. ("WorksBien Studios," "we," "us," or "our") publishes LED Light Remote (the "App").
 

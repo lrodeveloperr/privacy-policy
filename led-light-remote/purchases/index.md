@@ -13,6 +13,8 @@ lang: en
 
 # LED Light Remote — Trial and Purchase Terms
 
+**Applies to:** LED Light Remote 1.0 for iPhone and iPad (App Store listing: **LED Remote: Light Control**)
+
 ## Free 1-day Trial
 
 The **1-day Trial** is a free, opt-in, Price Tier 0 non-consumable in-app purchase. It starts only after the user confirms it through Apple's purchase sheet and Apple provides a verified transaction. It lasts exactly 24 hours from the verified purchase date. It does not renew, is not a subscription and makes no automatic charge.

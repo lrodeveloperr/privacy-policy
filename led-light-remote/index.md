@@ -13,7 +13,7 @@ lang: en
 
 # LED Light Remote — legal and support
 
-These documents apply to **LED Light Remote 1.0 for iPhone and iPad**, published by WorksBien Studios Inc.
+These documents apply to **LED Light Remote 1.0 for iPhone and iPad**, listed on the App Store as **LED Remote: Light Control**, and published by WorksBien Studios Inc.
 
 - [Privacy Policy]({{ '/led-light-remote/privacy/' | relative_url }})
 - [Supplemental Terms of Use]({{ '/led-light-remote/terms/' | relative_url }})
@@ -23,4 +23,3 @@ These documents apply to **LED Light Remote 1.0 for iPhone and iPad**, published
 The app has no WorksBien account, advertising, analytics, tracking or developer-operated cloud. It communicates directly over Bluetooth with a selected nearby controller. An opt-in free **1-day Trial** lasts 24 hours, does not renew and makes no automatic charge. A separate **Lifetime Unlock** is a one-time non-consumable purchase. There is no subscription.
 
 <p class="notice"><strong>Compatibility:</strong> Bluetooth controller hardware and firmware vary, including within products sold under the same name. Use the free response test on the actual light before starting the trial or buying. The demo is simulated and does not prove compatibility.</p>
-
