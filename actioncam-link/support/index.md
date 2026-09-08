@@ -54,6 +54,8 @@ Deleting a camera original is permanent and is separate from deleting an on-devi
 
 https://worksbienstudios.com/customerservice
 
+Email: info@worksbienstudios.com
+
 When sharing a compatibility report, review it first. Do not send passwords, payment-card details, private recordings, or information unrelated to the support request.
 
 </main>
