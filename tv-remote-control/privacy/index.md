@@ -41,6 +41,9 @@ WorksBien Studios Inc. ("WorksBien Studios," "we," "us," or "our") publishes TV 
 
 Discovery responses are untrusted network input. The App may process a television's private IPv4 address, port, display name and device identifier to show discovery results and connect. The user selects a television and completes a television-displayed PIN flow before control. Commands and typed text travel from the Apple device to the selected television over the local network; WorksBien Studios does not receive them.
 
+
+During first pairing, compatible TVs present a self-signed local certificate that cannot be verified through a public certificate authority for the TV’s private address. The App temporarily trusts only the selected private endpoint for the television-displayed PIN exchange, then stores that certificate identity after the PIN succeeds. This protects later connection continuity but cannot independently prove the TV’s identity against an active attacker during the first pairing. Pair only on a private network you trust.
+
 The App does not support control through a WorksBien server. Network equipment, the television and its manufacturer may observe or process local-network traffic according to their own operation and policies.
 
 ## 3. Information stored on the device
