@@ -18,7 +18,7 @@ lang: en
 1. Confirm the light and Bluetooth controller have power.
 2. Close the manufacturer's or another controller app; many low-cost controllers accept only one connection.
 3. Move within 3 metres, power-cycle the controller and scan again.
-4. Select the exact nearby device and use the free red/green/blue response test.
+4. Select the exact nearby device and use the free Off, On, red, green and blue response test.
 5. If colours are swapped, use colour-channel calibration before deciding whether the light works.
 
 The demo is simulated. It is useful for previewing the interface, but it does not transmit commands or establish compatibility.
@@ -33,4 +33,3 @@ This removes saved peripheral identifiers, names, rooms, detected protocol famil
 ## Contact
 
 Use [worksbienstudios.com/customerservice](https://worksbienstudios.com/customerservice) or email **info@worksbienstudios.com**. Include the App version, iPhone/iPad model, iOS/iPadOS version, controller's advertised Bluetooth name and neutral reproduction steps. Do not send passwords, payment-card details or private device identifiers.
-
