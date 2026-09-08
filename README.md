@@ -23,11 +23,11 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 6 September 2026
+**Index updated:** 8 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
-This site publishes product-specific legal, privacy and support documents for apps from GoodUse Studios. Select the relevant app below.
+This site publishes product-specific legal, privacy and support documents for apps from GoodUse Studios and WorksBien Studios Inc. Select the relevant app below.
 
 <p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
 
@@ -75,6 +75,18 @@ Promise Guard has no advertising. Its app-specific documents explain its local-f
 - [Operational Disclaimer](https://lrodeveloperr.github.io/privacy-policy/supplycheck-local/disclaimer/)
 
 SupplyCheck's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck contains ads.
+
+## TV Remote Control
+
+- [TV Remote Control legal and support overview](https://lrodeveloperr.github.io/privacy-policy/tv-remote-control/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/tv-remote-control/privacy/)
+- [Supplemental Terms of Use](https://lrodeveloperr.github.io/privacy-policy/tv-remote-control/terms/)
+- [Trial and Purchase Terms](https://lrodeveloperr.github.io/privacy-policy/tv-remote-control/purchases/)
+- [Support and Saved-TV Data Removal](https://lrodeveloperr.github.io/privacy-policy/tv-remote-control/support/)
+- [Política de privacidad — Español](https://lrodeveloperr.github.io/privacy-policy/tv-remote-control/es/privacy/)
+- [Politique de confidentialité — Français (Canada)](https://lrodeveloperr.github.io/privacy-policy/tv-remote-control/fr-ca/privacy/)
+
+TV Remote Control for iPhone and iPad controls compatible Vizio SmartCast televisions over the local network. It has no advertising, tracking, developer account or developer cloud. A free opt-in 1-day Trial lasts 24 hours without renewal or automatic charge; a separate one-time non-consumable purchase permanently unlocks remote features in supported versions.
 
 ## Contact
 
