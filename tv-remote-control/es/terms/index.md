@@ -1,5 +1,5 @@
 ---
-title: Términos de uso de Control remoto de TV
+title: "Términos de uso de Control Remoto TV Vizio: Mando"
 permalink: /tv-remote-control/es/terms/
 lang: es-419
 ---
@@ -17,14 +17,15 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 </style>
 
 <a class="skip-link" href="#main-content">Saltar al contenido principal</a>
-<nav class="legal-nav" aria-label="Documentos legales de Control remoto de TV"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}">Privacidad</a> <a href="{{ '/tv-remote-control/es/terms/' | relative_url }}">Términos</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Compras (English)</a> <a href="https://worksbienstudios.com/customerservice">Soporte</a></nav>
+<nav class="legal-nav" aria-label="Documentos legales de Control Remoto TV Vizio: Mando"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}">Privacidad</a> <a href="{{ '/tv-remote-control/es/terms/' | relative_url }}">Términos</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Compras (English)</a> <a href="https://worksbienstudios.com/customerservice">Soporte</a></nav>
 <p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 8 de septiembre de 2026</p>
 
 <main id="main-content" markdown="1">
 
-# Control remoto de TV — Términos de uso complementarios
+# Control Remoto TV Vizio: Mando — Términos de uso complementarios
 
-**Entrada en vigor:** 8 de septiembre de 2026
+**Entrada en vigor:** 8 de septiembre de 2026  
+**Nombre en inglés:** Remote for Vizio TV Controller
 
 Estas divulgaciones complementan el [Contrato de licencia estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), que rige la licencia de la app. El contrato y la ley aplicables prevalecen en caso de conflicto.
 
@@ -58,4 +59,4 @@ Contacto: **WorksBien Studios Inc.**, **info@worksbienstudios.com**, [servicio a
 
 </main>
 
-<footer class="legal-footer">Control remoto de TV · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 8 de septiembre de 2026</footer>
+<footer class="legal-footer">Control Remoto TV Vizio: Mando · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 8 de septiembre de 2026</footer>

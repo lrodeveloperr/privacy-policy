@@ -1,5 +1,5 @@
 ---
-title: Política de privacidad de Control remoto de TV
+title: "Política de privacidad de Control Remoto TV Vizio: Mando"
 permalink: /tv-remote-control/es/privacy/
 lang: es-419
 ---
@@ -17,16 +17,17 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 </style>
 
 <a class="skip-link" href="#main-content">Saltar al contenido principal</a>
-<nav class="legal-nav" aria-label="Documentos legales de Control remoto de TV"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}">Privacidad</a> <a href="{{ '/tv-remote-control/es/terms/' | relative_url }}">Términos</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Compras (English)</a> <a href="https://worksbienstudios.com/customerservice">Soporte</a></nav>
+<nav class="legal-nav" aria-label="Documentos legales de Control Remoto TV Vizio: Mando"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}">Privacidad</a> <a href="{{ '/tv-remote-control/es/terms/' | relative_url }}">Términos</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Compras (English)</a> <a href="https://worksbienstudios.com/customerservice">Soporte</a></nav>
 <p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 8 de septiembre de 2026</p>
 
 <main id="main-content" markdown="1">
 
-# Política de privacidad de Control remoto de TV
+# Política de privacidad de Control Remoto TV Vizio: Mando
 
-**Entrada en vigor:** 8 de septiembre de 2026
+**Entrada en vigor:** 8 de septiembre de 2026  
+**Nombre en inglés:** Remote for Vizio TV Controller
 
-Control remoto de TV no envía datos personales a WorksBien Studios Inc. La app no tiene cuenta del desarrollador, publicidad, análisis, rastreo, nube del desarrollador ni SDK externo de informes de fallos.
+Control Remoto TV Vizio: Mando no envía datos personales a WorksBien Studios Inc. La app no tiene cuenta del desarrollador, publicidad, análisis, rastreo, nube del desarrollador ni SDK externo de informes de fallos.
 
 ## Red local
 
@@ -61,8 +62,8 @@ Podemos actualizar esta política cuando cambien la app, la ley o las prácticas
 
 Contacto de privacidad: **WorksBien Studios Inc.**, **info@worksbienstudios.com**. [Servicio al cliente](https://worksbienstudios.com/customerservice).
 
-Control remoto de TV es independiente, no afiliada ni respaldada por Vizio, Inc.
+Control Remoto TV Vizio: Mando es independiente, no afiliada ni respaldada por Vizio, Inc.
 
 </main>
 
-<footer class="legal-footer">Control remoto de TV · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 8 de septiembre de 2026</footer>
+<footer class="legal-footer">Control Remoto TV Vizio: Mando · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 8 de septiembre de 2026</footer>

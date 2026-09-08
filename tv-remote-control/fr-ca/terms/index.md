@@ -1,5 +1,5 @@
 ---
-title: Conditions d’utilisation de Télécommande TV
+title: "Conditions d’utilisation de Vizio TV : Télécommande WiFi"
 permalink: /tv-remote-control/fr-ca/terms/
 lang: fr-CA
 ---
@@ -17,14 +17,15 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 </style>
 
 <a class="skip-link" href="#main-content">Aller au contenu principal</a>
-<nav class="legal-nav" aria-label="Documents juridiques de Télécommande TV"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}">Confidentialité</a> <a href="{{ '/tv-remote-control/fr-ca/terms/' | relative_url }}">Conditions</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Achats (English)</a> <a href="https://worksbienstudios.com/customerservice">Soutien</a></nav>
+<nav class="legal-nav" aria-label="Documents juridiques de Vizio TV : Télécommande WiFi"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}">Confidentialité</a> <a href="{{ '/tv-remote-control/fr-ca/terms/' | relative_url }}">Conditions</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Achats (English)</a> <a href="https://worksbienstudios.com/customerservice">Soutien</a></nav>
 <p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 8 septembre 2026</p>
 
 <main id="main-content" markdown="1">
 
-# Télécommande TV — Conditions d’utilisation supplémentaires
+# Vizio TV : Télécommande WiFi — Conditions d’utilisation supplémentaires
 
-**Entrée en vigueur :** 8 septembre 2026
+**Entrée en vigueur :** 8 septembre 2026  
+**Nom anglais :** Remote for Vizio TV Controller
 
 Ces renseignements complètent le [Contrat de licence d’utilisateur final standard d’Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), qui régit la licence de l’app. Le contrat et la loi applicables prévalent en cas de conflit.
 
@@ -58,4 +59,4 @@ Coordonnées : **WorksBien Studios Inc.**, **info@worksbienstudios.com**, [servi
 
 </main>
 
-<footer class="legal-footer">Télécommande TV · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 8 septembre 2026</footer>
+<footer class="legal-footer">Vizio TV : Télécommande WiFi · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 8 septembre 2026</footer>

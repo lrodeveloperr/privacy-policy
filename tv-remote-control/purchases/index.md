@@ -1,5 +1,5 @@
 ---
-title: Trial and Purchase Terms for TV Remote Control: Simple
+title: "Trial and Purchase Terms for Remote for Vizio TV Controller"
 permalink: /tv-remote-control/purchases/
 lang: en
 ---
@@ -17,15 +17,15 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 </style>
 
 <a class="skip-link" href="#main-content">Skip to main content</a>
-<nav class="legal-nav" aria-label="TV Remote Control: Simple legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
+<nav class="legal-nav" aria-label="Remote for Vizio TV Controller legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
 <p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</p>
 
 <main id="main-content" markdown="1">
 
-# Trial and Purchase Terms for TV Remote Control: Simple
+# Trial and Purchase Terms for Remote for Vizio TV Controller
 
 **Effective:** 8 September 2026  
-**Applies to:** TV Remote Control: Simple 1.0 for iPhone and iPad
+**Applies to:** Remote for Vizio TV Controller 1.0 for iPhone and iPad
 
 ## 1. Free 1-day Trial
 
@@ -35,7 +35,7 @@ The trial does **not** renew, does **not** convert automatically to the paid unl
 
 ## 2. One-time Full Remote Unlock
 
-The **Full Remote Unlock** is a separate, paid, non-consumable in-app purchase. It permanently unlocks remote features in supported versions when StoreKit verifies an eligible entitlement. It is a one-time purchase, not a subscription, and has no automatic renewal or recurring TV Remote Control: Simple charge.
+The **Full Remote Unlock** is a separate, paid, non-consumable in-app purchase. It permanently unlocks remote features in supported versions when StoreKit verifies an eligible entitlement. It is a one-time purchase, not a subscription, and has no automatic renewal or recurring Remote for Vizio TV Controller charge.
 
 The App Store purchase sheet displays the localized price, currency and applicable tax before confirmation. The price and terms Apple displays at checkout control. A US $2.99 reference price may differ by storefront, tax, exchange rate or later price change.
 
@@ -59,4 +59,4 @@ For an App entitlement or restore defect, email **info@worksbienstudios.com** wi
 
 </main>
 
-<footer class="legal-footer">TV Remote Control: Simple · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
+<footer class="legal-footer">Remote for Vizio TV Controller · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>

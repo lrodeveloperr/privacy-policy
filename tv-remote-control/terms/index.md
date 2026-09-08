@@ -1,5 +1,5 @@
 ---
-title: Supplemental Terms of Use for TV Remote Control: Simple
+title: "Supplemental Terms of Use for Remote for Vizio TV Controller"
 permalink: /tv-remote-control/terms/
 lang: en
 ---
@@ -17,15 +17,15 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 </style>
 
 <a class="skip-link" href="#main-content">Skip to main content</a>
-<nav class="legal-nav" aria-label="TV Remote Control: Simple legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
+<nav class="legal-nav" aria-label="Remote for Vizio TV Controller legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
 <p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</p>
 
 <main id="main-content" markdown="1">
 
-# TV Remote Control: Simple — Supplemental Terms of Use
+# Remote for Vizio TV Controller — Supplemental Terms of Use
 
 **Effective:** 8 September 2026  
-**Applies to:** TV Remote Control: Simple 1.0 for iPhone and iPad
+**Applies to:** Remote for Vizio TV Controller 1.0 for iPhone and iPad
 
 These disclosures supplement the [Apple Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which governs the App licence. If these disclosures conflict with Apple's agreement or applicable law, the controlling agreement and law prevail.
 
@@ -59,7 +59,7 @@ Apple's App Store, StoreKit, TestFlight and related services, and each televisio
 
 ## 6. Intellectual property and independent status
 
-The App, design, code, text and associated materials remain owned by WorksBien Studios or its licensors. Vizio and SmartCast are trademarks of their owner and are referenced only to describe compatibility. TV Remote Control: Simple is independent and is not affiliated with or endorsed by Vizio, Inc.
+The App, design, code, text and associated materials remain owned by WorksBien Studios or its licensors. Vizio and SmartCast are trademarks of their owner and are referenced only to describe compatibility. Remote for Vizio TV Controller is independent and is not affiliated with or endorsed by Vizio, Inc.
 
 ## 7. Disclaimers and liability
 
@@ -77,4 +77,4 @@ Contact: **WorksBien Studios Inc.**, **info@worksbienstudios.com**, [worksbienst
 
 </main>
 
-<footer class="legal-footer">TV Remote Control: Simple · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
+<footer class="legal-footer">Remote for Vizio TV Controller · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
