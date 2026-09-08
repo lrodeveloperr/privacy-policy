@@ -73,6 +73,8 @@ The app and these terms may change for compatibility, security, legal, or produc
 
 https://worksbienstudios.com/customerservice
 
+Email: info@worksbienstudios.com
+
 </main>
 
 <footer class="legal-footer">ActionCam Link · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
