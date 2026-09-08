@@ -24,7 +24,7 @@ Subject to these Terms and Apple's applicable terms, WorksBien Studios Inc. gran
 
 ## 2. Requirements, compatibility and demo
 
-Real control requires a supported Bluetooth Low Energy controller, iOS Bluetooth permission and radio proximity. Hardware, firmware, interference, controller state and other apps can affect discovery and commands. Retailers may change controller hardware without changing packaging or product name. Compatibility and uninterrupted operation are not guaranteed. The free response test must be performed on the actual controller. The built-in demo is simulated, stores no light profile, transmits no command and does not prove compatibility.
+Real control requires a supported Bluetooth Low Energy controller, iOS Bluetooth permission and radio proximity. Hardware, firmware, interference, controller state and other apps can affect discovery and commands. Retailers may change controller hardware without changing packaging or product name. Compatibility and uninterrupted operation are not guaranteed. We strongly recommend completing the free response test on the actual controller before starting the trial or buying. The built-in demo is simulated, stores no light profile, transmits no command and does not prove compatibility.
 
 ## 3. Trial and Lifetime Unlock
 
@@ -47,4 +47,3 @@ To the maximum extent permitted by law, the App is provided "as is" and "as avai
 These supplemental Terms are governed by the laws of Ontario and the applicable federal laws of Canada, without displacing mandatory consumer protections or mandatory jurisdiction rules that apply where you live.
 
 Contact: **WorksBien Studios Inc.**, **info@worksbienstudios.com**, [worksbienstudios.com/customerservice](https://worksbienstudios.com/customerservice).
-
