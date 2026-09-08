@@ -26,6 +26,8 @@ Subject to these Terms and Apple's applicable terms, WorksBien Studios Inc. gran
 
 Real control requires a supported Bluetooth Low Energy controller, iOS Bluetooth permission and radio proximity. Hardware, firmware, interference, controller state and other apps can affect discovery and commands. Retailers may change controller hardware without changing packaging or product name. Compatibility and uninterrupted operation are not guaranteed. We strongly recommend completing the free response test on the actual controller before starting the trial or buying. The built-in demo is simulated, stores no light profile, transmits no command and does not prove compatibility.
 
+Trial or Lifetime Unlock ownership applies to the Apple Account, but does not prove an individual controller compatible. Each newly connected real controller—and any saved controller whose detected protocol or compatibility-test revision changes—must pass its own current response test before full remote commands become available.
+
 ## 3. Trial and Lifetime Unlock
 
 The free **1-day Trial** is an opt-in, Price Tier 0 non-consumable App Store product. It begins when a verified transaction completes. For 24 hours it unlocks the colour picker, brightness slider, quick scenes, light naming, room labels and saved settings. When it ends, those features lock; connecting, power, the primary-colour response test and colour-channel calibration remain free. The trial does not renew and makes no automatic charge.
