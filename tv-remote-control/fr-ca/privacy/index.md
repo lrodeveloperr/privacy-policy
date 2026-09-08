@@ -1,0 +1,65 @@
+---
+title: Politique de confidentialité de Télécommande TV
+permalink: /tv-remote-control/fr-ca/privacy/
+lang: fr-CA
+---
+
+<style>
+:root { color-scheme: light dark; }
+body { box-sizing: border-box; max-width: 980px; margin: 0 auto; padding: 28px 22px 56px; font: 17px/1.62 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; color: #10233f; background: #fff; }
+a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
+.skip-link { position: absolute; left: 1rem; top: -6rem; z-index: 10; padding: .7rem 1rem; color: #fff; background: #0759b8; border-radius: .5rem; }
+.skip-link:focus { top: 1rem; } a:focus-visible { outline: 3px solid #75c8ff; outline-offset: 3px; border-radius: 2px; }
+.legal-nav { display: flex; flex-wrap: wrap; gap: .55rem 1rem; padding-bottom: 1rem; border-bottom: 1px solid #d7e6f3; }
+.legal-meta,.legal-footer { color: #526a82; } .legal-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d7e6f3; }
+.notice { padding: .8rem 1rem; border-left: 4px solid #1468f4; background: #f1f7ff; }
+@media (prefers-color-scheme: dark) { body{color:#eaf4ff;background:#09111c} h1,h2,h3{color:#eaf4ff} a{color:#8fc3ff} .legal-nav,.legal-footer{border-color:#31465b} .legal-meta,.legal-footer{color:#afc3d6} .notice{background:#132238} }
+</style>
+
+<a class="skip-link" href="#main-content">Aller au contenu principal</a>
+<nav class="legal-nav" aria-label="Documents juridiques de Télécommande TV"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}">Confidentialité</a> <a href="{{ '/tv-remote-control/fr-ca/terms/' | relative_url }}">Conditions</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Achats (English)</a> <a href="https://worksbienstudios.com/customerservice">Soutien</a></nav>
+<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 8 septembre 2026</p>
+
+<main id="main-content" markdown="1">
+
+# Politique de confidentialité de Télécommande TV
+
+**Entrée en vigueur :** 8 septembre 2026
+
+Télécommande TV n’envoie aucun renseignement personnel à WorksBien Studios Inc. L’app ne comporte aucun compte exploité par le développeur, aucune publicité, aucun outil d’analyse, aucun suivi, aucun nuage du développeur et aucun module externe de signalement des pannes.
+
+## Réseau local
+
+L’app utilise le réseau local pour détecter un téléviseur compatible choisi par l’utilisateur et communiquer directement avec lui. Elle peut traiter son adresse IPv4 privée, son port, son nom et son identifiant. L’utilisateur choisit le téléviseur et termine le jumelage au moyen du NIP affiché avant de le contrôler. Les commandes et le texte saisi circulent de l’appareil Apple au téléviseur; WorksBien Studios ne les reçoit pas. Apple, le réseau et le fabricant peuvent traiter des données séparément selon leurs pratiques.
+
+## Données enregistrées sur l’appareil
+
+L’adresse IPv4 privée, le port et le nom du téléviseur sélectionné, le jeton de jumelage et l’identité de son certificat sont stockés comme éléments réservés à l’appareil dans le trousseau iOS. L’UUID client généré par l’app et la préférence haptique sont conservés localement.
+
+**Oublier ce téléviseur** demande la suppression des données d’un téléviseur. **Supprimer toutes les données de téléviseur** demande la suppression de toutes les adresses, de tous les jetons et certificats ainsi que de l’UUID client. Une commande distincte permet de réinitialiser l’identité si le certificat change.
+
+## Achats, diagnostics et soutien
+
+Apple traite l’Essai de 1 jour gratuit et le Déverrouillage complet facultatif à achat unique. L’app consulte le produit, le type, la date d’achat, le droit ou la révocation et le prix localisé vérifiés par StoreKit. L’essai dure 24 heures, ne se renouvelle pas et n’entraîne aucuns frais automatiques. WorksBien Studios ne reçoit aucun renseignement complet de carte ou de compte bancaire.
+
+Apple peut traiter des diagnostics et des données TestFlight selon ses conditions et réglages. Si vous communiquez avec le soutien, nous recevons votre adresse courriel et les renseignements envoyés. N’envoyez pas de justificatifs, de jetons, d’adresses privées ni de contenu sensible.
+
+## Communication, conservation et droits
+
+WorksBien Studios ne reçoit, ne vend et ne partage pas les données locales décrites, et ne les utilise pas pour le suivi entre apps. Elles demeurent sur l’appareil jusqu’à l’emploi des commandes de suppression, le retrait du stockage par iOS, la désinstallation selon le comportement du trousseau ou l’effacement de l’appareil.
+
+WorksBien Studios ne peut accéder à des renseignements qu’elle ne reçoit pas, ni les corriger ou les supprimer. Utilisez les commandes de l’app pour les données locales. Pour les renseignements réellement détenus par WorksBien Studios, écrivez à **info@worksbienstudios.com**.
+
+L’app ne s’adresse pas aux enfants. Aucun appareil ni réseau n’est entièrement sécurisé. Utilisez seulement les téléviseurs et réseaux que vous êtes autorisé à contrôler.
+
+## Modifications et coordonnées
+
+Nous pouvons modifier cette politique lorsque l’app, la loi ou les pratiques de données changent. La version courante paraît à cette URL.
+
+Responsable de la confidentialité : **WorksBien Studios Inc.**, **info@worksbienstudios.com**. [Service à la clientèle](https://worksbienstudios.com/customerservice).
+
+Télécommande TV est indépendante et n’est ni affiliée à Vizio, Inc. ni approuvée par celle-ci.
+
+</main>
+
+<footer class="legal-footer">Télécommande TV · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 8 septembre 2026</footer>
