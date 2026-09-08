@@ -98,6 +98,16 @@ LED Light Remote for iPhone and iPad is an account-free, local-first Bluetooth c
 
 TV Remote Control for iPhone and iPad controls compatible Vizio SmartCast televisions over the local network. It has no advertising, tracking, developer account or developer cloud. A free opt-in 1-day Trial lasts 24 hours without renewal or automatic charge; a separate one-time non-consumable purchase permanently unlocks remote features in supported versions.
 
+## ActionCam Link
+
+- [ActionCam Link legal and support overview](https://lrodeveloperr.github.io/privacy-policy/actioncam-link/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/actioncam-link/privacy/)
+- [Supplemental Terms of Use](https://lrodeveloperr.github.io/privacy-policy/actioncam-link/terms/)
+- [Trial and Purchase Terms](https://lrodeveloperr.github.io/privacy-policy/actioncam-link/purchases/)
+- [Support and Local Data Removal](https://lrodeveloperr.github.io/privacy-policy/actioncam-link/support/)
+
+ActionCam Link for iPhone and iPad connects to compatible cameras at private local addresses. It has no advertising, tracking, developer account, developer backend or developer cloud. A free opt-in 1-day Trial lasts 24 hours without renewal or automatic charge; a separate one-time non-consumable purchase unlocks paid features in supported versions.
+
 ## Contact
 
 For questions about a particular app, identify the app and platform when emailing [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com). Do not send passwords, payment-card details or confidential operational records.
