@@ -32,6 +32,9 @@ Control remoto de TV no envía datos personales a WorksBien Studios Inc. La app 
 
 La app usa la red local para detectar una televisión compatible seleccionada por el usuario y comunicarse directamente con ella. Puede procesar su dirección IPv4 privada, puerto, nombre e identificador. El usuario elige la TV y completa el proceso con el PIN mostrado antes de controlarla. Los comandos y el texto escrito viajan del dispositivo Apple a la TV; WorksBien Studios no los recibe. Apple, la red y el fabricante de la TV pueden procesar datos por separado conforme a sus propias prácticas.
 
+
+Durante el primer emparejamiento, las TV compatibles presentan un certificado local autofirmado que no puede verificarse mediante una autoridad de certificación pública para la dirección privada de la TV. La app confía temporalmente solo en el punto final privado seleccionado para intercambiar el PIN mostrado en la TV y guarda esa identidad del certificado después de que el PIN se acepta. Esto protege la continuidad de conexiones posteriores, pero no puede demostrar de forma independiente la identidad de la TV frente a un atacante activo durante el primer emparejamiento. Empareja solo en una red privada de confianza.
+
 ## Datos guardados en el dispositivo
 
 La dirección IPv4 privada, el puerto y el nombre de la TV seleccionada, el token de vinculación y la identidad de su certificado se guardan como elementos exclusivos del dispositivo en el llavero de iOS. El UUID de cliente generado por la app y la preferencia háptica se guardan localmente.
