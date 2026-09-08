@@ -75,6 +75,8 @@ Material changes will be reflected by updating this policy’s effective date an
 
 https://worksbienstudios.com/customerservice
 
+Email: info@worksbienstudios.com
+
 </main>
 
 <footer class="legal-footer">ActionCam Link · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
