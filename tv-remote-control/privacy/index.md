@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy for TV Remote Control
+title: Privacy Policy for TV Remote Control: Simple
 permalink: /tv-remote-control/privacy/
 lang: en
 ---
@@ -17,17 +17,17 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 </style>
 
 <a class="skip-link" href="#main-content">Skip to main content</a>
-<nav class="legal-nav" aria-label="TV Remote Control legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
+<nav class="legal-nav" aria-label="TV Remote Control: Simple legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
 <p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</p>
 
 <main id="main-content" markdown="1">
 
-# Privacy Policy for TV Remote Control
+# Privacy Policy for TV Remote Control: Simple
 
 **Effective:** 8 September 2026  
-**Applies to:** TV Remote Control 1.0 for iPhone and iPad
+**Applies to:** TV Remote Control: Simple 1.0 for iPhone and iPad
 
-WorksBien Studios Inc. ("WorksBien Studios," "we," "us," or "our") publishes TV Remote Control (the "App"). This policy explains what the App processes, what stays on the device, and what may be processed separately by Apple or a television manufacturer.
+WorksBien Studios Inc. ("WorksBien Studios," "we," "us," or "our") publishes TV Remote Control: Simple (the "App"). This policy explains what the App processes, what stays on the device, and what may be processed separately by Apple or a television manufacturer.
 
 ## 1. Plain-language summary
 
@@ -84,8 +84,8 @@ We may update this policy when the App, law or data practices change. The curren
 
 Operator and privacy contact: **WorksBien Studios Inc.**, **info@worksbienstudios.com**. Customer service: [worksbienstudios.com/customerservice](https://worksbienstudios.com/customerservice).
 
-TV Remote Control is independent and is not affiliated with or endorsed by Vizio, Inc.
+TV Remote Control: Simple is independent and is not affiliated with or endorsed by Vizio, Inc.
 
 </main>
 
-<footer class="legal-footer">TV Remote Control · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
+<footer class="legal-footer">TV Remote Control: Simple · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>

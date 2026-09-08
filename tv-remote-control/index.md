@@ -1,5 +1,5 @@
 ---
-title: TV Remote Control — Legal and Support
+title: TV Remote Control: Simple — Legal and Support
 permalink: /tv-remote-control/
 lang: en
 ---
@@ -17,14 +17,14 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 </style>
 
 <a class="skip-link" href="#main-content">Skip to main content</a>
-<nav class="legal-nav" aria-label="TV Remote Control legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
+<nav class="legal-nav" aria-label="TV Remote Control: Simple legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
 <p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</p>
 
 <main id="main-content" markdown="1">
 
-# TV Remote Control — legal and support
+# TV Remote Control: Simple — legal and support
 
-These documents apply to **TV Remote Control 1.0 for iPhone and iPad**, published by WorksBien Studios Inc. The app controls compatible Vizio SmartCast televisions directly over a local Wi-Fi network.
+These documents apply to **TV Remote Control: Simple 1.0 for iPhone and iPad**, published by WorksBien Studios Inc. The app controls compatible Vizio SmartCast televisions directly over a local Wi-Fi network.
 
 ## Documents
 
@@ -45,4 +45,4 @@ The app has no developer-operated account, advertising, analytics, tracking or c
 
 </main>
 
-<footer class="legal-footer">TV Remote Control · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
+<footer class="legal-footer">TV Remote Control: Simple · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>

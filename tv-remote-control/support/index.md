@@ -1,5 +1,5 @@
 ---
-title: Support and Saved-TV Data Removal for TV Remote Control
+title: Support and Saved-TV Data Removal for TV Remote Control: Simple
 permalink: /tv-remote-control/support/
 lang: en
 ---
@@ -17,7 +17,7 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 </style>
 
 <a class="skip-link" href="#main-content">Skip to main content</a>
-<nav class="legal-nav" aria-label="TV Remote Control legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
+<nav class="legal-nav" aria-label="TV Remote Control: Simple legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
 <p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</p>
 
 <main id="main-content" markdown="1">
@@ -25,7 +25,7 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 # Support and Saved-TV Data Removal
 
 **Effective:** 8 September 2026  
-**Applies to:** TV Remote Control 1.0 for iPhone and iPad
+**Applies to:** TV Remote Control: Simple 1.0 for iPhone and iPad
 
 ## Support contact
 
@@ -41,7 +41,7 @@ Open the App and use **Forget This TV**. This requests removal of the selected t
 
 Use **Remove All Saved TV Data** to request removal of every saved television address, pairing token and certificate identity, plus the App-generated television client UUID. Use the separate identity-reset action when the certificate for a television changes.
 
-TV Remote Control has no WorksBien account or remote-control cloud. WorksBien Studios cannot view, retrieve, restore or remotely delete information held only on the Apple device. Apple backups, Keychain synchronization behaviour, App Store transaction records, TestFlight feedback and support correspondence are controlled separately.
+TV Remote Control: Simple has no WorksBien account or remote-control cloud. WorksBien Studios cannot view, retrieve, restore or remotely delete information held only on the Apple device. Apple backups, Keychain synchronization behaviour, App Store transaction records, TestFlight feedback and support correspondence are controlled separately.
 
 ## Restore access
 
@@ -51,4 +51,4 @@ For App Store payment, receipt or refund questions, use Apple Support or [Report
 
 </main>
 
-<footer class="legal-footer">TV Remote Control · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
+<footer class="legal-footer">TV Remote Control: Simple · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
