@@ -33,7 +33,7 @@ Power, colour and brightness commands are transmitted from the Apple device to t
 
 ## 3. Information stored on the device
 
-For a saved light, the App stores the Apple-assigned peripheral identifier, display name, room label, detected protocol family, colour-channel mapping, last colour, brightness and compatibility-confirmation flag in local iOS preferences. It also stores a local high-water clock value used to reduce same-installation trial clock rollback. These items may be included in ordinary device backups controlled by the user and Apple.
+For a saved light, the App stores the Apple-assigned peripheral identifier, display name, room label, detected protocol family, colour-channel mapping, last colour, brightness and compatibility-confirmation flag in local iOS preferences. It also stores local high-water wall-clock and system-uptime checkpoints to measure elapsed trial time and reduce same-installation clock rollback. These values are not sent to WorksBien. These items may be included in ordinary device backups controlled by the user and Apple.
 
 Use **Settings → Delete all saved-light data** to remove every saved-light profile. Swipe a saved light in Settings to remove one profile. The local trial integrity value and Apple purchase history are not removed by the saved-light deletion action. Uninstalling the App removes its ordinary local preferences subject to iOS and backup behaviour; Apple controls App Store purchase records.
 
@@ -62,4 +62,3 @@ WorksBien Studios cannot access, correct or delete information it never receives
 We may update this policy when the App, law or data practices change. The current version is published at this URL with its effective date.
 
 Operator and privacy contact: **WorksBien Studios Inc.**, **info@worksbienstudios.com**. Customer service: [worksbienstudios.com/customerservice](https://worksbienstudios.com/customerservice).
-
