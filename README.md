@@ -76,6 +76,16 @@ Promise Guard has no advertising. Its app-specific documents explain its local-f
 
 SupplyCheck's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck contains ads.
 
+## LED Light Remote
+
+- [LED Light Remote legal and support overview](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/privacy/)
+- [Supplemental Terms of Use](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/terms/)
+- [Trial and Purchase Terms](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/purchases/)
+- [Support and Saved-Light Data Removal](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/support/)
+
+LED Light Remote for iPhone and iPad is an account-free, local-first Bluetooth controller with no advertising or tracking. A free opt-in 1-day Trial lasts 24 hours without renewal or automatic charge; a separate one-time non-consumable purchase permanently unlocks full remote features in supported versions.
+
 ## TV Remote Control
 
 - [TV Remote Control legal and support overview](https://lrodeveloperr.github.io/privacy-policy/tv-remote-control/)
