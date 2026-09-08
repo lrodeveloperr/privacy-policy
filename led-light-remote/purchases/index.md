@@ -19,6 +19,8 @@ The **1-day Trial** is a free, opt-in, Price Tier 0 non-consumable in-app purcha
 
 During those 24 hours, the colour picker, brightness slider, quick scenes, light naming, room labels and saved settings are unlocked. After the trial ends, those features lock. Connecting, power, the red/green/blue response test and colour-channel calibration remain free. Starting the trial on one device may make that same Apple Account ineligible for another trial. Clock manipulation is not an authorized extension method.
 
+An account entitlement does not establish hardware compatibility. Each newly connected real controller—and any saved controller whose detected protocol or compatibility-test revision changes—must pass its own current Off, On, red, green and blue response test before full remote commands are enabled.
+
 ## Lifetime Unlock
 
 **Lifetime Unlock** is a separate, optional, one-time non-consumable in-app purchase. Apple shows the localized price and obtains confirmation before charging. There is no recurring subscription fee. A verified entitlement unlocks the full feature set in supported versions of the App; it does not guarantee compatibility with every controller, every future hardware revision, indefinite support or perpetual App Store availability.
@@ -30,4 +32,3 @@ During those 24 hours, the colour picker, brightness slider, quick scenes, light
 Apple processes both products under the Apple Account used for the transaction. Use **Restore Purchases** in Settings for eligible prior transactions. Family Sharing is not offered for these products. Apple controls payment authorization, taxes, storefront availability, refunds and purchase-history records. Request a refund through Apple's official purchase-support process where eligible; mandatory consumer rights remain unaffected.
 
 Contact: **WorksBien Studios Inc.**, **info@worksbienstudios.com**, [worksbienstudios.com/customerservice](https://worksbienstudios.com/customerservice).
-
