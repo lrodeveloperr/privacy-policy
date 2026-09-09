@@ -18,13 +18,13 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 
 <a class="skip-link" href="#main-content">Skip to main content</a>
 <nav class="legal-nav" aria-label="Remote for Vizio TV Controller legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
-<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</p>
+<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 9 September 2026</p>
 
 <main id="main-content" markdown="1">
 
 # Privacy Policy for Remote for Vizio TV Controller
 
-**Effective:** 8 September 2026  
+**Effective:** 9 September 2026<br>
 **Applies to:** Remote for Vizio TV Controller 1.0 for iPhone and iPad
 
 WorksBien Studios Inc. ("WorksBien Studios," "we," "us," or "our") publishes Remote for Vizio TV Controller (the "App"). This policy explains what the App processes, what stays on the device, and what may be processed separately by Apple or a television manufacturer.
@@ -50,7 +50,7 @@ The App does not support control through a WorksBien server. Network equipment, 
 
 The selected television's private IPv4 address, port and display name, the television-issued pairing token, and the saved television certificate identity are stored as device-only iOS Keychain items. The App-generated client UUID and haptic preference are stored in local preferences.
 
-Use **Forget This TV** to request removal of one saved television's address, token and certificate identity. Use **Remove All Saved TV Data** to request removal of all saved addresses, pairing tokens, certificate identities and the App-generated TV client UUID. A separate identity-reset action is available when the television certificate changes.
+Use **Forget This TV** to request removal of one saved television's address, token and certificate identity. Use **Remove All Saved TV Data** to request removal of all saved addresses, pairing tokens, certificate identities and the App-generated TV client UUID. If the television's certificate changes, use **Forget This TV** (or **Remove All Saved TV Data**) and pair again only on a private network you trust.
 
 ## 4. Purchases
 
@@ -88,4 +88,4 @@ Remote for Vizio TV Controller is independent and is not affiliated with or endo
 
 </main>
 
-<footer class="legal-footer">Remote for Vizio TV Controller · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
+<footer class="legal-footer">Remote for Vizio TV Controller · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 9 September 2026</footer>
