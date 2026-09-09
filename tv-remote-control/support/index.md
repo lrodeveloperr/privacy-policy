@@ -18,13 +18,13 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 
 <a class="skip-link" href="#main-content">Skip to main content</a>
 <nav class="legal-nav" aria-label="Remote for Vizio TV Controller legal documents"><a href="{{ '/tv-remote-control/' | relative_url }}">Overview</a> <a href="{{ '/tv-remote-control/privacy/' | relative_url }}">Privacy</a> <a href="{{ '/tv-remote-control/terms/' | relative_url }}">Terms</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Purchases</a> <a href="{{ '/tv-remote-control/support/' | relative_url }}">Support</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}" lang="es">Español</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}" lang="fr-CA">Français (Canada)</a></nav>
-<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</p>
+<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 9 September 2026</p>
 
 <main id="main-content" markdown="1">
 
 # Support and Saved-TV Data Removal
 
-**Effective:** 8 September 2026  
+**Effective:** 9 September 2026<br>
 **Applies to:** Remote for Vizio TV Controller 1.0 for iPhone and iPad
 
 ## Support contact
@@ -39,7 +39,7 @@ Open the App and use **Forget This TV**. This requests removal of the selected t
 
 ## Remove all saved television data
 
-Use **Remove All Saved TV Data** to request removal of every saved television address, pairing token and certificate identity, plus the App-generated television client UUID. Use the separate identity-reset action when the certificate for a television changes.
+Use **Remove All Saved TV Data** to request removal of every saved television address, pairing token and certificate identity, plus the App-generated television client UUID. If a television's certificate changes, use **Forget This TV** (or **Remove All Saved TV Data**) and pair again only on a private network you trust.
 
 Remote for Vizio TV Controller has no WorksBien account or remote-control cloud. WorksBien Studios cannot view, retrieve, restore or remotely delete information held only on the Apple device. Apple backups, Keychain synchronization behaviour, App Store transaction records, TestFlight feedback and support correspondence are controlled separately.
 
@@ -51,4 +51,4 @@ For App Store payment, receipt or refund questions, use Apple Support or [Report
 
 </main>
 
-<footer class="legal-footer">Remote for Vizio TV Controller · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 8 September 2026</footer>
+<footer class="legal-footer">Remote for Vizio TV Controller · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version 9 September 2026</footer>
