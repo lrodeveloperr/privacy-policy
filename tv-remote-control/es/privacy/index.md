@@ -18,13 +18,13 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 
 <a class="skip-link" href="#main-content">Saltar al contenido principal</a>
 <nav class="legal-nav" aria-label="Documentos legales de Control Remoto TV Vizio: Mando"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/es/privacy/' | relative_url }}">Privacidad</a> <a href="{{ '/tv-remote-control/es/terms/' | relative_url }}">Términos</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Compras (English)</a> <a href="https://worksbienstudios.com/customerservice">Soporte</a></nav>
-<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 8 de septiembre de 2026</p>
+<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 9 de septiembre de 2026</p>
 
 <main id="main-content" markdown="1">
 
 # Política de privacidad de Control Remoto TV Vizio: Mando
 
-**Entrada en vigor:** 8 de septiembre de 2026  
+**Entrada en vigor:** 9 de septiembre de 2026<br>
 **Nombre en inglés:** Remote for Vizio TV Controller
 
 Control Remoto TV Vizio: Mando no envía datos personales a WorksBien Studios Inc. La app no tiene cuenta del desarrollador, publicidad, análisis, rastreo, nube del desarrollador ni SDK externo de informes de fallos.
@@ -40,7 +40,7 @@ Durante el primer emparejamiento, las TV compatibles presentan un certificado lo
 
 La dirección IPv4 privada, el puerto y el nombre de la TV seleccionada, el token de vinculación y la identidad de su certificado se guardan como elementos exclusivos del dispositivo en el llavero de iOS. El UUID de cliente generado por la app y la preferencia háptica se guardan localmente.
 
-**Olvidar esta TV** solicita eliminar los datos guardados de una TV. **Eliminar todos los datos guardados de TV** solicita eliminar todas las direcciones, tokens e identidades de certificado y el UUID de cliente de TV. También hay una opción separada para restablecer la identidad si cambia el certificado.
+**Olvidar esta TV** solicita eliminar los datos guardados de una TV. **Eliminar todos los datos guardados de TV** solicita eliminar todas las direcciones, tokens e identidades de certificado y el UUID de cliente de TV. Si cambia el certificado de la TV, usa **Olvidar esta TV** (o **Eliminar todos los datos guardados de TV**) y vuelve a emparejarla solo en una red privada de confianza.
 
 ## Compras, diagnósticos y soporte
 
@@ -66,4 +66,4 @@ Control Remoto TV Vizio: Mando es independiente, no afiliada ni respaldada por V
 
 </main>
 
-<footer class="legal-footer">Control Remoto TV Vizio: Mando · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 8 de septiembre de 2026</footer>
+<footer class="legal-footer">Control Remoto TV Vizio: Mando · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Versión 9 de septiembre de 2026</footer>
