@@ -18,13 +18,13 @@ a { color: #0759b8; } h1,h2,h3 { line-height: 1.25; color: #10233f; }
 
 <a class="skip-link" href="#main-content">Aller au contenu principal</a>
 <nav class="legal-nav" aria-label="Documents juridiques de Vizio TV : Télécommande WiFi"><a href="{{ '/tv-remote-control/' | relative_url }}">English overview</a> <a href="{{ '/tv-remote-control/fr-ca/privacy/' | relative_url }}">Confidentialité</a> <a href="{{ '/tv-remote-control/fr-ca/terms/' | relative_url }}">Conditions</a> <a href="{{ '/tv-remote-control/purchases/' | relative_url }}">Achats (English)</a> <a href="https://worksbienstudios.com/customerservice">Soutien</a></nav>
-<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 8 septembre 2026</p>
+<p class="legal-meta"><strong>WorksBien Studios Inc.</strong> · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 9 septembre 2026</p>
 
 <main id="main-content" markdown="1">
 
 # Politique de confidentialité de Vizio TV : Télécommande WiFi
 
-**Entrée en vigueur :** 8 septembre 2026  
+**Entrée en vigueur :** 9 septembre 2026<br>
 **Nom anglais :** Remote for Vizio TV Controller
 
 Vizio TV : Télécommande WiFi n’envoie aucun renseignement personnel à WorksBien Studios Inc. L’app ne comporte aucun compte exploité par le développeur, aucune publicité, aucun outil d’analyse, aucun suivi, aucun nuage du développeur et aucun module externe de signalement des pannes.
@@ -40,7 +40,7 @@ Lors du premier jumelage, les téléviseurs compatibles présentent un certifica
 
 L’adresse IPv4 privée, le port et le nom du téléviseur sélectionné, le jeton de jumelage et l’identité de son certificat sont stockés comme éléments réservés à l’appareil dans le trousseau iOS. L’UUID client généré par l’app et la préférence haptique sont conservés localement.
 
-**Oublier ce téléviseur** demande la suppression des données d’un téléviseur. **Supprimer toutes les données de téléviseur** demande la suppression de toutes les adresses, de tous les jetons et certificats ainsi que de l’UUID client. Une commande distincte permet de réinitialiser l’identité si le certificat change.
+**Oublier ce téléviseur** demande la suppression des données d’un téléviseur. **Supprimer toutes les données de téléviseur** demande la suppression de toutes les adresses, de tous les jetons et certificats ainsi que de l’UUID client. Si le certificat du téléviseur change, utilisez **Oublier ce téléviseur** (ou **Supprimer toutes les données de téléviseur**), puis refaites le jumelage uniquement sur un réseau privé de confiance.
 
 ## Achats, diagnostics et soutien
 
@@ -66,4 +66,4 @@ Vizio TV : Télécommande WiFi est indépendante et n’est ni affiliée à Vizi
 
 </main>
 
-<footer class="legal-footer">Vizio TV : Télécommande WiFi · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 8 septembre 2026</footer>
+<footer class="legal-footer">Vizio TV : Télécommande WiFi · WorksBien Studios Inc. · <a href="mailto:info@worksbienstudios.com">info@worksbienstudios.com</a> · Version du 9 septembre 2026</footer>
