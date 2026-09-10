@@ -32,6 +32,8 @@ Check the compatibility result and physical response on the actual light before 
 
 The free version allows one saved light, basic power, colour and brightness controls, and the built-in scenes. **LED Controller Pro** is an optional monthly auto-renewable subscription that provides unlimited saved lights, groups and custom scenes while the subscription remains active.
 
+If Pro access ends, Pro-created records are not automatically deleted. The user may choose one saved light for free control. Additional saved lights, groups and custom scenes remain visible but unavailable until Pro access returns or the user removes them.
+
 The United States base price is **US$4.99 per month**. Apple displays the actual localized price and billing period before confirmation. There is no free trial. Subscription access does not establish compatibility with any particular controller.
 
 ## 4. Renewal, cancellation and restore
