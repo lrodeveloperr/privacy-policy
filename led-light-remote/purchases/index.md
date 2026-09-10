@@ -42,6 +42,8 @@ The user can manage or cancel the subscription in App Store subscription setting
 
 Apple handles payment authorization, billing, taxes, refunds and purchase-history records. Refund eligibility is determined under Apple's processes and applicable law. These terms do not limit mandatory consumer rights.
 
+Expiration or revocation does not automatically delete saved lights, groups or custom scenes. The user can choose one saved light for free control. Other Pro-created records remain visible but unavailable until an active entitlement is restored or the user deletes them.
+
 ## Restore subscription
 
 Use **Settings → Restore subscription** to ask the App Store to restore an eligible active subscription for the same Apple Account. Subscription restoration is separate from iCloud or Finder device-backup restoration.
