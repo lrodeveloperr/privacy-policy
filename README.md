@@ -23,7 +23,7 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 8 September 2026
+**Index updated:** 10 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
@@ -76,15 +76,15 @@ Promise Guard has no advertising. Its app-specific documents explain its local-f
 
 SupplyCheck's initial release has no advertising. The presence of a repository-level `app-ads.txt` file for another app or publisher inventory does not state or imply that SupplyCheck contains ads.
 
-## LED Light Remote
+## LED Light Controller Remote
 
-- [LED Light Remote legal and support overview](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/)
+- [LED Light Controller Remote legal and support overview](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/)
 - [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/privacy/)
 - [Supplemental Terms of Use](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/terms/)
-- [Trial and Purchase Terms](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/purchases/)
-- [Support and Saved-Light Data Removal](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/support/)
+- [Subscription Terms](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/purchases/)
+- [Support and Local Data Removal](https://lrodeveloperr.github.io/privacy-policy/led-light-remote/support/)
 
-LED Light Remote for iPhone and iPad is an account-free, local-first Bluetooth controller with no advertising or tracking. A free opt-in 1-day Trial lasts 24 hours without renewal or automatic charge; a separate one-time non-consumable purchase permanently unlocks full remote features in supported versions.
+LED Light Controller Remote for iPhone and iPad is an account-free, local-first Bluetooth controller with no advertising or tracking. Free includes one saved light, basic controls and built-in scenes. LED Controller Pro is an optional auto-renewable subscription with a US$4.99 monthly U.S. base price; it unlocks unlimited lights, groups and custom scenes while active. Eligible local App data may be included in user-controlled iCloud or Finder device backups.
 
 ## TV Remote Control
 
