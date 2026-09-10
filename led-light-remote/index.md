@@ -24,4 +24,6 @@ The App does not require a WorksBien account and contains no advertising, behavi
 
 The free version supports one saved light, basic light controls and built-in scenes. **LED Controller Pro** is an optional auto-renewable subscription. The United States base price is **US$4.99 per month**; the App Store shows the actual localized price before confirmation. Pro provides unlimited saved lights, groups and custom scenes while the subscription is active. There is no free trial.
 
+If Pro access ends, saved Pro-created records remain visible and are not automatically deleted. One saved light can still be selected for free control; additional lights, groups and custom scenes unlock again when Pro access returns.
+
 <p class="notice"><strong>Compatibility:</strong> Bluetooth controller hardware and firmware can vary, including within products sold under the same name. Check the compatibility result and physical response on the actual light before subscribing. Demo Mode is simulated and does not prove compatibility.</p>
