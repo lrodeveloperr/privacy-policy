@@ -39,6 +39,8 @@ The App may store saved peripheral identifiers, user-assigned light names, detec
 
 Use **Settings → Remove all saved data** to delete saved lights, groups and custom scenes from the App. Removing local App data does not cancel a subscription or delete Apple's purchase history. Uninstalling the App removes its ordinary local storage, subject to iOS, iPadOS and device-backup behaviour.
 
+If LED Controller Pro expires or is revoked, the App keeps previously saved lights, groups and custom scenes on the device. The user chooses one saved light for free control; additional lights, groups and custom scenes remain visible but unavailable until subscription access returns or the user deletes them.
+
 ## 4. Native device backup
 
 Eligible local App data may be included automatically when the user enables iCloud Backup or makes an encrypted or unencrypted Finder backup. Apple and the user control creation, retention, security and restoration of those device backups. The App cannot start, inspect, timestamp or delete an iPhone or iPad device backup, and WorksBien Studios does not receive its contents.
