@@ -28,7 +28,7 @@ The free version includes one saved light, basic power, colour and brightness co
 - control of saved lights in groups; and
 - unlimited custom scenes.
 
-The United States base price is **US$4.99 per month**. Prices in other storefronts are shown by Apple in the local currency before confirmation and may include applicable taxes. There is no free trial or introductory offer unless Apple explicitly displays one in the purchase sheet.
+The United States base price is **US$4.99 per month**. Prices in other storefronts are shown by Apple in the local currency before confirmation and may include applicable taxes. There is no free trial or introductory offer.
 
 <p class="notice"><strong>Check compatibility first:</strong> Subscription access does not make an unsupported controller compatible. Use the free compatibility result and physical light response before subscribing. Demo Mode does not prove hardware compatibility.</p>
 
