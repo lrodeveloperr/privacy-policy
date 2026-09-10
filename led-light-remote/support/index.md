@@ -35,6 +35,8 @@ To remove data held in a device backup, use Apple's iCloud or Finder backup cont
 
 Use **Settings → Restore subscription** to recover an eligible active subscription for the same Apple Account. Manage or cancel the subscription in App Store subscription settings. Deleting the App does not cancel a subscription.
 
+If Pro has expired, select one saved light under **Lights → Free access** to continue controlling it. Other saved lights, groups and custom scenes remain visible and are not deleted; restoring or renewing Pro unlocks them again.
+
 ## Contact
 
 Use [worksbienstudios.com/customerservice](https://worksbienstudios.com/customerservice) or email **info@worksbienstudios.com**. Include the App version, Apple device model, iOS or iPadOS version, controller's advertised Bluetooth name and neutral reproduction steps. Do not send passwords, payment-card details or private device identifiers.
