@@ -27,7 +27,7 @@ a:focus-visible { outline: 3px solid #75c8ff; outline-offset: 3px; border-radius
 
 <p class="legal-meta">WorksBien Studios Inc. · Effective 11 September 2026</p>
 
-<main id="main">
+<main id="main" markdown="1">
 
 # Privacy Policy for Remote for Denon & Marantz
 
