@@ -27,7 +27,7 @@ a:focus-visible { outline: 3px solid #75c8ff; outline-offset: 3px; border-radius
 
 <p class="legal-meta">WorksBien Studios Inc. · Effective 11 September 2026</p>
 
-<main id="main" markdown="1">
+<a id="main"></a>
 
 # Privacy Policy for Remote for Denon & Marantz
 
@@ -98,6 +98,5 @@ If this policy changes, the effective date above will be updated. Changes apply 
 WorksBien Studios Inc.  
 Support and privacy requests: [worksbienstudios.com/customerservice](https://worksbienstudios.com/customerservice)
 
-</main>
 
 <footer class="legal-footer">Remote for Denon & Marantz · WorksBien Studios Inc. · Effective 11 September 2026</footer>
