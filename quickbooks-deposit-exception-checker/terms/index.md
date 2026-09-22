@@ -1,16 +1,16 @@
 ---
-title: Terms of Use for QuickBooks Deposit Exception Checker
+title: Terms of Use for Deposit Exception Checker
 permalink: /quickbooks-deposit-exception-checker/terms/
 lang: en
 ---
 
-# Terms of Use for QuickBooks Deposit Exception Checker
+# Terms of Use for Deposit Exception Checker
 
 **Effective:** 22 September 2026  
 **Provider:** WorksBien Studios Inc., 350 Bay Street, Suite 1300B, Toronto, Ontario M5H 2S6, Canada  
 **Contact:** [info@worksbienstudios.com](mailto:info@worksbienstudios.com)
 
-These Terms govern use of the QuickBooks Deposit Exception Checker (the "Service"). By creating an account, connecting a company, or using the Service, you agree to these Terms. If you act for an organization, you confirm that you have authority to bind it.
+These Terms govern use of the Deposit Exception Checker (the "Service"). By creating an account, connecting a company, or using the Service, you agree to these Terms. If you act for an organization, you confirm that you have authority to bind it.
 
 ## The Service
 
