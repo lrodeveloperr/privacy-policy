@@ -23,7 +23,7 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 10 September 2026
+**Index updated:** 22 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
@@ -107,6 +107,16 @@ TV Remote Control for iPhone and iPad controls compatible Vizio SmartCast televi
 - [Support and Local Data Removal](https://lrodeveloperr.github.io/privacy-policy/actioncam-link/support/)
 
 ActionCam Link for iPhone and iPad connects to compatible cameras at private local addresses. It has no advertising, tracking, developer account, developer backend or developer cloud. A free opt-in 1-day Trial lasts 24 hours without renewal or automatic charge; a separate one-time non-consumable purchase unlocks paid features in supported versions.
+
+## Deposit Exception Checker
+
+- [Deposit Exception Checker legal and support overview](https://lrodeveloperr.github.io/privacy-policy/quickbooks-deposit-exception-checker/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/quickbooks-deposit-exception-checker/privacy/)
+- [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/quickbooks-deposit-exception-checker/terms/)
+- [Support](https://lrodeveloperr.github.io/privacy-policy/quickbooks-deposit-exception-checker/support/)
+- [Account and Data Deletion](https://lrodeveloperr.github.io/privacy-policy/quickbooks-deposit-exception-checker/deletion/)
+
+Deposit Exception Checker is a paid, read-only control service for supported QuickBooks Online invoice, payment, Undeposited Funds and deposit exceptions. It does not write to QuickBooks Online and has no customer free trial.
 
 ## Contact
 
