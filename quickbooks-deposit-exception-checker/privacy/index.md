@@ -1,16 +1,16 @@
 ---
-title: Privacy Policy for QuickBooks Deposit Exception Checker
+title: Privacy Policy for Deposit Exception Checker
 permalink: /quickbooks-deposit-exception-checker/privacy/
 lang: en
 ---
 
-# Privacy Policy for QuickBooks Deposit Exception Checker
+# Privacy Policy for Deposit Exception Checker
 
 **Effective:** 22 September 2026  
 **Controller:** WorksBien Studios Inc., 350 Bay Street, Suite 1300B, Toronto, Ontario M5H 2S6, Canada  
 **Contact:** [info@worksbienstudios.com](mailto:info@worksbienstudios.com)
 
-This policy explains how WorksBien Studios Inc. processes information when you use the QuickBooks Deposit Exception Checker (the "Service").
+This policy explains how WorksBien Studios Inc. processes information when you use the Deposit Exception Checker (the "Service").
 
 ## Plain language summary
 
