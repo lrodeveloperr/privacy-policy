@@ -1,10 +1,10 @@
 ---
-title: Support for QuickBooks Deposit Exception Checker
+title: Support for Deposit Exception Checker
 permalink: /quickbooks-deposit-exception-checker/support/
 lang: en
 ---
 
-# Support for QuickBooks Deposit Exception Checker
+# Support for Deposit Exception Checker
 
 **Email:** [info@worksbienstudios.com](mailto:info@worksbienstudios.com)  
 **Provider:** WorksBien Studios Inc., 350 Bay Street, Suite 1300B, Toronto, Ontario M5H 2S6, Canada
