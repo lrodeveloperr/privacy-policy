@@ -1,16 +1,16 @@
 ---
-title: Welding Gas Wallet Support
+title: Welding Gas Cylinder Tracker Support
 permalink: /welding-gas-wallet/support/
 lang: en
 ---
 
 # Support
 
-**Welding Gas Wallet**
+**Welding Gas Cylinder Tracker**
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
-Welding Gas Wallet is a cylinder-only, local-first wallet for welders. It does not scan cylinders, use the camera, track consumable lots or certificates, read pressure sensors, or make safety or compliance decisions.
+Welding Gas Cylinder Tracker is a cylinder-only, local-first wallet for welders. It does not scan cylinders, use the camera, track consumable lots or certificates, read pressure sensors, or make safety or compliance decisions.
 
 ## Getting started
 
@@ -27,7 +27,7 @@ Free supports up to two active cylinders. The app contains no advertising. Retur
 
 ## Permanent Pro unlock
 
-The iOS app offers a one-time non-consumable Pro purchase through the App Store. Pro permanently unlocks unlimited active cylinders for the purchaser's Apple Account, subject to Apple's verification, refund and revocation rules. The United States reference price is US$14.99, with geographic storefront prices controlled by App Store Connect. The app displays StoreKit's localized price and currency; Apple's purchase sheet shows the authoritative amount, taxes and transaction details. There is no recurring charge or automatic renewal.
+The iOS app offers a one-time non-consumable Pro purchase through the App Store. Pro permanently unlocks unlimited active cylinders for the purchaser's Apple Account, subject to Apple's verification, refund and revocation rules. The United States reference price is US$2.99, with geographic storefront prices controlled by App Store Connect. Choosing Upgrade opens Apple’s purchase sheet directly; the app has no separate in-app price screen. Apple’s purchase sheet shows the authoritative localized amount, currency, taxes and transaction details. There is no recurring charge or automatic renewal.
 
 Use **Restore purchases** to check for an eligible permanent unlock bought with the current Apple Account. Deleting the app does not remove the purchase from that Apple Account.
 
