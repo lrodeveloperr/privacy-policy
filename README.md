@@ -66,16 +66,16 @@ Powder Run for iPhone and iPad keeps powder-coating batch-oven records on the de
 
 CNC Repeat Job Bench is a local-first iPhone and iPad workflow for repeat CNC setups, first-piece reviews and production inspections. The first two distinct part-and-machine families are free; Pro monthly or annual permits additional families while active. It does not measure workpieces or control a machine.
 
-## Welding Gas Wallet
+## Welding Gas Cylinder Tracker
 
-- [Welding Gas Wallet legal and support overview](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/)
+- [Welding Gas Cylinder Tracker legal and support overview](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/)
 - [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/privacy/)
 - [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/terms/)
 - [Support](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/support/)
 - [Data Deletion](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/deletion/)
 - [Safety and Legal Disclaimer](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/disclaimer/)
 
-Welding Gas Wallet for iOS is a cylinder-only, local-first tool with no advertising. Free supports up to two active cylinders, and a one-time Pro purchase permanently unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
+Welding Gas Cylinder Tracker for iOS is a cylinder-only, local-first tool with no advertising. Free supports up to two active cylinders, and a one-time Pro purchase permanently unlocks unlimited active cylinders. Core cylinder records remain on the device unless the user exports a backup.
 
 ## Promise Guard
 
