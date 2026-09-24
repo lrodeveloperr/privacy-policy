@@ -1,22 +1,22 @@
 ---
-title: Welding Gas Wallet Terms of Use
+title: Welding Gas Cylinder Tracker Terms of Use
 permalink: /welding-gas-wallet/terms/
 lang: en
 ---
 
 # Terms of Use
 
-**Effective date:** 6 September 2026
+**Effective date:** 24 September 2026
 
 **Operator:** GoodUse Studios, Ontario, Canada
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
-By downloading or using Welding Gas Wallet, you agree to these Terms. The app is intended for users aged 18 or older.
+By downloading or using Welding Gas Cylinder Tracker, you agree to these Terms. The app is intended for users aged 18 or older.
 
 ## 1. What the app does
 
-Welding Gas Wallet is an independent recordkeeping and planning tool for welding-gas cylinders. It can record cylinder details, suppliers, ownership or rental relationships, serial numbers, capacity, status, costs, refills, exchanges, notes, activity history and local reminders.
+Welding Gas Cylinder Tracker is an independent recordkeeping and planning tool for welding-gas cylinders. It can record cylinder details, suppliers, ownership or rental relationships, serial numbers, capacity, status, costs, refills, exchanges, notes, activity history and local reminders.
 
 The app does not measure pressure or gas quantity, monitor or scan a cylinder, validate a serial number, certify materials or personnel, track consumable lots or certificates, determine legal ownership, or decide whether a cylinder, gas, handling method or workplace is safe or compliant. It does not replace inspection, labels, supplier instructions, training, professional judgment or applicable law.
 
@@ -30,7 +30,7 @@ If a wallet contains more than two active cylinders without a verified permanent
 
 ## 3. Purchase, price and restore
 
-The permanent unlock is sold by Apple through the App Store as `com.gooduse.weldinggaswallet.pro.lifetime`. The United States reference price is US$14.99, with an App Store Connect geopriced schedule for other storefronts. The app does not calculate customer prices from device location and displays StoreKit's localized storefront price. Apple's purchase sheet shown before confirmation is authoritative for the amount, taxes and other transaction details.
+The permanent unlock is sold by Apple through the App Store as `com.gooduse.weldinggaswallet.pro.lifetime`. The United States reference price is US$2.99, with an App Store Connect geopriced schedule for other storefronts. The app does not calculate customer prices from device location and displays StoreKit's localized storefront price. Choosing Upgrade opens Apple’s purchase sheet directly; the app has no separate in-app price screen. Apple’s purchase sheet shown before confirmation is authoritative for the amount, taxes and other transaction details.
 
 Payment is charged to your Apple Account when the purchase is confirmed. The purchase does not renew and does not require a later subscription payment to keep the permanent feature unlock. Deleting the app does not remove the purchase from your Apple Account. Use **Restore purchases** in the app to check for an eligible non-consumable purchase previously bought with the current Apple Account. Apple is authoritative for entitlement status.
 
