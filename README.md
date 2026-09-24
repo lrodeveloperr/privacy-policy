@@ -31,6 +31,12 @@ This site publishes product-specific legal, privacy and support documents for ap
 
 <p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
 
+## Leasehold Ledger
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/leasehold-ledger/privacy/)
+
+Leasehold Ledger is a local-first iPhone and iPad app for reviewing UK leasehold service-charge documents. It stores imported documents and comparisons on the device, uses on-device text recognition, has no advertising, and offers a one-time Lifetime Pro purchase. A user-selected backup contains unencrypted copies of source documents.
+
 ## HVAC Restock
 
 - [HVAC Restock legal and support overview](https://lrodeveloperr.github.io/privacy-policy/hvac-restock/)
