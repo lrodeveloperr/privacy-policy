@@ -1,12 +1,12 @@
 ---
-title: Welding Gas Wallet Data Deletion
+title: Welding Gas Cylinder Tracker Data Deletion
 permalink: /welding-gas-wallet/deletion/
 lang: en
 ---
 
 # Data Deletion
 
-Welding Gas Wallet has no GoodUse Studios account and does not upload wallet records to a GoodUse Studios server during normal use.
+Welding Gas Cylinder Tracker has no GoodUse Studios account and does not upload wallet records to a GoodUse Studios server during normal use.
 
 ## Delete local wallet data on iOS
 
@@ -32,4 +32,4 @@ Deleting the wallet or uninstalling the app does not remove the permanent Pro pu
 
 ## Privacy requests
 
-For personal information actually controlled by GoodUse Studios, email [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com) with the subject **Privacy Request** and identify Welding Gas Wallet. Do not send passwords, payment-card details or confidential wallet records. Requests concerning Apple or another provider must generally be directed to that provider.
+For personal information actually controlled by GoodUse Studios, email [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com) with the subject **Privacy Request** and identify Welding Gas Cylinder Tracker. Do not send passwords, payment-card details or confidential wallet records. Requests concerning Apple or another provider must generally be directed to that provider.
