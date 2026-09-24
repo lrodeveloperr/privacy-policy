@@ -1,12 +1,12 @@
 ---
-title: Welding Gas Wallet Safety and Legal Disclaimer
+title: Welding Gas Cylinder Tracker Safety and Legal Disclaimer
 permalink: /welding-gas-wallet/disclaimer/
 lang: en
 ---
 
 # Safety and Legal Disclaimer
 
-Welding Gas Wallet is a recordkeeping tool, not a welding-safety, inspection, certification or compliance authority.
+Welding Gas Cylinder Tracker is a recordkeeping tool, not a welding-safety, inspection, certification or compliance authority.
 
 It does not determine whether a cylinder is safe, fit for service, legally owned, correctly transported, correctly stored, correctly connected, suitable for a particular gas or process, or compliant with workplace, transport, pressure-vessel, environmental or other rules.
 
