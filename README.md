@@ -23,7 +23,7 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 22 September 2026
+**Index updated:** 24 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
@@ -41,6 +41,15 @@ This site publishes product-specific legal, privacy and support documents for ap
 - [Operational and Safety Disclaimer](https://lrodeveloperr.github.io/privacy-policy/hvac-restock/disclaimer/)
 
 HVAC Restock for iPhone and iPad is an account-free, local-first inventory utility with no advertising or behavioural analytics. Ten active inventory items are free; a one-time non-consumable purchase unlocks unlimited active items.
+
+## Powder Run
+
+- [Powder Run legal and support overview](https://lrodeveloperr.github.io/privacy-policy/powder-run/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/powder-run/privacy/)
+- [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/powder-run/terms/)
+- [Support and Data Deletion](https://lrodeveloperr.github.io/privacy-policy/powder-run/support/)
+
+Powder Run for iPhone and iPad keeps powder-coating batch-oven records on the device. Five first-pass runs are free; a monthly or yearly StoreKit subscription allows new jobs after the limit. Existing jobs and rework remain accessible.
 
 ## Welding Gas Wallet
 
