@@ -51,6 +51,15 @@ HVAC Restock for iPhone and iPad is an account-free, local-first inventory utili
 
 Powder Run for iPhone and iPad keeps powder-coating batch-oven records on the device. Five first-pass runs are free; a monthly or yearly StoreKit subscription allows new jobs after the limit. Existing jobs and rework remain accessible.
 
+## CNC Repeat Job Bench
+
+- [CNC Repeat Job Bench legal and support overview](https://lrodeveloperr.github.io/privacy-policy/cnc-repeat-job-bench/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/cnc-repeat-job-bench/privacy/)
+- [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/cnc-repeat-job-bench/terms/)
+- [Support and Data Deletion](https://lrodeveloperr.github.io/privacy-policy/cnc-repeat-job-bench/support/)
+
+CNC Repeat Job Bench is a local-first iPhone and iPad workflow for repeat CNC setups, first-piece reviews and production inspections. The first two distinct part-and-machine families are free; Pro monthly or annual permits additional families while active. It does not measure workpieces or control a machine.
+
 ## Welding Gas Wallet
 
 - [Welding Gas Wallet legal and support overview](https://lrodeveloperr.github.io/privacy-policy/welding-gas-wallet/)
