@@ -1,12 +1,12 @@
 ---
-title: Welding Gas Wallet Privacy Policy
+title: Welding Gas Cylinder Tracker Privacy Policy
 permalink: /welding-gas-wallet/privacy/
 lang: en
 ---
 
 # Privacy Policy
 
-**Effective date:** 6 September 2026
+**Effective date:** 24 September 2026
 
 **Operator:** GoodUse Studios, Ontario, Canada
 
@@ -14,7 +14,7 @@ lang: en
 
 ## 1. Summary
 
-This policy describes the current iOS version of Welding Gas Wallet. It is a local-first cylinder recordkeeping app for iPhone and iPad. It does not require a GoodUse Studios account, and GoodUse Studios does not operate a server that receives your cylinder records during normal use.
+This policy describes the current iOS version of Welding Gas Cylinder Tracker. It is a local-first cylinder recordkeeping app for iPhone and iPad. It does not require a GoodUse Studios account, and GoodUse Studios does not operate a server that receives your cylinder records during normal use.
 
 The free version supports up to two active cylinders. A verified one-time App Store purchase permanently unlocks unlimited active cylinders. The iOS app contains no advertising SDK, advertising-consent service, analytics SDK, attribution SDK, tracking SDK or third-party crash-reporting SDK.
 
@@ -78,7 +78,7 @@ Depending on where you live and subject to lawful exceptions, you may have right
 
 Most wallet-content control is exercised directly through the app and your device because GoodUse Studios does not possess that content. Deleting local data cannot delete information held by a store or file provider, and some limited records may need to be retained for legal, tax, accounting, security or dispute-resolution purposes.
 
-For a privacy request or complaint concerning information under GoodUse Studios' control, email [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com) and identify Welding Gas Wallet. Do not send passwords, payment-card details or confidential operational records. Requests concerning Apple, GitHub or another provider must generally be directed to that provider.
+For a privacy request or complaint concerning information under GoodUse Studios' control, email [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com) and identify Welding Gas Cylinder Tracker. Do not send passwords, payment-card details or confidential operational records. Requests concerning Apple, GitHub or another provider must generally be directed to that provider.
 
 ## 12. Children
 
