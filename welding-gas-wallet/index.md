@@ -1,18 +1,18 @@
 ---
-title: Welding Gas Wallet — Legal and Support
+title: Welding Gas Cylinder Tracker — Legal and Support
 permalink: /welding-gas-wallet/
 lang: en
 ---
 
-# Welding Gas Wallet — Legal and Support
+# Welding Gas Cylinder Tracker — Legal and Support
 
 **Publisher:** GoodUse Studios, Ontario, Canada
 
-**Effective date:** 4 September 2026
+**Effective date:** 24 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
-Welding Gas Wallet is an independent, local-first cylinder recordkeeping tool for welders. It helps you keep track of cylinders, suppliers, ownership or rental relationships, status, costs, exchanges, refills and reminders.
+Welding Gas Cylinder Tracker is an independent, local-first cylinder recordkeeping tool for welders. It helps you keep track of cylinders, suppliers, ownership or rental relationships, status, costs, exchanges, refills and reminders.
 
 The current release is **cylinder-only**. It does not scan cylinders, use the camera, track consumable lots or certificates, read pressure or location sensors, or make welding-safety, transport, workplace, ownership or compliance decisions.
 
@@ -26,7 +26,7 @@ The current release is **cylinder-only**. It does not scan cylinders, use the ca
 
 ## Plans and privacy
 
-The iOS free plan supports up to two active cylinders. A one-time non-consumable Pro purchase permanently unlocks unlimited active cylinders. The United States reference price is US$14.99. App Store Connect controls geographic storefront prices, and the price, currency, taxes and transaction details shown by Apple before confirmation are authoritative. The app does not calculate a price from device location or hard-code the U.S. price into customer-facing purchase screens. The permanent unlock does not renew automatically.
+The iOS free plan supports up to two active cylinders. A one-time non-consumable Pro purchase permanently unlocks unlimited active cylinders. The United States reference price is US$2.99. App Store Connect controls geographic storefront prices, and the price, currency, taxes and transaction details shown by Apple before confirmation are authoritative. Choosing Upgrade opens Apple’s purchase sheet directly; the app has no separate in-app price screen. The app does not calculate a price from device location or hard-code the U.S. price into customer-facing purchase screens. The permanent unlock does not renew automatically.
 
 No GoodUse Studios account or cylinder-record server is required. Core records remain on the device unless you choose to export a backup. The final production model contains no advertising SDK, advertising-consent service, analytics SDK, attribution SDK, tracking SDK or third-party crash-reporting SDK. The app uses local notifications only when you enable reminders.
 
