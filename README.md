@@ -31,6 +31,17 @@ This site publishes product-specific legal, privacy and support documents for ap
 
 <p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
 
+## Hybrid Gym Planner
+
+- [ポリシー・サポート一覧](https://lrodeveloperr.github.io/privacy-policy/hybrid-gym-planner/)
+- [プライバシーポリシー](https://lrodeveloperr.github.io/privacy-policy/hybrid-gym-planner/privacy/)
+- [利用規約](https://lrodeveloperr.github.io/privacy-policy/hybrid-gym-planner/terms/)
+- [サブスクリプション条件](https://lrodeveloperr.github.io/privacy-policy/hybrid-gym-planner/subscriptions/)
+- [特定商取引法に基づく表記](https://lrodeveloperr.github.io/privacy-policy/hybrid-gym-planner/commercial-transactions/)
+- [サポート・データ削除](https://lrodeveloperr.github.io/privacy-policy/hybrid-gym-planner/support/)
+
+Hybrid Gym Planner is an account-free, local-first iPhone and Apple Watch workout planner for strength and cardio training. Core logging, HealthKit integration, history, export and deletion remain available without a subscription. Pro is an optional monthly or annual auto-renewable subscription; there is no free trial or lifetime plan.
+
 ## 家族シフト / Kazoku Shift
 
 - [プライバシーポリシー](https://lrodeveloperr.github.io/privacy-policy/kazoku-shift/privacy/)
