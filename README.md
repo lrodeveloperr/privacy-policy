@@ -23,13 +23,22 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 24 September 2026
+**Index updated:** 26 September 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
 This site publishes product-specific legal, privacy and support documents for apps from GoodUse Studios and WorksBien Studios Inc. Select the relevant app below.
 
 <p class="notice"><strong>The app-specific documents control.</strong> Data practices, permissions, advertising, purchases, retention and deletion can differ between apps and versions. Nothing on this publisher index is a blanket claim that every GoodUse Studios app collects no data, uses advertising, deletes all data on uninstall, or complies with every law worldwide.</p>
+
+## 家族シフト / Kazoku Shift
+
+- [プライバシーポリシー](https://lrodeveloperr.github.io/privacy-policy/kazoku-shift/privacy/)
+- [利用規約](https://lrodeveloperr.github.io/privacy-policy/kazoku-shift/terms/)
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/kazoku-shift/en/privacy/)
+- [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/kazoku-shift/en/terms/)
+
+Kazoku Shift is an iPhone and iPad app for private shift planning and subscription-based household duty sharing with one invited partner through Apple CloudKit. The shared purchase status expires at the last paid period reported by the purchaser's device.
 
 ## Leasehold Ledger
 
