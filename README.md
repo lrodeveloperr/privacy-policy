@@ -162,6 +162,15 @@ ActionCam Link for iPhone and iPad connects to compatible cameras at private loc
 
 Deposit Exception Checker is a paid, read-only control service for supported QuickBooks Online invoice, payment, Undeposited Funds and deposit exceptions. It does not write to QuickBooks Online and has no customer free trial.
 
+## 完全論理事件簿 / Logic Casebook
+
+- [ポリシー・サポート一覧](https://lrodeveloperr.github.io/privacy-policy/logic-casebook/)
+- [プライバシーポリシー](https://lrodeveloperr.github.io/privacy-policy/logic-casebook/privacy/)
+- [利用規約（Apple標準EULA）](https://lrodeveloperr.github.io/privacy-policy/logic-casebook/terms/)
+- [サポート](https://lrodeveloperr.github.io/privacy-policy/logic-casebook/support/)
+
+完全論理事件簿は、iPhoneおよびiPad向けの日本語の論理パズルゲームです。最初の30事件は無料で、残り970事件は任意の一回限りのアプリ内購入で永久に解放できます。サブスクリプションと広告はありません。
+
 ## Contact
 
 For questions about a particular app, identify the app and platform when emailing [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com). Do not send passwords, payment-card details or confidential operational records.
