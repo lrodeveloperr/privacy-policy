@@ -23,7 +23,7 @@ h1, h2 { line-height: 1.25; color: #0b2345; }
 # GoodUse Studios — legal and support documents
 
 **Publisher:** GoodUse Studios, Ontario, Canada  
-**Index updated:** 26 September 2026
+**Index updated:** 10 November 2026
 
 **Contact:** [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com)
 
@@ -170,6 +170,12 @@ Deposit Exception Checker is a paid, read-only control service for supported Qui
 - [サポート](https://lrodeveloperr.github.io/privacy-policy/logic-casebook/support/)
 
 完全論理事件簿は、iPhoneおよびiPad向けの日本語の論理パズルゲームです。最初の30事件は無料で、残り970事件は任意の一回限りのアプリ内購入で永久に解放できます。サブスクリプションと広告はありません。
+
+## Barber Simulator: ASMR Haircut
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/barber-simulator/privacy/)
+
+Barber Simulator: ASMR Haircut for Windows and macOS is an account-free, local-first single-player game with no advertising, behavioural analytics, tracking, developer-operated cloud service, or third-party crash-reporting SDK. Progress and settings remain on the device unless the player uses an optional platform backup or cloud-save service.
 
 ## Contact
 
