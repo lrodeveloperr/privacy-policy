@@ -18,6 +18,8 @@ When you choose Bluetooth or hotspot play, the game uses local communications to
 
 The game requests nearby-device and Bluetooth permissions when you choose Bluetooth play. Some Android versions also require location permission to scan for nearby devices. The game does not use that permission to obtain your physical location.
 
+Google Play services Nearby Connections may collect discovery and connection performance measurements, device model, country, Android build version and the game’s package name to improve the connection service. You can control this collection in your device’s Google Usage & diagnostics settings. [Google’s Nearby Connections data collection description](https://developers.google.com/nearby/connections/overview#data_collection).
+
 ## Advertising
 
 The game uses Google AdMob for banner and interstitial ads. The Google Mobile Ads SDK can collect and share IP addresses, approximate location inferred from IP addresses, app and ad interactions, device or account identifiers, and diagnostic information. Google uses this information for advertising, analytics, and fraud prevention. Google encrypts the data it receives from the SDK in transit. [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
