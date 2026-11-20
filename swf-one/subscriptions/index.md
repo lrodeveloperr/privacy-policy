@@ -9,21 +9,23 @@ lang: en
 **Updated:** 19 November 2026  
 **Publisher:** WorksBien Studios Inc., Ontario, Canada
 
-SWF One offers optional monthly and annual auto-renewing subscriptions through Google Play. There is no free trial.
+SWF One offers optional monthly and annual auto-renewing subscriptions through Google Play. There is no multi-day free trial. Instead, every user receives five minutes of gameplay free each local calendar day.
 
-## What remains free
+## Free daily play
 
-Without a subscription, users can open compatible SWF content from a file or web address, play with pointer input, use full screen and keep compatible Flash save data locally.
+Without a subscription, users can play compatible SWF content for five minutes each day. During those five minutes, every app feature is available, including file and web-address loading, pointer input, full screen, the virtual gamepad, gaming keyboard, customizable control layouts, recent-content resume, compatible local Flash save data and opt-in Android cloud backup of supported play-setup data.
 
-## Subscriber features
+The daily allowance is measured only while compatible SWF content is loaded, ready and visible in the foreground. It resets according to the device's local calendar day.
 
-While the subscription is active, SWF One unlocks the virtual gamepad, gaming keyboard, customizable control layouts, recent-content resume and opt-in Android cloud backup of supported play-setup data.
+## Subscriber benefit
 
-Compatibility varies by SWF title. A subscription unlocks SWF One's tools; it does not guarantee that every third-party SWF will run correctly or that an external site will remain available.
+While a subscription is active, SWF One provides unlimited gameplay time. The subscription does not gate individual controls or app features.
+
+Compatibility varies by SWF title. A subscription removes SWF One's daily time limit; it does not guarantee that every third-party SWF will run correctly or that an external site will remain available.
 
 ## Price, billing and renewal
 
-The U.S. base prices are US$2.99 per month and US$19.99 per year. Google Play shows the final price, currency, tax treatment and billing period applicable to the user's Play country before purchase. The displayed Google Play price controls.
+The U.S. base prices are US$2.99 per month and US$19.99 per year. Google Play geo-prices the plans and shows the final price, currency, tax treatment and billing period applicable to the user's Play country before purchase. The displayed Google Play price controls.
 
 Payment is charged to the user's Google Play account when the purchase is confirmed. The subscription automatically renews for the same period unless canceled before the renewal time shown by Google Play. Google Play processes payments and any applicable refunds.
 
@@ -36,7 +38,7 @@ Cancel at any time in Google Play:
 3. Open **Payments & subscriptions** and then **Subscriptions**.
 4. Select **SWF One** and follow the cancellation steps.
 
-Cancellation stops future renewal. Paid features normally remain available until the end of the paid period shown by Google Play. Canceling does not itself refund the current period. Users can also open **Manage subscription** inside SWF One after purchase.
+Cancellation stops future renewal. Unlimited play normally remains available until the end of the paid period shown by Google Play. Canceling does not itself refund the current period. Users can also open **Manage subscription** inside SWF One after purchase.
 
 ## Restore
 
