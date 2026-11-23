@@ -177,6 +177,42 @@ Deposit Exception Checker is a paid, read-only control service for supported Qui
 
 Barber Simulator: ASMR Haircut for Windows and macOS is an account-free, local-first single-player game with no advertising, behavioural analytics, tracking, developer-operated cloud service, or third-party crash-reporting SDK. Progress and settings remain on the device unless the player uses an optional platform backup or cloud-save service.
 
+## Ember Caravan: Idle RPG
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/ember-caravan/privacy/)
+
+Ember Caravan: Idle RPG for Android (Huawei AppGallery) is an idle adventure where a lone guard escorts a caravan along a dusk road. It is account-free and has no in-app purchases; progress stays on the device. It shows one non-personalised banner advertisement through Huawei Petal Ads.
+
+## Kinship Grove: Monster RPG
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/kinship-grove/privacy/)
+
+Kinship Grove: Monster RPG for Android (Huawei AppGallery) is a creature-raising game where you grow and evolve a family of grove spirits. It is account-free and has no in-app purchases; progress stays on the device. It shows one non-personalised banner advertisement through Huawei Petal Ads.
+
+## Citadel Orders: Squad RPG
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/citadel-orders/privacy/)
+
+Citadel Orders: Squad RPG for Android (Huawei AppGallery) is a squad game where you lead an order of knights through a dungeon and a daily siege. It is account-free and has no in-app purchases; progress stays on the device. It shows one non-personalised banner advertisement through Huawei Petal Ads.
+
+## Wandering Arts: Fantasy RPG
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/wandering-arts/privacy/)
+
+Wandering Arts: Fantasy RPG for Android (Huawei AppGallery) is a journey game where a wanderer learns martial arts across misty mountains. It is account-free and has no in-app purchases; progress stays on the device. It shows one non-personalised banner advertisement through Huawei Petal Ads.
+
+## Sablewave Patrol: Sci-Fi RPG
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/sablewave-patrol/privacy/)
+
+Sablewave Patrol: Sci-Fi RPG for Android (Huawei AppGallery) is a tactical squad game where a coastal patrol picks cover and clears missions. It is account-free and has no in-app purchases; progress stays on the device. It shows one non-personalised banner advertisement through Huawei Petal Ads.
+
+## Spirelure: Monster RPG
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/spirelure/privacy/)
+
+Spirelure: Monster RPG for Android (Huawei AppGallery) is a fishing-style game where a lure-keeper catches spirit creatures from a sea of mist. It is account-free and has no in-app purchases; progress stays on the device. It shows one non-personalised banner advertisement through Huawei Petal Ads.
+
 ## Contact
 
 For questions about a particular app, identify the app and platform when emailing [lrodeveloperr@gmail.com](mailto:lrodeveloperr@gmail.com). Do not send passwords, payment-card details or confidential operational records.
