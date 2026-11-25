@@ -68,6 +68,13 @@ Leasehold Ledger is a local-first iPhone and iPad app for reviewing UK leasehold
 
 HVAC Restock for iPhone and iPad is an account-free, local-first inventory utility with no advertising or behavioural analytics. Ten active inventory items are free; a one-time non-consumable purchase unlocks unlimited active items.
 
+## WorksBien Sports Games (Penalty Cup, Hoop Shot, Racket Rally, Batting Star, Halfpipe Hero)
+
+- [Privacy Policy](https://lrodeveloperr.github.io/privacy-policy/sports-games/privacy/)
+- [Terms of Use](https://lrodeveloperr.github.io/privacy-policy/sports-games/terms/)
+
+Five HUAWEI Quick Games (HTML5) by WorksBien Studios Inc. Players sign in with HUAWEI ID; progress stays on the device; non-personalised Huawei Petal Ads; optional HUAWEI In-App Purchases.
+
 ## Powder Run
 
 - [Powder Run legal and support overview](https://lrodeveloperr.github.io/privacy-policy/powder-run/)
